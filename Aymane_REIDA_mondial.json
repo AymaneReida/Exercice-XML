@@ -1,0 +1,7679 @@
+
+        
+        [
+        
+            {
+            "pays" : "Albania",
+           "capital" : "cty-Albania-Tirane",
+            "population" : "2821977",
+           "superficie" : "28750",
+            "religions" : {
+               
+                   "Muslim" :"58.8"
+                   ,
+                   "Catholic" :"10"
+                   ,
+                   "Christian Orthodox" :"6.8"
+                   ,
+                   "Protestant" :"0.1"
+                   
+            },
+            "ville" : {
+                "Tirana"
+                ,
+                "Shkodër"
+                ,
+                "Durrës"
+                ,
+                "Vlorë"
+                ,
+                "Elbasan"
+                ,
+                "Korçë"
+                
+            },
+            "frontières" : {
+            
+                "GR"
+                ,
+                "MK"
+                ,
+                "MNE"
+                ,
+                "KOS"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Greece",
+           "capital" : "cty-Greece-Athens",
+            "population" : "10816286",
+           "superficie" : "131940",
+            "religions" : {
+               
+                   "Christian Orthodox" :"91"
+                   ,
+                   "Catholic" :"2"
+                   ,
+                   "Protestant" :"0.3"
+                   ,
+                   "Muslim" :"2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AL"
+                ,
+                "MK"
+                ,
+                "BG"
+                ,
+                "TR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Cyprus",
+           "capital" : "cty-Cyprus-Nicosia",
+            "population" : "1133803",
+           "superficie" : "9251",
+            "religions" : {
+               
+                   "Christian Orthodox" :"69.6"
+                   ,
+                   "Muslim" :"25.3"
+                   ,
+                   "Catholic" :"3"
+                   ,
+                   "Protestant" :"2"
+                   
+            },
+            "ville" : {
+                "Lefkosia"
+                ,
+                "Larnaka"
+                ,
+                "Lemesos"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "North Macedonia",
+           "capital" : "cty-Macedonia-Skopje",
+            "population" : "2059794",
+           "superficie" : "25333",
+            "religions" : {
+               
+                   "Christian Orthodox" :"64.8"
+                   ,
+                   "Muslim" :"33.3"
+                   ,
+                   "Catholic" :"0.2"
+                   
+            },
+            "ville" : {
+                "Skopje"
+                ,
+                "Kumanovo"
+                
+            },
+            "frontières" : {
+            
+                "AL"
+                ,
+                "GR"
+                ,
+                "SRB"
+                ,
+                "KOS"
+                ,
+                "BG"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Serbia",
+           "capital" : "city-Belgrade-SRB-SRB",
+            "population" : "7120666",
+           "superficie" : "77474",
+            "religions" : {
+               
+                   "Christian Orthodox" :"84.5"
+                   ,
+                   "Catholic" :"5.4"
+                   ,
+                   "Muslim" :"3"
+                   ,
+                   "Protestant" :"1"
+                   
+            },
+            "ville" : {
+                "Beograd"
+                ,
+                "Novi Sad"
+                ,
+                "Niš"
+                
+            },
+            "frontières" : {
+            
+                "H"
+                ,
+                "RO"
+                ,
+                "BG"
+                ,
+                "MK"
+                ,
+                "HR"
+                ,
+                "BIH"
+                ,
+                "MNE"
+                ,
+                "KOS"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Montenegro",
+           "capital" : "city-Podgorica-MNE-MNE",
+            "population" : "620029",
+           "superficie" : "14026",
+            "religions" : {
+               
+                   "Christian Orthodox" :"72.1"
+                   ,
+                   "Muslim" :"19.1"
+                   ,
+                   "Catholic" :"3.4"
+                   ,
+                   "Protestant" :"0.1"
+                   
+            },
+            "ville" : {
+                "Podgorica"
+                
+            },
+            "frontières" : {
+            
+                "HR"
+                ,
+                "SRB"
+                ,
+                "BIH"
+                ,
+                "AL"
+                ,
+                "KOS"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Kosovo",
+           "capital" : "city-Pristina-KOS-KOS",
+            "population" : "1733872",
+           "superficie" : "10887",
+            "religions" : {
+               
+                   "Muslim" :"95.6"
+                   ,
+                   "Catholic" :"2.2"
+                   ,
+                   "Christian Orthodox" :"1.5"
+                   
+            },
+            "ville" : {
+                "Prishtine"
+                
+            },
+            "frontières" : {
+            
+                "MNE"
+                ,
+                "SRB"
+                ,
+                "MK"
+                ,
+                "AL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Andorra",
+           "capital" : "cty-Andorra-Andorra-la-Vella",
+            "population" : "78115",
+           "superficie" : "450",
+            "religions" : {
+               
+                   "Catholic" :"90.1"
+                   ,
+                   "Protestant" :"2.1"
+                   ,
+                   "Muslim" :"3"
+                   
+            },
+            "ville" : {
+                "Andorra la Vella"
+                
+            },
+            "frontières" : {
+            
+                "F"
+                ,
+                "E"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "France",
+           "capital" : "cty-France-Paris",
+            "population" : "64300821",
+           "superficie" : "547030",
+            "religions" : {
+               
+                   "Catholic" :"57.5"
+                   ,
+                   "Muslim" :"9"
+                   ,
+                   "Protestant" :"3"
+                   ,
+                   "Christian Orthodox" :"0.4"
+                   ,
+                   "Jewish" :"0.8"
+                   ,
+                   "Buddhist" :"0.6"
+                   ,
+                   "Hindu" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AND"
+                ,
+                "E"
+                ,
+                "D"
+                ,
+                "I"
+                ,
+                "CH"
+                ,
+                "B"
+                ,
+                "L"
+                ,
+                "MC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Spain",
+           "capital" : "cty-Spain-Madrid",
+            "population" : "46815916",
+           "superficie" : "504750",
+            "religions" : {
+               
+                   "Catholic" :"68.9"
+                   ,
+                   "Muslim" :"4.1"
+                   ,
+                   "Protestant" :"2.6"
+                   ,
+                   "Christian Orthodox" :"2"
+                   ,
+                   "Jehovas Witnesses" :"0.25"
+                   ,
+                   "Jewish" :"0.14"
+                   ,
+                   "Mormon" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AND"
+                ,
+                "F"
+                ,
+                "GBZ"
+                ,
+                "P"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Czech Republic",
+           "capital" : "cty-Czech-2",
+            "population" : "10562214",
+           "superficie" : "78703",
+            "religions" : {
+               
+                   "Catholic" :"10.3"
+                   ,
+                   "Protestant" :"0.8"
+                   ,
+                   "Muslim" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "A"
+                ,
+                "D"
+                ,
+                "SK"
+                ,
+                "PL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Slovakia",
+           "capital" : "cty-Slovakia-Bratislava",
+            "population" : "5397036",
+           "superficie" : "48845",
+            "religions" : {
+               
+                   "Catholic" :"65.8"
+                   ,
+                   "Protestant" :"8.9"
+                   ,
+                   "Christian Orthodox" :"0.9"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "A"
+                ,
+                "CZ"
+                ,
+                "H"
+                ,
+                "PL"
+                ,
+                "UA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Germany",
+           "capital" : "cty-Germany-Berlin",
+            "population" : "82521653",
+           "superficie" : "356910",
+            "religions" : {
+               
+                   "Catholic" :"28.5"
+                   ,
+                   "Protestant" :"27.5"
+                   ,
+                   "Christian Orthodox" :"2"
+                   ,
+                   "Muslim" :"6.5"
+                   ,
+                   "Buddhist" :"0.3"
+                   ,
+                   "Jewish" :"0.25"
+                   ,
+                   "Jehovas Witnesses" :"0.2"
+                   ,
+                   "Hindu" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "F"
+                ,
+                "A"
+                ,
+                "CZ"
+                ,
+                "CH"
+                ,
+                "PL"
+                ,
+                "B"
+                ,
+                "L"
+                ,
+                "NL"
+                ,
+                "DK"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Hungary",
+           "capital" : "cty-Hungary-Budapest",
+            "population" : "9937628",
+           "superficie" : "93030",
+            "religions" : {
+               
+                   "Catholic" :"39.0"
+                   ,
+                   "Protestant" :"13.8"
+                   ,
+                   "Christian Orthodox" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "SRB"
+                ,
+                "A"
+                ,
+                "SK"
+                ,
+                "SLO"
+                ,
+                "UA"
+                ,
+                "HR"
+                ,
+                "RO"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Italy",
+           "capital" : "cty-Italy-Rome",
+            "population" : "59433744",
+           "superficie" : "301230",
+            "religions" : {
+               
+                   "Catholic" :"71.1"
+                   ,
+                   "Christian Orthodox" :"2.5"
+                   ,
+                   "Protestant" :"2.9"
+                   ,
+                   "Jehovas Witnesses" :"0.4"
+                   ,
+                   "Muslim" :"3.7"
+                   ,
+                   "Sikh" :"0.2"
+                   ,
+                   "Hindu" :"0.2"
+                   ,
+                   "Buddhist" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "F"
+                ,
+                "A"
+                ,
+                "SLO"
+                ,
+                "CH"
+                ,
+                "V"
+                ,
+                "RSM"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Switzerland",
+           "capital" : "cty-Switzerland-5",
+            "population" : "8139631",
+           "superficie" : "41290",
+            "religions" : {
+               
+                   "Catholic" :"37.2"
+                   ,
+                   "Protestant" :"27.2"
+                   ,
+                   "Christian Orthodox" :"2.3"
+                   ,
+                   "Muslim" :"5.1"
+                   ,
+                   "Buddhist" :"0.5"
+                   ,
+                   "Hindu" :"0.6"
+                   ,
+                   "Jewish" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "F"
+                ,
+                "A"
+                ,
+                "D"
+                ,
+                "I"
+                ,
+                "FL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Liechtenstein",
+           "capital" : "cty-Liechtenstein-Vaduz",
+            "population" : "36149",
+           "superficie" : "160",
+            "religions" : {
+               
+                   "Catholic" :"75.9"
+                   ,
+                   "Protestant" :"8.5"
+                   ,
+                   "Christian Orthodox" :"1.1"
+                   ,
+                   "Muslim" :"5.4"
+                   
+            },
+            "ville" : {
+                "Vaduz"
+                
+            },
+            "frontières" : {
+            
+                "A"
+                ,
+                "CH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Austria",
+           "capital" : "cty-Austria-Vienna",
+            "population" : "8499759",
+           "superficie" : "83850",
+            "religions" : {
+               
+                   "Catholic" :"56.9"
+                   ,
+                   "Christian Orthodox" :"4.4"
+                   ,
+                   "Protestant" :"3.3"
+                   ,
+                   "Muslim" :"8.0"
+                   ,
+                   "Buddhist" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CZ"
+                ,
+                "D"
+                ,
+                "H"
+                ,
+                "I"
+                ,
+                "FL"
+                ,
+                "SK"
+                ,
+                "SLO"
+                ,
+                "CH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Estonia",
+           "capital" : "cty-Estonia-Tallinn",
+            "population" : "1294455",
+           "superficie" : "45100",
+            "religions" : {
+               
+                   "Christian Orthodox" :"16.2"
+                   ,
+                   "Protestant" :"10.9"
+                   ,
+                   "Catholic" :"0.4"
+                   ,
+                   "Jehovas Witnesses" :"0.4"
+                   
+            },
+            "ville" : {
+                "Tallinn"
+                ,
+                "Tartu"
+                
+            },
+            "frontières" : {
+            
+                "LV"
+                ,
+                "R"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Latvia",
+           "capital" : "cty-Latvia-Riga",
+            "population" : "2201196",
+           "superficie" : "64100",
+            "religions" : {
+               
+                   "Protestant" :"36.2"
+                   ,
+                   "Catholic" :"19.5"
+                   ,
+                   "Christian Orthodox" :"19.1"
+                   
+            },
+            "ville" : {
+                "Rīga"
+                
+            },
+            "frontières" : {
+            
+                "BY"
+                ,
+                "LT"
+                ,
+                "R"
+                ,
+                "EST"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Lithuania",
+           "capital" : "cty-Lithuania-1",
+            "population" : "2979310",
+           "superficie" : "65200",
+            "religions" : {
+               
+                   "Catholic" :"77.2"
+                   ,
+                   "Christian Orthodox" :"4.9"
+                   ,
+                   "Protestant" :"0.8"
+                   
+            },
+            "ville" : {
+                "Vilnius"
+                ,
+                "Kaunas"
+                ,
+                "Klaipeda"
+                
+            },
+            "frontières" : {
+            
+                "BY"
+                ,
+                "LV"
+                ,
+                "PL"
+                ,
+                "R"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Belarus",
+           "capital" : "cty-Belarus-Minsk",
+            "population" : "9460692",
+           "superficie" : "207600",
+            "religions" : {
+               
+                   "Christian Orthodox" :"48.3"
+                   ,
+                   "Catholic" :"7.1"
+                   ,
+                   "Protestant" :"0.5"
+                   ,
+                   "Muslim" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "LV"
+                ,
+                "LT"
+                ,
+                "PL"
+                ,
+                "UA"
+                ,
+                "R"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Poland",
+           "capital" : "cty-PL-Warsaw",
+            "population" : "38533789",
+           "superficie" : "312683",
+            "religions" : {
+               
+                   "Catholic" :"85.9"
+                   ,
+                   "Christian Orthodox" :"1.3"
+                   ,
+                   "Protestant" :"0.4"
+                   ,
+                   "Jehovas Witnesses" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CZ"
+                ,
+                "D"
+                ,
+                "SK"
+                ,
+                "BY"
+                ,
+                "LT"
+                ,
+                "UA"
+                ,
+                "R"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Ukraine",
+           "capital" : "cty-Ukraine-Kiev",
+            "population" : "45633637",
+           "superficie" : "603700",
+            "religions" : {
+               
+                   "Christian Orthodox" :"67.3"
+                   ,
+                   "Catholic" :"10.2"
+                   ,
+                   "Protestant" :"2.2"
+                   ,
+                   "Muslim" :"1.1"
+                   ,
+                   "Jewish" :"0.2"
+                   ,
+                   "Hindu" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "H"
+                ,
+                "SK"
+                ,
+                "BY"
+                ,
+                "PL"
+                ,
+                "R"
+                ,
+                "RO"
+                ,
+                "MD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Russia",
+           "capital" : "cty-Russia-Moscow",
+            "population" : "143666931",
+           "superficie" : "17075200",
+            "religions" : {
+               
+                   "Christian Orthodox" :"42.7"
+                   ,
+                   "Protestant" :"0.2"
+                   ,
+                   "Catholic" :"0.1"
+                   ,
+                   "Muslim" :"6.5"
+                   ,
+                   "Buddhist" :"0.5"
+                   ,
+                   "Jewish" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "BY"
+                ,
+                "LV"
+                ,
+                "LT"
+                ,
+                "PL"
+                ,
+                "UA"
+                ,
+                "EST"
+                ,
+                "SF"
+                ,
+                "N"
+                ,
+                "CN"
+                ,
+                "GE"
+                ,
+                "AZ"
+                ,
+                "KZ"
+                ,
+                "KP"
+                ,
+                "MNG"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Belgium",
+           "capital" : "cty-Belgium-Brussels",
+            "population" : "11099554",
+           "superficie" : "30510",
+            "religions" : {
+               
+                   "Catholic" :"52.9"
+                   ,
+                   "Protestant" :"2.1"
+                   ,
+                   "Christian Orthodox" :"1.6"
+                   ,
+                   "Muslim" :"6.8"
+                   ,
+                   "Jewish" :"0.4"
+                   ,
+                   "Buddhist" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "F"
+                ,
+                "D"
+                ,
+                "L"
+                ,
+                "NL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Luxembourg",
+           "capital" : "cty-Luxembourg-Luxembourg",
+            "population" : "524853",
+           "superficie" : "2586",
+            "religions" : {
+               
+                   "Catholic" :"68.7"
+                   ,
+                   "Protestant" :"3.7"
+                   ,
+                   "Muslim" :"2.3"
+                   ,
+                   "Jewish" :"0.6"
+                   
+            },
+            "ville" : {
+                "Luxembourg"
+                
+            },
+            "frontières" : {
+            
+                "F"
+                ,
+                "D"
+                ,
+                "B"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Netherlands",
+           "capital" : "cty-Netherlands-Amsterdam",
+            "population" : "16843181",
+           "superficie" : "37330",
+            "religions" : {
+               
+                   "Catholic" :"23.6"
+                   ,
+                   "Protestant" :"14.9"
+                   ,
+                   "Muslim" :"5.1"
+                   ,
+                   "Hindu" :"1.3"
+                   ,
+                   "Buddhist" :"1.0"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "D"
+                ,
+                "B"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Slovenia",
+           "capital" : "cty-Slovenia-Ljubljana",
+            "population" : "2058821",
+           "superficie" : "20256",
+            "religions" : {
+               
+                   "Catholic" :"57.8"
+                   ,
+                   "Christian Orthodox" :"2.2"
+                   ,
+                   "Protestant" :"0.9"
+                   ,
+                   "Muslim" :"2.4"
+                   
+            },
+            "ville" : {
+                "Ljubljana"
+                ,
+                "Maribor"
+                
+            },
+            "frontières" : {
+            
+                "A"
+                ,
+                "H"
+                ,
+                "I"
+                ,
+                "HR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Croatia",
+           "capital" : "cty-Croatia-1",
+            "population" : "4290612",
+           "superficie" : "56538",
+            "religions" : {
+               
+                   "Catholic" :"86.3"
+                   ,
+                   "Christian Orthodox" :"4.4"
+                   ,
+                   "Protestant" :"0.3"
+                   ,
+                   "Muslim" :"1.5"
+                   
+            },
+            "ville" : {
+                "Zagreb"
+                ,
+                "Split"
+                ,
+                "Rijeka"
+                ,
+                "Osijek"
+                ,
+                "Zadar"
+                
+            },
+            "frontières" : {
+            
+                "SRB"
+                ,
+                "MNE"
+                ,
+                "H"
+                ,
+                "SLO"
+                ,
+                "BIH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bosnia and Herzegovina",
+           "capital" : "cty-BIH-1",
+            "population" : "3791622",
+           "superficie" : "51233",
+            "religions" : {
+               
+                   "Muslim" :"50.7"
+                   ,
+                   "Christian Orthodox" :"30.7"
+                   ,
+                   "Catholic" :"15.2"
+                   ,
+                   "Protestant" :"4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "SRB"
+                ,
+                "MNE"
+                ,
+                "HR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bulgaria",
+           "capital" : "cty-Bulgaria-1",
+            "population" : "7351234",
+           "superficie" : "110910",
+            "religions" : {
+               
+                   "Christian Orthodox" :"59.4"
+                   ,
+                   "Protestant" :"0.9"
+                   ,
+                   "Catholic" :"0.7"
+                   ,
+                   "Muslim" :"7.8"
+                   ,
+                   "Jewish" :"0.8"
+                   
+            },
+            "ville" : {
+                "Sofia"
+                ,
+                "Plovdiv"
+                ,
+                "Varna"
+                ,
+                "Burgas"
+                ,
+                "Ruse"
+                ,
+                "Stara Zagora"
+                
+            },
+            "frontières" : {
+            
+                "GR"
+                ,
+                "MK"
+                ,
+                "SRB"
+                ,
+                "RO"
+                ,
+                "TR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Romania",
+           "capital" : "cty-Romania-2",
+            "population" : "20121641",
+           "superficie" : "237500",
+            "religions" : {
+               
+                   "Christian Orthodox" :"86.7"
+                   ,
+                   "Catholic" :"5.6"
+                   ,
+                   "Protestant" :"5.3"
+                   ,
+                   "Muslim" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "SRB"
+                ,
+                "H"
+                ,
+                "UA"
+                ,
+                "BG"
+                ,
+                "MD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Denmark",
+           "capital" : "cty-Denmark-Copenhagen",
+            "population" : "5678348",
+           "superficie" : "43070",
+            "religions" : {
+               
+                   "Protestant" :"74.7"
+                   ,
+                   "Christian Orthodox" :"1.7"
+                   ,
+                   "Catholic" :"1.3"
+                   ,
+                   "Muslim" :"5.5"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "D"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Iceland",
+           "capital" : "cty-Iceland-Reykjavik",
+            "population" : "332529",
+           "superficie" : "103000",
+            "religions" : {
+               
+                   "Protestant" :"74"
+                   ,
+                   "Catholic" :"3.9"
+                   
+            },
+            "ville" : {
+                "Reykjavik"
+                ,
+                "Keflavik"
+                ,
+                "Hafnarfjordur"
+                ,
+                "Akureyri"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Faroe Islands",
+           "capital" : "cty-Faroe-Islands-Torshavn",
+            "population" : "48346",
+           "superficie" : "1400",
+            "religions" : {
+               
+                   "Protestant" :"92"
+                   ,
+                   "Buddhist" :"0.2"
+                   
+            },
+            "ville" : {
+                "Tórshavn"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Ireland",
+           "capital" : "cty-Ireland-Dublin",
+            "population" : "4588252",
+           "superficie" : "70280",
+            "religions" : {
+               
+                   "Catholic" :"78.3"
+                   ,
+                   "Protestant" :"4.2"
+                   ,
+                   "Christian Orthodox" :"1.3"
+                   ,
+                   "Muslim" :"1.3"
+                   ,
+                   "Hindu" :"0.3"
+                   
+            },
+            "ville" : {
+                "Dublin"
+                ,
+                "Cork"
+                ,
+                "Galway"
+                ,
+                "Limerick"
+                
+            },
+            "frontières" : {
+            
+                "GB"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Finland",
+           "capital" : "cty-Finland-Helsinki",
+            "population" : "5513130",
+           "superficie" : "337030",
+            "religions" : {
+               
+                   "Protestant" :"69.8"
+                   ,
+                   "Christian Orthodox" :"1.1"
+                   ,
+                   "Muslim" :"2.7"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "N"
+                ,
+                "S"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Norway",
+           "capital" : "cty-Norway-Oslo",
+            "population" : "5051275",
+           "superficie" : "324220",
+            "religions" : {
+               
+                   "Protestant" :"70.6"
+                   ,
+                   "Catholic" :"3"
+                   ,
+                   "Muslim" :"3.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "SF"
+                ,
+                "S"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Sweden",
+           "capital" : "cty-Sweden-Stockholm",
+            "population" : "9555893",
+           "superficie" : "449964",
+            "religions" : {
+               
+                   "Protestant" :"64.8"
+                   ,
+                   "Christian Orthodox" :"1.5"
+                   ,
+                   "Catholic" :"1.2"
+                   ,
+                   "Muslim" :"8.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "SF"
+                ,
+                "N"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Monaco",
+           "capital" : "cty-Monaco-Monaco",
+            "population" : "36845",
+           "superficie" : "1.9",
+            "religions" : {
+               
+                   "Catholic" :"77"
+                   ,
+                   "Protestant" :"3.2"
+                   ,
+                   "Christian Orthodox" :"1.9"
+                   ,
+                   "Jewish" :"2.5"
+                   ,
+                   "Muslim" :"0.9"
+                   
+            },
+            "ville" : {
+                "Monaco"
+                
+            },
+            "frontières" : {
+            
+                "F"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Vatican City",
+           "capital" : "cty-Holy-See-Vatican-City",
+            "population" : "826",
+           "superficie" : "0.44",
+            "religions" : {
+               
+                   "Catholic" :"100"
+                   
+            },
+            "ville" : {
+                "Vatican City"
+                
+            },
+            "frontières" : {
+            
+                "I"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Ceuta",
+           "capital" : "cty-Ceuta-Ceuta",
+            "population" : "82376",
+           "superficie" : "18",
+            "religions" : {
+               
+                   "Catholic" :"68"
+                   ,
+                   "Muslim" :"28"
+                   
+            },
+            "ville" : {
+                "Ceuta"
+                
+            },
+            "frontières" : {
+            
+                "MA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Melilla",
+           "capital" : "cty-Melilla-Melilla",
+            "population" : "78476",
+           "superficie" : "12",
+            "religions" : {
+               
+                   "Catholic" :"40"
+                   ,
+                   "Muslim" :"50"
+                   ,
+                   "Jewish" :"1"
+                   
+            },
+            "ville" : {
+                "Melilla"
+                
+            },
+            "frontières" : {
+            
+                "MA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "San Marino",
+           "capital" : "cty-San-Marino-San-Marino",
+            "population" : "32440",
+           "superficie" : "60",
+            "religions" : {
+               
+                   "Catholic" :"97.2"
+                   ,
+                   "Protestant" :"1.1"
+                   ,
+                   "Jewish" :"0.1"
+                   
+            },
+            "ville" : {
+                "San Marino"
+                
+            },
+            "frontières" : {
+            
+                "I"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Malta",
+           "capital" : "cty-Malta-Valletta",
+            "population" : "475800",
+           "superficie" : "316",
+            "religions" : {
+               
+                   "Catholic" :"93.9"
+                   ,
+                   "Protestant" :"2"
+                   ,
+                   "Christian Orthodox" :"1.2"
+                   ,
+                   "Muslim" :"1"
+                   
+            },
+            "ville" : {
+                "Valletta"
+                ,
+                "Victoria"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Isle of Man",
+           "capital" : "cty-Man-Douglas",
+            "population" : "84497",
+           "superficie" : "588",
+            "religions" : {
+               
+            },
+            "ville" : {
+                "Douglas"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Moldova",
+           "capital" : "cty-Moldova-Chisinau",
+            "population" : "3473900",
+           "superficie" : "33700",
+            "religions" : {
+               
+                   "Christian Orthodox" :"93.5"
+                   ,
+                   "Protestant" :"1.9"
+                   ,
+                   "Catholic" :"0.15"
+                   
+            },
+            "ville" : {
+                "Chişinău"
+                ,
+                "Tiraspol"
+                ,
+                "Bălţi"
+                
+            },
+            "frontières" : {
+            
+                "UA"
+                ,
+                "RO"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Portugal",
+           "capital" : "cty-Portugal-Lisbon",
+            "population" : "10561614",
+           "superficie" : "92080",
+            "religions" : {
+               
+                   "Catholic" :"81"
+                   ,
+                   "Protestant" :"3"
+                   ,
+                   "Christian Orthodox" :"1"
+                   ,
+                   "Muslim" :"0.6"
+                   ,
+                   "Buddhist" :"0.5"
+                   ,
+                   "Hindu" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "E"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Svalbard",
+           "capital" : "city-SVA-Longyearbyen",
+            "population" : "2667",
+           "superficie" : "62049",
+            "religions" : {
+               
+                   "Protestant" :"60"
+                   ,
+                   "Christian Orthodox" :"25"
+                   
+            },
+            "ville" : {
+                "Longyearbyen"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "United Kingdom",
+           "capital" : "cty-United-Kingdom-2",
+            "population" : "64105654",
+           "superficie" : "244820",
+            "religions" : {
+               
+                   "Protestant" :"42"
+                   ,
+                   "Catholic" :"8"
+                   ,
+                   "Christian Orthodox" :"0.7"
+                   ,
+                   "Muslim" :"4.4"
+                   ,
+                   "Hindu" :"1.3"
+                   ,
+                   "Sikh" :"0.7"
+                   ,
+                   "Jewish" :"0.4"
+                   ,
+                   "Buddhist" :"0.4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "IRL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Gibraltar",
+           "capital" : "cty-Gibraltar-Gibraltar",
+            "population" : "32577",
+           "superficie" : "6.5",
+            "religions" : {
+               
+                   "Catholic" :"72.1"
+                   ,
+                   "Protestant" :"7.7"
+                   ,
+                   "Muslim" :"3.6"
+                   ,
+                   "Jewish" :"2.4"
+                   ,
+                   "Hindu" :"2"
+                   
+            },
+            "ville" : {
+                "Gibraltar"
+                
+            },
+            "frontières" : {
+            
+                "E"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Guernsey",
+           "capital" : "cty-Guernsey-Saint-Peter-Port",
+            "population" : "64540",
+           "superficie" : "194",
+            "religions" : {
+               
+            },
+            "ville" : {
+                "Saint Peter Port"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Jersey",
+           "capital" : "cty-Jersey-Saint-Helier",
+            "population" : "97857",
+           "superficie" : "117",
+            "religions" : {
+               
+                   "Catholic" :"25"
+                   ,
+                   "Protestant" :"25"
+                   
+            },
+            "ville" : {
+                "Saint Helier"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Armenia",
+           "capital" : "cty-Armenia-Yerevan",
+            "population" : "3026879",
+           "superficie" : "29800",
+            "religions" : {
+               
+                   "Christian Orthodox" :"92.6"
+                   ,
+                   "Catholic" :"0.5"
+                   ,
+                   "Protestant" :"1"
+                   ,
+                   "Yazidi" :"1.2"
+                   
+            },
+            "ville" : {
+                "Yerevan"
+                
+            },
+            "frontières" : {
+            
+                "TR"
+                ,
+                "IR"
+                ,
+                "GE"
+                ,
+                "AZ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Georgia",
+           "capital" : "cty-Georgia-1",
+            "population" : "4010000",
+           "superficie" : "69700",
+            "religions" : {
+               
+                   "Christian Orthodox" :"86.3"
+                   ,
+                   "Muslim" :"10.7"
+                   ,
+                   "Catholic" :"0.5"
+                   ,
+                   "Yazidi" :"0.3"
+                   
+            },
+            "ville" : {
+                "Tbilisi"
+                ,
+                "Kutaisi"
+                ,
+                "Batumi"
+                
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "TR"
+                ,
+                "ARM"
+                ,
+                "AZ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Azerbaijan",
+           "capital" : "cty-Azerbaijan-Baku",
+            "population" : "9356500",
+           "superficie" : "86600",
+            "religions" : {
+               
+                   "Muslim" :"96.9"
+                   ,
+                   "Christian Orthodox" :"3"
+                   
+            },
+            "ville" : {
+                "Baku"
+                ,
+                "Ganja"
+                ,
+                "Sumgayit"
+                
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "TR"
+                ,
+                "IR"
+                ,
+                "ARM"
+                ,
+                "GE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Turkey",
+           "capital" : "cty-Turkey-Ankara",
+            "population" : "75627384",
+           "superficie" : "780580",
+            "religions" : {
+               
+                   "Muslim" :"98.3"
+                   ,
+                   "Christian Orthodox" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "GR"
+                ,
+                "BG"
+                ,
+                "IR"
+                ,
+                "ARM"
+                ,
+                "GE"
+                ,
+                "AZ"
+                ,
+                "IRQ"
+                ,
+                "SYR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Lebanon",
+           "capital" : "cty-Lebanon-Beirut",
+            "population" : "4341092",
+           "superficie" : "10400",
+            "religions" : {
+               
+                   "Muslim" :"55.9"
+                   ,
+                   "Catholic" :"27.1"
+                   ,
+                   "Christian Orthodox" :"10"
+                   ,
+                   "Protestant" :"0.5"
+                   ,
+                   "Druze" :"5.7"
+                   
+            },
+            "ville" : {
+                "Bayrūt"
+                
+            },
+            "frontières" : {
+            
+                "IL"
+                ,
+                "SYR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "West Bank",
+           "capital" : "cty-Westbank-Ramallah",
+            "population" : "2881687",
+           "superficie" : "5655",
+            "religions" : {
+               
+                   "Muslim" :"82"
+                   ,
+                   "Jewish" :"13"
+                   ,
+                   "Christian Orthodox" :"2"
+                   
+            },
+            "ville" : {
+                "Ramallah"
+                ,
+                "Nablus"
+                ,
+                "Al Khalil"
+                
+            },
+            "frontières" : {
+            
+                "IL"
+                ,
+                "JOR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Gaza Strip",
+           "capital" : "",
+            "population" : "1899291",
+           "superficie" : "365",
+            "religions" : {
+               
+                   "Muslim" :"99.8"
+                   
+            },
+            "ville" : {
+                "Gaza"
+                
+            },
+            "frontières" : {
+            
+                "IL"
+                ,
+                "ET"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Israel",
+           "capital" : "cty-Israel-Jerusalem",
+            "population" : "7420368",
+           "superficie" : "22072",
+            "religions" : {
+               
+                   "Jewish" :"74.3"
+                   ,
+                   "Muslim" :"17.8"
+                   ,
+                   "Christian" :"1.9"
+                   ,
+                   "Druze" :"1.6"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "GAZA"
+                ,
+                "ET"
+                ,
+                "JOR"
+                ,
+                "SYR"
+                ,
+                "RL"
+                ,
+                "WB"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Syria",
+           "capital" : "cty-SYR-8",
+            "population" : "17070135",
+           "superficie" : "185180",
+            "religions" : {
+               
+                   "Muslim" :"87"
+                   ,
+                   "Christian Orthodox" :"8"
+                   ,
+                   "Catholic" :"1.6"
+                   ,
+                   "Druze" :"3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "TR"
+                ,
+                "IL"
+                ,
+                "IRQ"
+                ,
+                "JOR"
+                ,
+                "RL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Jordan",
+           "capital" : "cty-Jordan-Amman",
+            "population" : "9131712",
+           "superficie" : "89213",
+            "religions" : {
+               
+                   "Muslim" :"97.2"
+                   ,
+                   "Christian Orthodox" :"2"
+                   ,
+                   "Druze" :"0.5"
+                   ,
+                   "Buddhist" :"0.4"
+                   ,
+                   "Hindu" :"0.1"
+                   
+            },
+            "ville" : {
+                "Amman"
+                ,
+                "Zarqa"
+                ,
+                "Irbid"
+                
+            },
+            "frontières" : {
+            
+                "IL"
+                ,
+                "IRQ"
+                ,
+                "SA"
+                ,
+                "SYR"
+                ,
+                "WB"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Saudi Arabia",
+           "capital" : "cty-SA-6",
+            "population" : "27136977",
+           "superficie" : "1960582",
+            "religions" : {
+               
+                   "Muslim" :"100"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "IRQ"
+                ,
+                "JOR"
+                ,
+                "KWT"
+                ,
+                "OM"
+                ,
+                "UAE"
+                ,
+                "YE"
+                ,
+                "Q"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bahrain",
+           "capital" : "cty-Bahrain-Manama",
+            "population" : "1234571",
+           "superficie" : "620",
+            "religions" : {
+               
+                   "Muslim" :"70.3"
+                   ,
+                   "Christian Orthodox" :"14"
+                   ,
+                   "Hindu" :"9.8"
+                   ,
+                   "Buddhist" :"2.5"
+                   
+            },
+            "ville" : {
+                "Al Manāmah"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Qatar",
+           "capital" : "cty-Qatar-Doha",
+            "population" : "2404776",
+           "superficie" : "11000",
+            "religions" : {
+               
+                   "Muslim" :"67.7"
+                   ,
+                   "Catholic" :"12"
+                   ,
+                   "Protestant" :"0.6"
+                   ,
+                   "Hindu" :"13.8"
+                   ,
+                   "Buddhist" :"3.1"
+                   
+            },
+            "ville" : {
+                "Doha"
+                ,
+                "Al Rayyan"
+                
+            },
+            "frontières" : {
+            
+                "SA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "United Arab Emirates",
+           "capital" : "cty-United-Arab-Emirates-3",
+            "population" : "9121167",
+           "superficie" : "75581",
+            "religions" : {
+               
+                   "Muslim" :"76"
+                   ,
+                   "Catholic" :"9"
+                   ,
+                   "Christian Orthodox" :"2"
+                   ,
+                   "Protestant" :"1"
+                   ,
+                   "Hindu" :"6.6"
+                   ,
+                   "Buddhist" :"2"
+                   ,
+                   "Sikh" :"0.6"
+                   
+            },
+            "ville" : {
+                "Abu Dhabi"
+                ,
+                "Al Ain"
+                ,
+                "Dubai"
+                ,
+                "Al Sharjah"
+                
+            },
+            "frontières" : {
+            
+                "SA"
+                ,
+                "OM"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Oman",
+           "capital" : "cty-Oman-Muscat",
+            "population" : "4992364",
+           "superficie" : "212460",
+            "religions" : {
+               
+                   "Muslim" :"85.9"
+                   ,
+                   "Christian" :"6.5"
+                   ,
+                   "Hindu" :"5.5"
+                   ,
+                   "Buddhist" :"0.8"
+                   
+            },
+            "ville" : {
+                "Muscat"
+                ,
+                "As Seeb"
+                
+            },
+            "frontières" : {
+            
+                "SA"
+                ,
+                "UAE"
+                ,
+                "YE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Yemen",
+           "capital" : "cty-Yemen-Sanaa",
+            "population" : "24527000",
+           "superficie" : "527970",
+            "religions" : {
+               
+                   "Muslim" :"99.1"
+                   ,
+                   "Hindu" :"0.6"
+                   
+            },
+            "ville" : {
+                "Sanaa"
+                ,
+                "Aden"
+                ,
+                "Taizz"
+                ,
+                "al Hudaydah"
+                
+            },
+            "frontières" : {
+            
+                "SA"
+                ,
+                "OM"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Kuwait",
+           "capital" : "cty-Kuwait-Kuwait",
+            "population" : "2991580",
+           "superficie" : "17820",
+            "religions" : {
+               
+                   "Muslim" :"74.36"
+                   ,
+                   "Catholic" :"5"
+                   ,
+                   "Christian Orthodox" :"7"
+                   ,
+                   "Protestant" :"0.5"
+                   ,
+                   "Hindu" :"5"
+                   ,
+                   "Buddhist" :"3"
+                   
+            },
+            "ville" : {
+                "Al Kuwayt"
+                
+            },
+            "frontières" : {
+            
+                "IRQ"
+                ,
+                "SA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Iraq",
+           "capital" : "cty-Iraq-Baghdad",
+            "population" : "33330512",
+           "superficie" : "437072",
+            "religions" : {
+               
+                   "Muslim" :"97"
+                   ,
+                   "Christian" :"1"
+                   ,
+                   "Yazidi" :"1.4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "TR"
+                ,
+                "IR"
+                ,
+                "JOR"
+                ,
+                "KWT"
+                ,
+                "SA"
+                ,
+                "SYR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Iran",
+           "capital" : "cty-Iran-Tehran",
+            "population" : "79926270",
+           "superficie" : "1648000",
+            "religions" : {
+               
+                   "Muslim" :"99.4"
+                   ,
+                   "Christian Orthodox" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "TR"
+                ,
+                "AFG"
+                ,
+                "PK"
+                ,
+                "TM"
+                ,
+                "ARM"
+                ,
+                "AZ"
+                ,
+                "IRQ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Afghanistan",
+           "capital" : "cty-Afghanistan-Kabul",
+            "population" : "26023100",
+           "superficie" : "647500",
+            "religions" : {
+               
+                   "Muslim" :"99"
+                   
+            },
+            "ville" : {
+                "Kabul"
+                ,
+                "Herat"
+                ,
+                "Kandahar"
+                ,
+                "Mazar-i-Sharif"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "IR"
+                ,
+                "PK"
+                ,
+                "TJ"
+                ,
+                "TM"
+                ,
+                "UZ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Turkmenistan",
+           "capital" : "cty-Turkmenistan-1",
+            "population" : "6550000",
+           "superficie" : "488100",
+            "religions" : {
+               
+                   "Muslim" :"91"
+                   ,
+                   "Christian Orthodox" :"6"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AFG"
+                ,
+                "IR"
+                ,
+                "UZ"
+                ,
+                "KZ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Uzbekistan",
+           "capital" : "cty-Uzbekistan-Tashkent",
+            "population" : "32120500",
+           "superficie" : "447400",
+            "religions" : {
+               
+                   "Muslim" :"88"
+                   ,
+                   "Christian Orthodox" :"9"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AFG"
+                ,
+                "TJ"
+                ,
+                "TM"
+                ,
+                "KZ"
+                ,
+                "KG"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Tajikistan",
+           "capital" : "cty-Tajikistan-2",
+            "population" : "8161100",
+           "superficie" : "143100",
+            "religions" : {
+               
+                   "Muslim" :"98"
+                   ,
+                   "Christian Orthodox" :"0.5"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AFG"
+                ,
+                "CN"
+                ,
+                "UZ"
+                ,
+                "KG"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Kyrgyzstan",
+           "capital" : "cty-Kyrgyzstan-Bishkek",
+            "population" : "6256700",
+           "superficie" : "198500",
+            "religions" : {
+               
+                   "Muslim" :"87.6"
+                   ,
+                   "Christian Orthodox" :"9.4"
+                   ,
+                   "Protestant" :"1.7"
+                   
+            },
+            "ville" : {
+                "Bishkek"
+                ,
+                "Osh"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "TJ"
+                ,
+                "UZ"
+                ,
+                "KZ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Kazakhstan",
+           "capital" : "cty-Kazakhstan-Astana",
+            "population" : "17165239",
+           "superficie" : "2717300",
+            "religions" : {
+               
+                   "Muslim" :"70.2"
+                   ,
+                   "Christian Orthodox" :"24"
+                   ,
+                   "Protestant" :"1"
+                   ,
+                   "Catholic" :"1"
+                   ,
+                   "Buddhist" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "CN"
+                ,
+                "TM"
+                ,
+                "UZ"
+                ,
+                "KG"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Mongolia",
+           "capital" : "cty-Mongolia-Ulaanbaatar",
+            "population" : "2754685",
+           "superficie" : "1565000",
+            "religions" : {
+               
+                   "Buddhist" :"53"
+                   ,
+                   "Muslim" :"3"
+                   ,
+                   "Protestant" :"1.5"
+                   ,
+                   "Catholic" :"0.5"
+                   ,
+                   "Mormon" :"0.5"
+                   
+            },
+            "ville" : {
+                "Ulaanbaatar"
+                
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "CN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Maldives",
+           "capital" : "cty-Maldives-Male",
+            "population" : "402071",
+           "superficie" : "300",
+            "religions" : {
+               
+                   "Muslim" :"98"
+                   
+            },
+            "ville" : {
+                "Male"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Pakistan",
+           "capital" : "cty-PK-4",
+            "population" : "207776954",
+           "superficie" : "803940",
+            "religions" : {
+               
+                   "Muslim" :"97"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "AFG"
+                ,
+                "CN"
+                ,
+                "IR"
+                ,
+                "IND"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "India",
+           "capital" : "cty-India-New-Delhi",
+            "population" : "1210854977",
+           "superficie" : "3287590",
+            "religions" : {
+               
+                   "Hindu" :"79.8"
+                   ,
+                   "Muslim" :"14.2"
+                   ,
+                   "Catholic" :"1.5"
+                   ,
+                   "Protestant" :"0.6"
+                   ,
+                   "Christian Orthodox" :"0.4"
+                   ,
+                   "Sikh" :"1.7"
+                   ,
+                   "Buddhist" :"0.7"
+                   ,
+                   "Jains" :"0.4"
+                   ,
+                   "Sarnaism" :"0.7"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "PK"
+                ,
+                "BD"
+                ,
+                "MYA"
+                ,
+                "BHT"
+                ,
+                "NEP"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Nepal",
+           "capital" : "cty-Nepal-Kathmandu",
+            "population" : "26494504",
+           "superficie" : "140800",
+            "religions" : {
+               
+                   "Hindu" :"81.3"
+                   ,
+                   "Buddhist" :"9.0"
+                   ,
+                   "Muslim" :"4.4"
+                   ,
+                   "Christian" :"1.4"
+                   
+            },
+            "ville" : {
+                "Kathmandu"
+                ,
+                "Pokhara"
+                ,
+                "Lalitpur"
+                ,
+                "Biratnagar"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "IND"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bhutan",
+           "capital" : "cty-Bhutan-Thimphu",
+            "population" : "754388",
+           "superficie" : "47000",
+            "religions" : {
+               
+                   "Buddhist" :"75.3"
+                   ,
+                   "Hindu" :"22.6"
+                   ,
+                   "Muslim" :"1"
+                   
+            },
+            "ville" : {
+                "Thimphu"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "IND"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bangladesh",
+           "capital" : "cty-BD-3",
+            "population" : "149772364",
+           "superficie" : "144000",
+            "religions" : {
+               
+                   "Muslim" :"89.5"
+                   ,
+                   "Hindu" :"8.5"
+                   ,
+                   "Buddhist" :"0.6"
+                   ,
+                   "Christian" :"0.4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "MYA"
+                ,
+                "IND"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Myanmar",
+           "capital" : "cty-Burma-NayPyiTaw",
+            "population" : "51419420",
+           "superficie" : "678500",
+            "religions" : {
+               
+                   "Buddhist" :"87.9"
+                   ,
+                   "Christian" :"6.2"
+                   ,
+                   "Muslim" :"4.3"
+                   ,
+                   "Hindu" :"0.5"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "BD"
+                ,
+                "IND"
+                ,
+                "LAO"
+                ,
+                "THA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Sri Lanka",
+           "capital" : "cty-Sri-Lanka-1",
+            "population" : "20263723",
+           "superficie" : "65610",
+            "religions" : {
+               
+                   "Buddhist" :"70.2"
+                   ,
+                   "Hindu" :"12.6"
+                   ,
+                   "Muslim" :"9.7"
+                   ,
+                   "Catholic" :"6.1"
+                   ,
+                   "Protestant" :"1.3"
+                   
+            },
+            "ville" : {
+                "Sri Jayawardhanapura"
+                ,
+                "Colombo"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "China",
+           "capital" : "cty-China-3",
+            "population" : "1427647786",
+           "superficie" : "9596960",
+            "religions" : {
+               
+                   "Buddhist" :"16"
+                   ,
+                   "Muslim" :"1.7"
+                   ,
+                   "Protestant" :"2.2"
+                   ,
+                   "Catholic" :"0.3"
+                   ,
+                   "Taoist" :"0.9"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "AFG"
+                ,
+                "PK"
+                ,
+                "TJ"
+                ,
+                "MYA"
+                ,
+                "IND"
+                ,
+                "NEP"
+                ,
+                "BHT"
+                ,
+                "LAO"
+                ,
+                "VN"
+                ,
+                "KZ"
+                ,
+                "KP"
+                ,
+                "KG"
+                ,
+                "MNG"
+                ,
+                "MACX"
+                ,
+                "HK"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Taiwan",
+           "capital" : "cty-Taiwan-Taipei",
+            "population" : "23571227",
+           "superficie" : "36179",
+            "religions" : {
+               
+                   "Buddhist" :"35.3"
+                   ,
+                   "Taoist" :"33.2"
+                   ,
+                   "Protestant" :"2.6"
+                   ,
+                   "Catholic" :"1.6"
+                   ,
+                   "Muslim" :"0.2"
+                   ,
+                   "Mormon" :"0.2"
+                   
+            },
+            "ville" : {
+                "Taipei"
+                ,
+                "New Taipei"
+                ,
+                "Changhua"
+                ,
+                "Hualien"
+                ,
+                "Pingtung"
+                ,
+                "Taitung"
+                ,
+                "Taoyuan"
+                ,
+                "Jhongli"
+                ,
+                "Chiayi"
+                ,
+                "Keelung"
+                ,
+                "Hsinchu"
+                ,
+                "Kaohsiung"
+                ,
+                "Taichung"
+                ,
+                "Tainan"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Hong Kong",
+           "capital" : "cty-Hongkong",
+            "population" : "7336585",
+           "superficie" : "1092",
+            "religions" : {
+               
+                   "Buddhist" :"27.9"
+                   ,
+                   "Protestant" :"6.7"
+                   ,
+                   "Catholic" :"5.3"
+                   ,
+                   "Muslim" :"4.2"
+                   ,
+                   "Hindu" :"1.4"
+                   ,
+                   "Sikh" :"0.2"
+                   
+            },
+            "ville" : {
+                "Hong Kong"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Macao",
+           "capital" : "cty-Macao-Macao",
+            "population" : "650834",
+           "superficie" : "16",
+            "religions" : {
+               
+                   "Buddhist" :"16.8"
+                   ,
+                   "Catholic" :"6.7"
+                   ,
+                   "Protestant" :"1"
+                   
+            },
+            "ville" : {
+                "Macao"
+                ,
+                "Taipa-Coloane"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "North Korea",
+           "capital" : "cty-North-Korea-2",
+            "population" : "24500520",
+           "superficie" : "120540",
+            "religions" : {
+               
+                   "Korean Shamanism" :"16"
+                   ,
+                   "Chendoism" :"13.5"
+                   ,
+                   "Buddhist" :"4.5"
+                   ,
+                   "Christian" :"1.7"
+                   
+            },
+            "ville" : {
+                "Pyongyang"
+                ,
+                "Hamhung-Hungnam"
+                ,
+                "Chongjin"
+                ,
+                "Nampho"
+                ,
+                "Sunchon"
+                ,
+                "Sinuiju"
+                ,
+                "Tanchon"
+                ,
+                "Wonsan"
+                ,
+                "Tokchon"
+                ,
+                "Kanggye"
+                ,
+                "Haeju"
+                ,
+                "Anju"
+                ,
+                "Kim Chaek"
+                ,
+                "Kusong"
+                ,
+                "Huichon"
+                ,
+                "Sinpho"
+                ,
+                "Kaesong"
+                ,
+                "Kaechon"
+                ,
+                "Sariwon"
+                
+            },
+            "frontières" : {
+            
+                "R"
+                ,
+                "CN"
+                ,
+                "ROK"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "South Korea",
+           "capital" : "cty-South-Korea-2",
+            "population" : "51269554",
+           "superficie" : "98480",
+            "religions" : {
+               
+                   "Protestant" :"19.7"
+                   ,
+                   "Buddhist" :"15.5"
+                   ,
+                   "Catholic" :"7.9"
+                   ,
+                   "Muslim" :"0.1"
+                   
+            },
+            "ville" : {
+                "Seoul"
+                ,
+                "Busan"
+                ,
+                "Daegu"
+                ,
+                "Incheon"
+                ,
+                "Gwangju"
+                ,
+                "Daejeon"
+                ,
+                "Ulsan"
+                ,
+                "Suwon"
+                ,
+                "Seongnam"
+                ,
+                "Jeonju"
+                ,
+                "Changwon"
+                ,
+                "Cheongju"
+                ,
+                "Jinju"
+                ,
+                "Mokpo"
+                ,
+                "Jeju"
+                ,
+                "Gunsan"
+                ,
+                "Chuncheon"
+                ,
+                "Yeosu"
+                ,
+                "Goyang"
+                ,
+                "Yongin"
+                ,
+                "Bucheon"
+                ,
+                "Ansan"
+                ,
+                "Anyang"
+                
+            },
+            "frontières" : {
+            
+                "KP"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Japan",
+           "capital" : "cty-Japan-Tokyo",
+            "population" : "127094745",
+           "superficie" : "377835",
+            "religions" : {
+               
+                   "Buddhist" :"35"
+                   ,
+                   "Shintoist" :"4"
+                   ,
+                   "Catholic" :"0.5"
+                   ,
+                   "Protestant" :"0.5"
+                   ,
+                   "Jehovas Witnesses" :"0.2"
+                   ,
+                   "Muslim" :"0.1"
+                   ,
+                   "Mormon" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Philippines",
+           "capital" : "cty-RP-13",
+            "population" : "100981437",
+           "superficie" : "299764",
+            "religions" : {
+               
+                   "Muslim" :"5.6"
+                   ,
+                   "Catholic" :"80.6"
+                   ,
+                   "Protestant" :"10.8"
+                   ,
+                   "Buddhist" :"2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Vietnam",
+           "capital" : "cty-Vietnam-Hanoi",
+            "population" : "88772900",
+           "superficie" : "329560",
+            "religions" : {
+               
+                   "Vietnamese Folk Religion" :"45.3"
+                   ,
+                   "Buddhist" :"12.2"
+                   ,
+                   "Catholic" :"6.8"
+                   ,
+                   "Cao Dai" :"4.8"
+                   ,
+                   "Protestant" :"1.5"
+                   ,
+                   "Hoa Hao" :"1.4"
+                   ,
+                   "Muslim" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "LAO"
+                ,
+                "K"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Cambodia",
+           "capital" : "cty-Cambodia-Phnom-Penh",
+            "population" : "15288489",
+           "superficie" : "181040",
+            "religions" : {
+               
+                   "Buddhist" :"92"
+                   ,
+                   "Muslim" :"1.6"
+                   ,
+                   "Christian" :"0.2"
+                   
+            },
+            "ville" : {
+                "Phnom Penh"
+                ,
+                "Battambang"
+                ,
+                "Siem Reap"
+                
+            },
+            "frontières" : {
+            
+                "LAO"
+                ,
+                "THA"
+                ,
+                "VN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Laos",
+           "capital" : "cty-Laos-Vientiane",
+            "population" : "6514432",
+           "superficie" : "236800",
+            "religions" : {
+               
+                   "Buddhist" :"64.7"
+                   ,
+                   "Christian" :"1.7"
+                   ,
+                   "Satsana Phi" :"31.5"
+                   
+            },
+            "ville" : {
+                "Vientiane"
+                
+            },
+            "frontières" : {
+            
+                "CN"
+                ,
+                "MYA"
+                ,
+                "THA"
+                ,
+                "K"
+                ,
+                "VN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Thailand",
+           "capital" : "cty-Thailand-Bangkok",
+            "population" : "65981659",
+           "superficie" : "514000",
+            "religions" : {
+               
+                   "Buddhist" :"95"
+                   ,
+                   "Muslim" :"3.8"
+                   ,
+                   "Christian" :"0.6"
+                   ,
+                   "Hindu" :"0.1"
+                   
+            },
+            "ville" : {
+                "Chiang Mai"
+                ,
+                "Nakhon Ratchasima"
+                ,
+                "Nakhon Sawan"
+                ,
+                "Bangkok"
+                ,
+                "Nonthaburi"
+                ,
+                "Khon Kaen"
+                ,
+                "Nakhon Si Thammarat"
+                ,
+                "Songkhla"
+                ,
+                "Samut Prakan"
+                ,
+                "Chon Buri"
+                ,
+                "Phuket"
+                
+            },
+            "frontières" : {
+            
+                "MYA"
+                ,
+                "MAL"
+                ,
+                "LAO"
+                ,
+                "K"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Malaysia",
+           "capital" : "cty-Malaysia-Kuala-Lumpur",
+            "population" : "27565821",
+           "superficie" : "329750",
+            "religions" : {
+               
+                   "Muslim" :"61.3"
+                   ,
+                   "Buddhist" :"19.8"
+                   ,
+                   "Christian" :"9.2"
+                   ,
+                   "Hindu" :"6.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "BRU"
+                ,
+                "THA"
+                ,
+                "RI"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Brunei",
+           "capital" : "cty-Brunei-Bandar-Seri-Begawan",
+            "population" : "393372",
+           "superficie" : "5770",
+            "religions" : {
+               
+                   "Muslim" :"67"
+                   ,
+                   "Buddhist" :"13"
+                   ,
+                   "Christian" :"10"
+                   
+            },
+            "ville" : {
+                "Bandar Seri Begawan"
+                
+            },
+            "frontières" : {
+            
+                "MAL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Singapore",
+           "capital" : "cty-Singapore-Singapore",
+            "population" : "5076700",
+           "superficie" : "632.6",
+            "religions" : {
+               
+                   "Buddhist" :"33.2"
+                   ,
+                   "Christian" :"18.8"
+                   ,
+                   "Muslim" :"14"
+                   ,
+                   "Taoist" :"10"
+                   ,
+                   "Hindu" :"5"
+                   
+            },
+            "ville" : {
+                "Singapore"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Indonesia",
+           "capital" : "cty-RI-11",
+            "population" : "252124458",
+           "superficie" : "1919440",
+            "religions" : {
+               
+                   "Muslim" :"87"
+                   ,
+                   "Catholic" :"3"
+                   ,
+                   "Protestant" :"7"
+                   ,
+                   "Buddhist" :"1"
+                   ,
+                   "Hindu" :"2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "MAL"
+                ,
+                "PNG"
+                ,
+                "TL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Timor-Leste",
+           "capital" : "city-Dili-TL-TL",
+            "population" : "1066582",
+           "superficie" : "15007",
+            "religions" : {
+               
+                   "Muslim" :"1"
+                   ,
+                   "Protestant" :"1"
+                   ,
+                   "Catholic" :"98"
+                   
+            },
+            "ville" : {
+                "Dili"
+                
+            },
+            "frontières" : {
+            
+                "RI"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Papua New Guinea",
+           "capital" : "cty-Papua-New-Guinea-Port-Moresby",
+            "population" : "7275324",
+           "superficie" : "461690",
+            "religions" : {
+               
+                   "Catholic" :"27"
+                   ,
+                   "Protestant" :"69.4"
+                   ,
+                   "Bahai" :"0.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RI"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Solomon Islands",
+           "capital" : "cty-Solomon-Islands-Honiara",
+            "population" : "515870",
+           "superficie" : "28450",
+            "religions" : {
+               
+                   "Protestant" :"73.4"
+                   ,
+                   "Catholic" :"19.6"
+                   
+            },
+            "ville" : {
+                "Honiara"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Vanuatu",
+           "capital" : "cty-Vanuatu-Port-Vila",
+            "population" : "236299",
+           "superficie" : "14760",
+            "religions" : {
+               
+                   "Protestant" :"70"
+                   ,
+                   "Catholic" :"13"
+                   
+            },
+            "ville" : {
+                "Port Vila"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "New Caledonia",
+           "capital" : "cty-New-Caledonia-Noumea",
+            "population" : "271407",
+           "superficie" : "19060",
+            "religions" : {
+               
+                   "Catholic" :"60"
+                   ,
+                   "Protestant" :"30"
+                   ,
+                   "Muslim" :"2.6"
+                   
+            },
+            "ville" : {
+                "Noumea"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Australia",
+           "capital" : "cty-Australia-8",
+            "population" : "23135281",
+           "superficie" : "7692024",
+            "religions" : {
+               
+                   "Catholic" :"22.6"
+                   ,
+                   "Protestant" :"23.1"
+                   ,
+                   "Muslim" :"2.6"
+                   ,
+                   "Buddhist" :"2.4"
+                   ,
+                   "Christian Orthodox" :"2.3"
+                   ,
+                   "Hindu" :"1.9"
+                   ,
+                   "Sikh" :"0.5"
+                   ,
+                   "Jewish" :"0.4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Christmas Island",
+           "capital" : "city-The-Settlement-XMAS-XMAS",
+            "population" : "1843",
+           "superficie" : "135",
+            "religions" : {
+               
+                   "Muslim" :"19.4"
+                   ,
+                   "Buddhist" :"18.3"
+                   ,
+                   "Catholic" :"8.8"
+                   ,
+                   "Protestant" :"6.5"
+                   
+            },
+            "ville" : {
+                "Flying Fish Cove"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Cocos Islands",
+           "capital" : "city-West-Island-COCO-COCO",
+            "population" : "544",
+           "superficie" : "14",
+            "religions" : {
+               
+                   "Muslim" :"75"
+                   ,
+                   "Protestant" :"3.5"
+                   ,
+                   "Catholic" :"2.2"
+                   
+            },
+            "ville" : {
+                "West Island"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Norfolk Island",
+           "capital" : "cty-NORF-Kingston",
+            "population" : "1748",
+           "superficie" : "34.6",
+            "religions" : {
+               
+                   "Protestant" :"46.8"
+                   ,
+                   "Catholic" :"12.6"
+                   
+            },
+            "ville" : {
+                "Kingston"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "New Zealand",
+           "capital" : "cty-New-Zealand-Wellington",
+            "population" : "4242048",
+           "superficie" : "268680",
+            "religions" : {
+               
+                   "Protestant" :"38.6"
+                   ,
+                   "Catholic" :"12.6"
+                   ,
+                   "Hindu" :"1.6"
+                   ,
+                   "Buddhist" :"1.3"
+                   
+            },
+            "ville" : {
+                "Wellington"
+                ,
+                "Auckland"
+                ,
+                "Hamilton"
+                ,
+                "Christchurch"
+                ,
+                "Dunedin"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Palau",
+           "capital" : "cty-Palau-Ngerulmud",
+            "population" : "17501",
+           "superficie" : "458",
+            "religions" : {
+               
+                   "Catholic" :"45.3"
+                   ,
+                   "Protestant" :"41.9"
+                   ,
+                   "Muslim" :"3"
+                   ,
+                   "Mormon" :"1.5"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   
+            },
+            "ville" : {
+                "Koror"
+                ,
+                "Ngerulmud"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Northern Mariana Islands",
+           "capital" : "city-Saipan-NMIS-NMIS",
+            "population" : "53883",
+           "superficie" : "477",
+            "religions" : {
+               
+                   "Catholic" :"64.1"
+                   ,
+                   "Protestant" :"16"
+                   ,
+                   "Buddhist" :"10.6"
+                   
+            },
+            "ville" : {
+                "Saipan"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Guam",
+           "capital" : "city-Agana-GUAM",
+            "population" : "159358",
+           "superficie" : "545",
+            "religions" : {
+               
+                   "Catholic" :"75"
+                   ,
+                   "Protestant" :"17.7"
+                   ,
+                   "Buddhist" :"1.1"
+                   
+            },
+            "ville" : {
+                "Hagåtña"
+                ,
+                "Dededo"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Micronesia",
+           "capital" : "cty-Micronesia-Palikir",
+            "population" : "102843",
+           "superficie" : "702",
+            "religions" : {
+               
+                   "Catholic" :"54.7"
+                   ,
+                   "Protestant" :"41.1"
+                   ,
+                   "Mormon" :"1.5"
+                   
+            },
+            "ville" : {
+                "Palikir"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Marshall Islands",
+           "capital" : "cty-Marshall-Islands-Majuro",
+            "population" : "53158",
+           "superficie" : "181.3",
+            "religions" : {
+               
+                   "Protestant" :"80.5"
+                   ,
+                   "Catholic" :"8.4"
+                   ,
+                   "Mormon" :"9.5"
+                   ,
+                   "Jehovas Witnesses" :"1.7"
+                   ,
+                   "Bahai" :"0.6"
+                   
+            },
+            "ville" : {
+                "Majuro"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Nauru",
+           "capital" : "cty-Yaren",
+            "population" : "10025",
+           "superficie" : "21",
+            "religions" : {
+               
+                   "Protestant" :"60.4"
+                   ,
+                   "Catholic" :"33"
+                   
+            },
+            "ville" : {
+                "Yaren"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Kiribati",
+           "capital" : "cty-Kiribati-Tarawa",
+            "population" : "110136",
+           "superficie" : "717",
+            "religions" : {
+               
+                   "Catholic" :"57.3"
+                   ,
+                   "Protestant" :"33.2"
+                   ,
+                   "Mormon" :"5.3"
+                   ,
+                   "Bahai" :"2.1"
+                   
+            },
+            "ville" : {
+                "Tarawa"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Tuvalu",
+           "capital" : "cty-Tuvalu-Funafuti",
+            "population" : "11192",
+           "superficie" : "26",
+            "religions" : {
+               
+                   "Protestant" :"92.4"
+                   ,
+                   "Bahai" :"2"
+                   ,
+                   "Jehovas Witnesses" :"1.3"
+                   ,
+                   "Mormon" :"1"
+                   
+            },
+            "ville" : {
+                "Funafuti"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Tokelau",
+           "capital" : "cty-Tokelau-Fakaofo",
+            "population" : "1499",
+           "superficie" : "12",
+            "religions" : {
+               
+                   "Protestant" :"56.3"
+                   ,
+                   "Catholic" :"38.7"
+                   
+            },
+            "ville" : {
+                "Fakaofo"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Samoa",
+           "capital" : "cty-Samoa-Apia",
+            "population" : "194320",
+           "superficie" : "2860",
+            "religions" : {
+               
+                   "Protestant" :"54.9"
+                   ,
+                   "Catholic" :"18.8"
+                   ,
+                   "Mormon" :"16.9"
+                   ,
+                   "Jehovas Witnesses" :"0.8"
+                   ,
+                   "Bahai" :"0.4"
+                   ,
+                   "New Apostolic" :"0.4"
+                   
+            },
+            "ville" : {
+                "Apia"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "American Samoa",
+           "capital" : "city-Pago-Pago-AMSA-AMSA",
+            "population" : "55519",
+           "superficie" : "199",
+            "religions" : {
+               
+                   "Protestant" :"58"
+                   ,
+                   "Catholic" :"19"
+                   ,
+                   "Mormon" :"22"
+                   ,
+                   "Jehovas Witnesses" :"0.4"
+                   ,
+                   "Bahai" :"0.3"
+                   ,
+                   "Buddhist" :"0.3"
+                   
+            },
+            "ville" : {
+                "Pago Pago"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Wallis and Futuna",
+           "capital" : "city-Mata-Utu-WF",
+            "population" : "11558",
+           "superficie" : "274",
+            "religions" : {
+               
+                   "Catholic" :"99"
+                   
+            },
+            "ville" : {
+                "Mata-Utu"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Fiji",
+           "capital" : "cty-Fiji-Suva",
+            "population" : "884887",
+           "superficie" : "18270",
+            "religions" : {
+               
+                   "Protestant" :"54.4"
+                   ,
+                   "Catholic" :"9.1"
+                   ,
+                   "Hindu" :"27.9"
+                   ,
+                   "Muslim" :"6.3"
+                   ,
+                   "Sikh" :"0.3"
+                   ,
+                   "Jehovas Witnesses" :"0.8"
+                   ,
+                   "Mormon" :"0.4"
+                   
+            },
+            "ville" : {
+                "Suva"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Tonga",
+           "capital" : "cty-Tonga-Nukualofa",
+            "population" : "100651",
+           "superficie" : "748",
+            "religions" : {
+               
+                   "Protestant" :"64.1"
+                   ,
+                   "Catholic" :"14.2"
+                   ,
+                   "Mormon" :"18.6"
+                   
+            },
+            "ville" : {
+                "Nukualofa"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Niue",
+           "capital" : "city-Alofi-NIUE-NIUE",
+            "population" : "1611",
+           "superficie" : "260",
+            "religions" : {
+               
+                   "Protestant" :"70"
+                   ,
+                   "Catholic" :"10"
+                   ,
+                   "Mormon" :"10"
+                   ,
+                   "Jehovas Witnesses" :"2"
+                   
+            },
+            "ville" : {
+                "Alofi"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Cook Islands",
+           "capital" : "city-Avarua-COOK-COOK",
+            "population" : "17459",
+           "superficie" : "240",
+            "religions" : {
+               
+                   "Protestant" :"62.8"
+                   ,
+                   "Catholic" :"17"
+                   ,
+                   "Mormon" :"4.4"
+                   
+            },
+            "ville" : {
+                "Avarua"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "French Polynesia",
+           "capital" : "city-Papeete-FPOL-FPOL",
+            "population" : "275918",
+           "superficie" : "4167",
+            "religions" : {
+               
+                   "Protestant" :"54"
+                   ,
+                   "Catholic" :"30"
+                   ,
+                   "Mormon" :"10"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   
+            },
+            "ville" : {
+                "Papeete"
+                ,
+                "Rikitea"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Pitcairn",
+           "capital" : "city-Adamstown-PITC-PITC",
+            "population" : "50",
+           "superficie" : "47",
+            "religions" : {
+               
+                   "Protestant" :"100"
+                   
+            },
+            "ville" : {
+                "Adamstown"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Egypt",
+           "capital" : "cty-Egypt-Cairo",
+            "population" : "94798827",
+           "superficie" : "1001450",
+            "religions" : {
+               
+                   "Muslim" :"90"
+                   ,
+                   "Coptic Christian" :"8.5"
+                   ,
+                   "Christian Orthodox" :"0.3"
+                   
+            },
+            "ville" : {
+                "Hurghada"
+                ,
+                "Marsa Matruh"
+                ,
+                "Damanhur"
+                ,
+                "Kafr ad Dawwar"
+                ,
+                "Al Mansurah"
+                ,
+                "Tanta"
+                ,
+                "Al Mahallah al Kubra"
+                ,
+                "Al Ismailiyah"
+                ,
+                "Shibin al Kum"
+                ,
+                "Banha"
+                ,
+                "Shubra al Khimah"
+                ,
+                "Az Zaqaziq"
+                ,
+                "Aswan"
+                ,
+                "Asyut"
+                ,
+                "Bani Suwayf"
+                ,
+                "Al Fayyum"
+                ,
+                "Al Jizah"
+                ,
+                "Al Minya"
+                ,
+                "Qina"
+                ,
+                "Al Uqsur"
+                ,
+                "Suhaj"
+                ,
+                "Bur Said"
+                ,
+                "Al Iskandariyah"
+                ,
+                "Al Qahirah"
+                ,
+                "As Suways"
+                
+            },
+            "frontières" : {
+            
+                "GAZA"
+                ,
+                "IL"
+                ,
+                "LAR"
+                ,
+                "SUD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Libya",
+           "capital" : "cty-Libya-Tripolis",
+            "population" : "6040612",
+           "superficie" : "1759540",
+            "religions" : {
+               
+                   "Muslim" :"97"
+                   ,
+                   "Coptic Christian" :"1"
+                   ,
+                   "Catholic" :"0.6"
+                   
+            },
+            "ville" : {
+                "Tripoli"
+                ,
+                "Benghazi"
+                ,
+                "Misratah"
+                
+            },
+            "frontières" : {
+            
+                "ET"
+                ,
+                "DZ"
+                ,
+                "RN"
+                ,
+                "TN"
+                ,
+                "TCH"
+                ,
+                "SUD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Tunisia",
+           "capital" : "cty-Tunisia-Tunis",
+            "population" : "10982754",
+           "superficie" : "163610",
+            "religions" : {
+               
+                   "Muslim" :"98"
+                   ,
+                   "Christian" :"1"
+                   
+            },
+            "ville" : {
+                "Tunis"
+                ,
+                "Sfax"
+                ,
+                "Sousse"
+                
+            },
+            "frontières" : {
+            
+                "DZ"
+                ,
+                "LAR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Algeria",
+           "capital" : "cty-Algeria-Algiers",
+            "population" : "37062820",
+           "superficie" : "2381740",
+            "religions" : {
+               
+                   "Muslim" :"97.9"
+                   ,
+                   "Christian" :"1"
+                   ,
+                   "Jewish" :"0.1"
+                   
+            },
+            "ville" : {
+                "Algiers"
+                ,
+                "Annaba"
+                ,
+                "Batna"
+                ,
+                "Béchar"
+                ,
+                "Sidi Bel Abbës"
+                ,
+                "Skikda"
+                ,
+                "Tébessa"
+                ,
+                "Oran"
+                ,
+                "Constantine"
+                ,
+                "Sétif"
+                ,
+                "Blida"
+                ,
+                "Bejaïa"
+                ,
+                "Mostaganem"
+                ,
+                "Ech Chelif"
+                ,
+                "Tlemcen"
+                ,
+                "Tougourt"
+                ,
+                "Ghardaïa"
+                ,
+                "El Djelfa"
+                ,
+                "Biskra"
+                ,
+                "Laghouat"
+                ,
+                "Tamanrasset"
+                
+            },
+            "frontières" : {
+            
+                "LAR"
+                ,
+                "RMM"
+                ,
+                "RIM"
+                ,
+                "MA"
+                ,
+                "RN"
+                ,
+                "TN"
+                ,
+                "WSA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Morocco",
+           "capital" : "cty-MA-10",
+            "population" : "33337529",
+           "superficie" : "446550",
+            "religions" : {
+               
+                   "Muslim" :"98.7"
+                   ,
+                   "Christian" :"1.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "DZ"
+                ,
+                "WSA"
+                ,
+                "CEU"
+                ,
+                "MEL"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Western Sahara",
+           "capital" : "stadt-El_Aaiun-DARS-DARS",
+            "population" : "554795",
+           "superficie" : "266000",
+            "religions" : {
+               
+                   "Muslim" :"100"
+                   
+            },
+            "ville" : {
+                "El Aaiun"
+                
+            },
+            "frontières" : {
+            
+                "DZ"
+                ,
+                "RIM"
+                ,
+                "MA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Mali",
+           "capital" : "cty-RMM-1",
+            "population" : "14528622",
+           "superficie" : "1240000",
+            "religions" : {
+               
+                   "Muslim" :"93.9"
+                   ,
+                   "Catholic" :"2"
+                   ,
+                   "Protestant" :"1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "DZ"
+                ,
+                "RIM"
+                ,
+                "RN"
+                ,
+                "BF"
+                ,
+                "CI"
+                ,
+                "RG"
+                ,
+                "SN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Mauritania",
+           "capital" : "cty-RIM-10",
+            "population" : "3537368",
+           "superficie" : "1030700",
+            "religions" : {
+               
+                   "Muslim" :"99.9"
+                   ,
+                   "Catholic" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "DZ"
+                ,
+                "RMM"
+                ,
+                "WSA"
+                ,
+                "SN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Senegal",
+           "capital" : "cty-Senegal-Dakar",
+            "population" : "13508715",
+           "superficie" : "196190",
+            "religions" : {
+               
+                   "Muslim" :"95.9"
+                   ,
+                   "Catholic" :"4"
+                   ,
+                   "Protestant" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RMM"
+                ,
+                "RIM"
+                ,
+                "RG"
+                ,
+                "WAG"
+                ,
+                "GUB"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Gambia",
+           "capital" : "cty-Gambia-Banjul",
+            "population" : "1882450",
+           "superficie" : "11300",
+            "religions" : {
+               
+                   "Muslim" :"95.7"
+                   ,
+                   "Catholic" :"4"
+                   ,
+                   "Protestant" :"1"
+                   
+            },
+            "ville" : {
+                "Banjul"
+                ,
+                "Serekunda"
+                
+            },
+            "frontières" : {
+            
+                "SN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Guinea-Bissau",
+           "capital" : "cty-Guinea-Bissau-Bissau",
+            "population" : "1586624",
+           "superficie" : "36120",
+            "religions" : {
+               
+                   "Muslim" :"45.1"
+                   ,
+                   "Catholic" :"12"
+                   ,
+                   "Protestant" :"12"
+                   ,
+                   "Indigenous Beliefs" :"14.9"
+                   
+            },
+            "ville" : {
+                "Bissau"
+                
+            },
+            "frontières" : {
+            
+                "RG"
+                ,
+                "SN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Guinea",
+           "capital" : "cty-Guinea-Conakry",
+            "population" : "10628972",
+           "superficie" : "245860",
+            "religions" : {
+               
+                   "Muslim" :"89.1"
+                   ,
+                   "Catholic" :"4"
+                   ,
+                   "Protestant" :"3"
+                   ,
+                   "Indigenous Beliefs" :"1.6"
+                   
+            },
+            "ville" : {
+                "Conakry"
+                ,
+                "N'Zérékoré"
+                
+            },
+            "frontières" : {
+            
+                "RMM"
+                ,
+                "CI"
+                ,
+                "LB"
+                ,
+                "SN"
+                ,
+                "GUB"
+                ,
+                "SLE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Sierra Leone",
+           "capital" : "cty-Sierra-Leone-Freetown",
+            "population" : "5751976",
+           "superficie" : "71740",
+            "religions" : {
+               
+                   "Muslim" :"78.6"
+                   ,
+                   "Protestant" :"12.2"
+                   ,
+                   "Catholic" :"9"
+                   
+            },
+            "ville" : {
+                "Freetown"
+                ,
+                "Bo"
+                
+            },
+            "frontières" : {
+            
+                "RG"
+                ,
+                "LB"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Liberia",
+           "capital" : "cty-Liberia-Monrovia",
+            "population" : "3957990",
+           "superficie" : "111370",
+            "religions" : {
+               
+                   "Protestant" :"76.3"
+                   ,
+                   "Catholic" :"7.2"
+                   ,
+                   "Muslim" :"12.2"
+                   ,
+                   "Indigenous Beliefs" :"0.5"
+                   
+            },
+            "ville" : {
+                "Monrovia"
+                
+            },
+            "frontières" : {
+            
+                "CI"
+                ,
+                "RG"
+                ,
+                "SLE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Burkina Faso",
+           "capital" : "cty-Burkina-Faso-Ouagadougou",
+            "population" : "17322796",
+           "superficie" : "274200",
+            "religions" : {
+               
+                   "Muslim" :"60.5"
+                   ,
+                   "Catholic" :"23.3"
+                   ,
+                   "Protestant" :"6.5"
+                   ,
+                   "Indigenous Beliefs" :"7.8"
+                   
+            },
+            "ville" : {
+                "Ouagadougou"
+                ,
+                "Bobo Dioulasso"
+                
+            },
+            "frontières" : {
+            
+                "RMM"
+                ,
+                "RN"
+                ,
+                "BEN"
+                ,
+                "RT"
+                ,
+                "CI"
+                ,
+                "GH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Cote d'Ivoire",
+           "capital" : "cty-CI-1",
+            "population" : "22671331",
+           "superficie" : "322460",
+            "religions" : {
+               
+                   "Muslim" :"42.9"
+                   ,
+                   "Catholic" :"17.2"
+                   ,
+                   "Protestant" :"16.7"
+                   ,
+                   "Indigenous Beliefs" :"11.9"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RMM"
+                ,
+                "BF"
+                ,
+                "GH"
+                ,
+                "RG"
+                ,
+                "LB"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Ghana",
+           "capital" : "cty-GH-5",
+            "population" : "24658823",
+           "superficie" : "238540",
+            "religions" : {
+               
+                   "Muslim" :"17.6"
+                   ,
+                   "Catholic" :"13.1"
+                   ,
+                   "Protestant" :"58"
+                   ,
+                   "Indigenous Beliefs" :"5.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "BF"
+                ,
+                "RT"
+                ,
+                "CI"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Togo",
+           "capital" : "cty-Togo-Lome",
+            "population" : "6191155",
+           "superficie" : "56790",
+            "religions" : {
+               
+                   "Catholic" :"26"
+                   ,
+                   "Protestant" :"14"
+                   ,
+                   "Muslim" :"20"
+                   ,
+                   "Indigenous Beliefs" :"6"
+                   ,
+                   "Voodoo" :"5"
+                   
+            },
+            "ville" : {
+                "Lomé"
+                
+            },
+            "frontières" : {
+            
+                "BEN"
+                ,
+                "BF"
+                ,
+                "GH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Benin",
+           "capital" : "cty-Benin-Porto-Novo",
+            "population" : "9983884",
+           "superficie" : "112620",
+            "religions" : {
+               
+                   "Muslim" :"27.7"
+                   ,
+                   "Catholic" :"25.5"
+                   ,
+                   "Protestant" :"22"
+                   ,
+                   "Voodoo" :"11.6"
+                   
+            },
+            "ville" : {
+                "Porto-Novo"
+                ,
+                "Cotonou"
+                ,
+                "Abomey-Calavi"
+                ,
+                "Djougou"
+                
+            },
+            "frontières" : {
+            
+                "RN"
+                ,
+                "BF"
+                ,
+                "NGR"
+                ,
+                "RT"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Nigeria",
+           "capital" : "cty-NGR-2",
+            "population" : "193392500",
+           "superficie" : "923770",
+            "religions" : {
+               
+                   "Muslim" :"53.5"
+                   ,
+                   "Protestant" :"35"
+                   ,
+                   "Catholic" :"10.6"
+                   ,
+                   "African Religions" :"1.4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RN"
+                ,
+                "BEN"
+                ,
+                "CAM"
+                ,
+                "TCH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Niger",
+           "capital" : "cty-RN-5",
+            "population" : "17138707",
+           "superficie" : "1267000",
+            "religions" : {
+               
+                   "Muslim" :"99.3"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "DZ"
+                ,
+                "LAR"
+                ,
+                "RMM"
+                ,
+                "BEN"
+                ,
+                "BF"
+                ,
+                "NGR"
+                ,
+                "TCH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Chad",
+           "capital" : "cty-Chad-NDjamena",
+            "population" : "11720781",
+           "superficie" : "1284000",
+            "religions" : {
+               
+                   "Muslim" :"52.1"
+                   ,
+                   "Catholic" :"20"
+                   ,
+                   "Protestant" :"23.9"
+                   ,
+                   "Indigenous Beliefs" :"4"
+                   
+            },
+            "ville" : {
+                "N'Djamena"
+                ,
+                "Moundou"
+                
+            },
+            "frontières" : {
+            
+                "LAR"
+                ,
+                "RN"
+                ,
+                "NGR"
+                ,
+                "CAM"
+                ,
+                "RCA"
+                ,
+                "SUD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Sudan",
+           "capital" : "cty-Sudan-Khartoum",
+            "population" : "40782700",
+           "superficie" : "1840687",
+            "religions" : {
+               
+                   "Muslim" :"97"
+                   ,
+                   "Christian" :"2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "ET"
+                ,
+                "LAR"
+                ,
+                "RCA"
+                ,
+                "TCH"
+                ,
+                "ER"
+                ,
+                "ETH"
+                ,
+                "SSD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "South Sudan",
+           "capital" : "cty-SouthSudan-Juba",
+            "population" : "8260490",
+           "superficie" : "644329",
+            "religions" : {
+               
+                   "Catholic" :"38"
+                   ,
+                   "Protestant" :"38"
+                   ,
+                   "Indigenous Beliefs" :"21"
+                   ,
+                   "Muslim" :"2.2"
+                   
+            },
+            "ville" : {
+                "Juba"
+                
+            },
+            "frontières" : {
+            
+                "CGO"
+                ,
+                "RCA"
+                ,
+                "ETH"
+                ,
+                "EAK"
+                ,
+                "EAU"
+                ,
+                "SUD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Central African Republic",
+           "capital" : "cty-Central-African-Republic-Bangui",
+            "population" : "4349921",
+           "superficie" : "622980",
+            "religions" : {
+               
+                   "Catholic" :"28.9"
+                   ,
+                   "Protestant" :"51.4"
+                   ,
+                   "Muslim" :"10"
+                   ,
+                   "Indigenous Beliefs" :"9.6"
+                   
+            },
+            "ville" : {
+                "Bangui"
+                ,
+                "Bimbo"
+                
+            },
+            "frontières" : {
+            
+                "RCB"
+                ,
+                "CGO"
+                ,
+                "CAM"
+                ,
+                "TCH"
+                ,
+                "SUD"
+                ,
+                "SSD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Cameroon",
+           "capital" : "cty-Cameroon-3",
+            "population" : "19406100",
+           "superficie" : "475440",
+            "religions" : {
+               
+                   "Catholic" :"38.4"
+                   ,
+                   "Protestant" :"26.3"
+                   ,
+                   "Christian Orthodox" :"0.5"
+                   ,
+                   "Muslim" :"20.9"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RCB"
+                ,
+                "NGR"
+                ,
+                "RCA"
+                ,
+                "TCH"
+                ,
+                "GQ"
+                ,
+                "G"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Equatorial Guinea",
+           "capital" : "cty-Equatorial-Guinea-Malabo",
+            "population" : "1222442",
+           "superficie" : "28050",
+            "religions" : {
+               
+                   "Catholic" :"87"
+                   ,
+                   "Protestant" :"5"
+                   ,
+                   "Muslim" :"2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CAM"
+                ,
+                "G"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Gabon",
+           "capital" : "cty-Gabon-Libreville",
+            "population" : "1811079",
+           "superficie" : "267670",
+            "religions" : {
+               
+                   "Catholic" :"60"
+                   ,
+                   "Protestant" :"5"
+                   ,
+                   "Muslim" :"12"
+                   
+            },
+            "ville" : {
+                "Libreville"
+                ,
+                "Port-Gentil"
+                ,
+                "Franceville"
+                
+            },
+            "frontières" : {
+            
+                "RCB"
+                ,
+                "CAM"
+                ,
+                "GQ"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Congo",
+           "capital" : "cty-RCB-11",
+            "population" : "4001831",
+           "superficie" : "342000",
+            "religions" : {
+               
+                   "Catholic" :"33.1"
+                   ,
+                   "Protestant" :"51.4"
+                   ,
+                   "Muslim" :"1.6"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "ANG"
+                ,
+                "CGO"
+                ,
+                "CAM"
+                ,
+                "RCA"
+                ,
+                "G"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Congo, Dem.Rep.",
+           "capital" : "cty-zre-1",
+            "population" : "86026000",
+           "superficie" : "2345410",
+            "religions" : {
+               
+                   "Catholic" :"55.8"
+                   ,
+                   "Protestant" :"39.1"
+                   ,
+                   "Muslim" :"2.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "ANG"
+                ,
+                "RCB"
+                ,
+                "Z"
+                ,
+                "BI"
+                ,
+                "RWA"
+                ,
+                "RCA"
+                ,
+                "SSD"
+                ,
+                "EAU"
+                ,
+                "EAT"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Angola",
+           "capital" : "cty-Angola-Luanda",
+            "population" : "25789024",
+           "superficie" : "1246700",
+            "religions" : {
+               
+                   "Catholic" :"41.1"
+                   ,
+                   "Protestant" :"38.1"
+                   ,
+                   "Muslim" :"0.4"
+                   ,
+                   "Jewish" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RCB"
+                ,
+                "NAM"
+                ,
+                "CGO"
+                ,
+                "Z"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Namibia",
+           "capital" : "cty-Namibia-Windhoek",
+            "population" : "2113077",
+           "superficie" : "825418",
+            "religions" : {
+               
+                   "Protestant" :"70"
+                   ,
+                   "Catholic" :"17"
+                   ,
+                   "Muslim" :"0.5"
+                   
+            },
+            "ville" : {
+                "Windhoek"
+                ,
+                "Rundu"
+                ,
+                "Walvis Bay"
+                
+            },
+            "frontières" : {
+            
+                "ANG"
+                ,
+                "Z"
+                ,
+                "RB"
+                ,
+                "RSA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Botswana",
+           "capital" : "cty-Botswana-Gaborone",
+            "population" : "2038228",
+           "superficie" : "600370",
+            "religions" : {
+               
+                   "Protestant" :"66"
+                   ,
+                   "Catholic" :"7"
+                   ,
+                   "Muslim" :"0.2"
+                   ,
+                   "Hindu" :"0.1"
+                   
+            },
+            "ville" : {
+                "Gaborone"
+                ,
+                "Francistown"
+                
+            },
+            "frontières" : {
+            
+                "NAM"
+                ,
+                "RSA"
+                ,
+                "ZW"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "South Africa",
+           "capital" : "cty-South-Africa-6",
+            "population" : "51770560",
+           "superficie" : "1219912",
+            "religions" : {
+               
+                   "Protestant" :"73.2"
+                   ,
+                   "Catholic" :"7.4"
+                   ,
+                   "Muslim" :"1.7"
+                   ,
+                   "Hindu" :"1.1"
+                   ,
+                   "Jewish" :"0.2"
+                   ,
+                   "Jehovas Witnesses" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "NAM"
+                ,
+                "RB"
+                ,
+                "ZW"
+                ,
+                "LS"
+                ,
+                "MOC"
+                ,
+                "SD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Lesotho",
+           "capital" : "cty-Lesotho-Maseru",
+            "population" : "2007201",
+           "superficie" : "30350",
+            "religions" : {
+               
+                   "Catholic" :"45"
+                   ,
+                   "Protestant" :"50"
+                   
+            },
+            "ville" : {
+                "Maseru"
+                
+            },
+            "frontières" : {
+            
+                "RSA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Eswatini",
+           "capital" : "cty-Swaziland-Mbabane",
+            "population" : "1193148",
+           "superficie" : "17360",
+            "religions" : {
+               
+                   "Protestant" :"65"
+                   ,
+                   "Catholic" :"6"
+                   ,
+                   "Muslim" :"2"
+                   ,
+                   "Bahai" :"0.5"
+                   ,
+                   "Hindu" :"0.2"
+                   
+            },
+            "ville" : {
+                "Mbabane"
+                
+            },
+            "frontières" : {
+            
+                "RSA"
+                ,
+                "MOC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Mozambique",
+           "capital" : "cty-Mozambique-2",
+            "population" : "23700715",
+           "superficie" : "801590",
+            "religions" : {
+               
+                   "Muslim" :"18.9"
+                   ,
+                   "Catholic" :"27.2"
+                   ,
+                   "Protestant" :"32.6"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "Z"
+                ,
+                "RSA"
+                ,
+                "ZW"
+                ,
+                "EAT"
+                ,
+                "MW"
+                ,
+                "SD"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Zimbabwe",
+           "capital" : "cty-Zimbabwe-1",
+            "population" : "13061239",
+           "superficie" : "390580",
+            "religions" : {
+               
+                   "Protestant" :"74.8"
+                   ,
+                   "Catholic" :"7.3"
+                   ,
+                   "Muslim" :"0.5"
+                   
+            },
+            "ville" : {
+                "Harare"
+                ,
+                "Bulawayo"
+                ,
+                "Chitungwiza"
+                
+            },
+            "frontières" : {
+            
+                "Z"
+                ,
+                "RB"
+                ,
+                "RSA"
+                ,
+                "MOC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Zambia",
+           "capital" : "cty-Zambia-2",
+            "population" : "13092666",
+           "superficie" : "752610",
+            "religions" : {
+               
+                   "Protestant" :"75.3"
+                   ,
+                   "Catholic" :"20.2"
+                   ,
+                   "Muslim" :"0.5"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "ANG"
+                ,
+                "NAM"
+                ,
+                "CGO"
+                ,
+                "ZW"
+                ,
+                "EAT"
+                ,
+                "MW"
+                ,
+                "MOC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Malawi",
+           "capital" : "cty-Malawi-Lilongwe",
+            "population" : "17563749",
+           "superficie" : "118480",
+            "religions" : {
+               
+                   "Protestant" :"55"
+                   ,
+                   "Catholic" :"23"
+                   ,
+                   "Muslim" :"13.8"
+                   ,
+                   "Jehovas Witnesses" :"0.6"
+                   
+            },
+            "ville" : {
+                "Lilongwe"
+                ,
+                "Blantyre"
+                
+            },
+            "frontières" : {
+            
+                "Z"
+                ,
+                "EAT"
+                ,
+                "MOC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Tanzania",
+           "capital" : "cty-Tanzania-4",
+            "population" : "44928923",
+           "superficie" : "945090",
+            "religions" : {
+               
+                   "Muslim" :"35.2"
+                   ,
+                   "Catholic" :"31"
+                   ,
+                   "Protestant" :"27"
+                   ,
+                   "Christian Orthodox" :"0.2"
+                   ,
+                   "Indigenous Beliefs" :"2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CGO"
+                ,
+                "Z"
+                ,
+                "BI"
+                ,
+                "RWA"
+                ,
+                "EAK"
+                ,
+                "EAU"
+                ,
+                "MW"
+                ,
+                "MOC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Burundi",
+           "capital" : "cty-Burundi-Gitega",
+            "population" : "8444784",
+           "superficie" : "27830",
+            "religions" : {
+               
+                   "Catholic" :"65"
+                   ,
+                   "Protestant" :"26"
+                   ,
+                   "Muslim" :"3"
+                   ,
+                   "Indigenous Beliefs" :"5"
+                   
+            },
+            "ville" : {
+                "Bujumbura"
+                ,
+                "Gitega"
+                
+            },
+            "frontières" : {
+            
+                "CGO"
+                ,
+                "RWA"
+                ,
+                "EAT"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Rwanda",
+           "capital" : "cty-Rwanda-Kigali",
+            "population" : "10515973",
+           "superficie" : "26340",
+            "religions" : {
+               
+                   "Catholic" :"43.7"
+                   ,
+                   "Protestant" :"49.5"
+                   ,
+                   "Muslim" :"2"
+                   
+            },
+            "ville" : {
+                "Kigali"
+                
+            },
+            "frontières" : {
+            
+                "CGO"
+                ,
+                "BI"
+                ,
+                "EAT"
+                ,
+                "EAU"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Uganda",
+           "capital" : "cty-Uganda-Kampala",
+            "population" : "34634650",
+           "superficie" : "236040",
+            "religions" : {
+               
+                   "Protestant" :"45.1"
+                   ,
+                   "Catholic" :"39.3"
+                   ,
+                   "Muslim" :"13.7"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CGO"
+                ,
+                "RWA"
+                ,
+                "EAT"
+                ,
+                "SSD"
+                ,
+                "EAK"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Kenya",
+           "capital" : "cty-Kenya-Nairobi",
+            "population" : "40909194",
+           "superficie" : "582650",
+            "religions" : {
+               
+                   "Catholic" :"23.3"
+                   ,
+                   "Protestant" :"52"
+                   ,
+                   "Christian Orthodox" :"2.5"
+                   ,
+                   "Muslim" :"15"
+                   ,
+                   "Bahai" :"1.0"
+                   ,
+                   "Hindu" :"0.7"
+                   ,
+                   "Quaker" :"0.2"
+                   ,
+                   "Indigenous Beliefs" :"1.6"
+                   
+            },
+            "ville" : {
+                "Mombasa"
+                ,
+                "Malindi"
+                ,
+                "Machakos"
+                ,
+                "Nairobi"
+                ,
+                "Kisumu"
+                ,
+                "Nakuru"
+                ,
+                "Eldoret"
+                
+            },
+            "frontières" : {
+            
+                "EAT"
+                ,
+                "SSD"
+                ,
+                "ETH"
+                ,
+                "SO"
+                ,
+                "EAU"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Somalia",
+           "capital" : "cty-Somalia-Mogadishu",
+            "population" : "11000000",
+           "superficie" : "637660",
+            "religions" : {
+               
+                   "Muslim" :"99.8"
+                   
+            },
+            "ville" : {
+                "Mogadishu"
+                ,
+                "Hargeisa"
+                
+            },
+            "frontières" : {
+            
+                "DJI"
+                ,
+                "ETH"
+                ,
+                "EAK"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Djibouti",
+           "capital" : "cty-Djibouti-Djibouti",
+            "population" : "834036",
+           "superficie" : "22000",
+            "religions" : {
+               
+                   "Muslim" :"94"
+                   ,
+                   "Tewahedo Christian Orthodox" :"3.2"
+                   ,
+                   "Catholic" :"1"
+                   ,
+                   "Protestant" :"0.6"
+                   
+            },
+            "ville" : {
+                "Djibouti"
+                
+            },
+            "frontières" : {
+            
+                "ER"
+                ,
+                "ETH"
+                ,
+                "SO"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Ethiopia",
+           "capital" : "cty-ETH-1",
+            "population" : "84320987",
+           "superficie" : "1127127",
+            "religions" : {
+               
+                   "Tewahedo Christian Orthodox" :"43.5"
+                   ,
+                   "Muslim" :"33.9"
+                   ,
+                   "Protestant" :"18.6"
+                   ,
+                   "African Religions" :"2.6"
+                   ,
+                   "Catholic" :"0.7"
+                   ,
+                   "Jewish" :"0.7"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "SUD"
+                ,
+                "SSD"
+                ,
+                "DJI"
+                ,
+                "ER"
+                ,
+                "SO"
+                ,
+                "EAK"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Eritrea",
+           "capital" : "cty-Eritrea-Asmara",
+            "population" : "5741159",
+           "superficie" : "121320",
+            "religions" : {
+               
+                   "Muslim" :"48"
+                   ,
+                   "Tewahedo Christian Orthodox" :"50"
+                   
+            },
+            "ville" : {
+                "Asmara"
+                ,
+                "Massaua"
+                
+            },
+            "frontières" : {
+            
+                "SUD"
+                ,
+                "DJI"
+                ,
+                "ETH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Cape Verde",
+           "capital" : "cty-Cape-Verde-Praia",
+            "population" : "491875",
+           "superficie" : "4033",
+            "religions" : {
+               
+                   "Catholic" :"77.3"
+                   ,
+                   "Catholic" :"4.6"
+                   ,
+                   "Muslim" :"1.8"
+                   ,
+                   "Jehovas Witnesses" :"1.0"
+                   ,
+                   "New Apostolic" :"0.5"
+                   
+            },
+            "ville" : {
+                "Praia"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Sao Tome and Principe",
+           "capital" : "cty-Sao-Tome-and-Principe-Sao-Tome",
+            "population" : "187356",
+           "superficie" : "1001",
+            "religions" : {
+               
+                   "Catholic" :"55.7"
+                   ,
+                   "Protestant" :"9.5"
+                   ,
+                   "New Apostolic" :"2.9"
+                   ,
+                   "Jehovas Witnesses" :"1.2"
+                   
+            },
+            "ville" : {
+                "São Tomé"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Seychelles",
+           "capital" : "cty-Seychelles-Victoria",
+            "population" : "90945",
+           "superficie" : "455",
+            "religions" : {
+               
+                   "Catholic" :"76.2"
+                   ,
+                   "Protestant" :"10.6"
+                   ,
+                   "Hindu" :"2.4"
+                   ,
+                   "Muslim" :"1.6"
+                   
+            },
+            "ville" : {
+                "Victoria"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Comoros",
+           "capital" : "cty-Comoros-Moroni",
+            "population" : "683081",
+           "superficie" : "2170",
+            "religions" : {
+               
+                   "Muslim" :"98"
+                   ,
+                   "Catholic" :"1"
+                   
+            },
+            "ville" : {
+                "Moroni"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Mayotte",
+           "capital" : "city-Mamoutzou-MAYO-MAYO",
+            "population" : "256518",
+           "superficie" : "374",
+            "religions" : {
+               
+                   "Muslim" :"97"
+                   ,
+                   "Catholic" :"2.5"
+                   
+            },
+            "ville" : {
+                "Mamoutzou"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Madagascar",
+           "capital" : "cty-Madagascar-2",
+            "population" : "21842167",
+           "superficie" : "587041",
+            "religions" : {
+               
+                   "Indigenous Beliefs" :"52"
+                   ,
+                   "Catholic" :"23"
+                   ,
+                   "Protestant" :"18"
+                   ,
+                   "Muslim" :"7"
+                   
+            },
+            "ville" : {
+                "Antsiranana"
+                ,
+                "Antananarivo"
+                ,
+                "Antsirabe"
+                ,
+                "Fianarantsoa"
+                ,
+                "Majunga"
+                ,
+                "Tamatave"
+                ,
+                "Toliara"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Mauritius",
+           "capital" : "cty-Mauritius-Port-Louis",
+            "population" : "1237091",
+           "superficie" : "2040",
+            "religions" : {
+               
+                   "Hindu" :"48.5"
+                   ,
+                   "Catholic" :"26.3"
+                   ,
+                   "Protestant" :"6.4"
+                   ,
+                   "Muslim" :"17.3"
+                   
+            },
+            "ville" : {
+                "Port Louis"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Reunion",
+           "capital" : "city-Saint-Denis-REUN-REUN",
+            "population" : "828581",
+           "superficie" : "2510",
+            "religions" : {
+               
+                   "Catholic" :"79.9"
+                   ,
+                   "Protestant" :"7"
+                   ,
+                   "Hindu" :"6.7"
+                   ,
+                   "Muslim" :"3.2"
+                   
+            },
+            "ville" : {
+                "Saint-Denis"
+                ,
+                "Saint-Paul"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Helena",
+           "capital" : "city-Jamestown-HELX-HELX",
+            "population" : "4577",
+           "superficie" : "391",
+            "religions" : {
+               
+                   "Protestant" :"88.1"
+                   ,
+                   "Jehovas Witnesses" :"4.8"
+                   ,
+                   "New Apostolic" :"1.7"
+                   ,
+                   "Catholic" :"1.4"
+                   ,
+                   "Bahai" :"0.3"
+                   
+            },
+            "ville" : {
+                "Jamestown"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Greenland",
+           "capital" : "cty-Greenland-Nuuk",
+            "population" : "56370",
+           "superficie" : "2175600",
+            "religions" : {
+               
+                   "Protestant" :"95.5"
+                   ,
+                   "Catholic" :"0.2"
+                   ,
+                   "Inuit spiritism" :"0.8"
+                   
+            },
+            "ville" : {
+                "Nuuk"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Pierre and Miquelon",
+           "capital" : "cty-SPMI-Saint-Pierre",
+            "population" : "6008",
+           "superficie" : "242",
+            "religions" : {
+               
+                   "Catholic" :"99"
+                   
+            },
+            "ville" : {
+                "Saint-Pierre"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Bermuda",
+           "capital" : "city-Hamilton-BERM-BERM",
+            "population" : "61178",
+           "superficie" : "53.3",
+            "religions" : {
+               
+                   "Protestant" :"46.2"
+                   ,
+                   "Catholic" :"14.5"
+                   ,
+                   "Jehovas Witnesses" :"1.3"
+                   ,
+                   "Muslim" :"1"
+                   ,
+                   "Hindu" :"0.2"
+                   
+            },
+            "ville" : {
+                "Hamilton"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Canada",
+           "capital" : "cty-Canada-13",
+            "population" : "35151728",
+           "superficie" : "9976140",
+            "religions" : {
+               
+                   "Catholic" :"38.7"
+                   ,
+                   "Protestant" :"28.5"
+                   ,
+                   "Christian Orthodox" :"1.6"
+                   ,
+                   "Muslim" :"3.2"
+                   ,
+                   "Hindu" :"1.5"
+                   ,
+                   "Sikh" :"1.4"
+                   ,
+                   "Buddhist" :"1.1"
+                   ,
+                   "Jewish" :"1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "USA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "United States",
+           "capital" : "cty-United-States-22",
+            "population" : "318857056",
+           "superficie" : "9372610",
+            "religions" : {
+               
+                   "Protestant" :"48.5"
+                   ,
+                   "Catholic" :"22.7"
+                   ,
+                   "Christian Orthodox" :"0.9"
+                   ,
+                   "Mormon" :"1.8"
+                   ,
+                   "Jewish" :"2.1"
+                   ,
+                   "Muslim" :"0.9"
+                   ,
+                   "Jehovas Witnesses" :"0.8"
+                   ,
+                   "Buddhist" :"0.7"
+                   ,
+                   "Hindu" :"0.7"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "MEX"
+                ,
+                "CDN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Mexico",
+           "capital" : "cty-Mexico-Mexico-City",
+            "population" : "112336538",
+           "superficie" : "1972550",
+            "religions" : {
+               
+                   "Catholic" :"83.9"
+                   ,
+                   "Protestant" :"7.6"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "BZ"
+                ,
+                "GCA"
+                ,
+                "USA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Belize",
+           "capital" : "cty-Belize-Belmopan",
+            "population" : "312971",
+           "superficie" : "22960",
+            "religions" : {
+               
+                   "Catholic" :"40.1"
+                   ,
+                   "Protestant" :"31.5"
+                   ,
+                   "Jehovas Witnesses" :"1.7"
+                   
+            },
+            "ville" : {
+                "Belmopan"
+                ,
+                "Belize City"
+                
+            },
+            "frontières" : {
+            
+                "GCA"
+                ,
+                "MEX"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Guatemala",
+           "capital" : "cty-Guatemala-Guatemala-City",
+            "population" : "15073375",
+           "superficie" : "108890",
+            "religions" : {
+               
+                   "Catholic" :"50"
+                   ,
+                   "Protestant" :"40"
+                   ,
+                   "Mayan" :"1"
+                   
+            },
+            "ville" : {
+                "Ciudad de Guatemala"
+                ,
+                "Mixco"
+                ,
+                "Villa Nueva"
+                ,
+                "Cobán"
+                ,
+                "Chichicastenango"
+                
+            },
+            "frontières" : {
+            
+                "BZ"
+                ,
+                "MEX"
+                ,
+                "ES"
+                ,
+                "HN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "El Salvador",
+           "capital" : "cty-El-Salvador-2",
+            "population" : "6290420",
+           "superficie" : "21040",
+            "religions" : {
+               
+                   "Catholic" :"44.9"
+                   ,
+                   "Protestant" :"37.1"
+                   ,
+                   "Christian Orthodox" :"0.6"
+                   ,
+                   "Muslim" :"1.0"
+                   ,
+                   "Mormon" :"0.8"
+                   ,
+                   "Jehovas Witnesses" :"0.5"
+                   
+            },
+            "ville" : {
+                "San Salvador"
+                ,
+                "Soyapango"
+                ,
+                "Mejicanos"
+                ,
+                "Ciudad Delgado"
+                ,
+                "Apopa"
+                ,
+                "Santa Ana"
+                ,
+                "Santa Tecla"
+                ,
+                "San Miguel"
+                
+            },
+            "frontières" : {
+            
+                "GCA"
+                ,
+                "HN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Honduras",
+           "capital" : "cty-Honduras-Tegucigalpa",
+            "population" : "8045990",
+           "superficie" : "112090",
+            "religions" : {
+               
+                   "Catholic" :"51.4"
+                   ,
+                   "Protestant" :"36.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "GCA"
+                ,
+                "NIC"
+                ,
+                "ES"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Nicaragua",
+           "capital" : "cty-Nicaragua-Managua",
+            "population" : "6327927",
+           "superficie" : "129494",
+            "religions" : {
+               
+                   "Catholic" :"50"
+                   ,
+                   "Protestant" :"33.2"
+                   ,
+                   "Mormon" :"1.5"
+                   ,
+                   "Jehovas Witnesses" :"0.9"
+                   
+            },
+            "ville" : {
+                "Managua"
+                ,
+                "León"
+                ,
+                "Chinandega"
+                ,
+                "Masaya"
+                ,
+                "Granada"
+                ,
+                "Matagalpa"
+                ,
+                "Tipitapa"
+                ,
+                "Jinotega"
+                ,
+                "Estelí"
+                
+            },
+            "frontières" : {
+            
+                "CR"
+                ,
+                "HN"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Costa Rica",
+           "capital" : "cty-Costa-Rica-2",
+            "population" : "4773119",
+           "superficie" : "51100",
+            "religions" : {
+               
+                   "Catholic" :"76.3"
+                   ,
+                   "Protestant" :"14.4"
+                   ,
+                   "Buddhist" :"2"
+                   ,
+                   "Mormon" :"0.7"
+                   ,
+                   "Jehovas Witnesses" :"0.5"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "NIC"
+                ,
+                "PA"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Panama",
+           "capital" : "cty-Panama-Panama-City",
+            "population" : "3405813",
+           "superficie" : "78200",
+            "religions" : {
+               
+                   "Catholic" :"63.2"
+                   ,
+                   "Protestant" :"26.3"
+                   ,
+                   "Bahai" :"2"
+                   ,
+                   "Jehovas Witnesses" :"1.4"
+                   ,
+                   "Mormon" :"0.6"
+                   ,
+                   "Buddhist" :"0.4"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CR"
+                ,
+                "CO"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bahamas",
+           "capital" : "cty-Bahamas-Nassau",
+            "population" : "353658",
+           "superficie" : "13940",
+            "religions" : {
+               
+                   "Protestant" :"69.9"
+                   ,
+                   "Catholic" :"12"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   ,
+                   "Hindu" :"0.1"
+                   
+            },
+            "ville" : {
+                "Nassau"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Turks and Caicos Islands",
+           "capital" : "city-Grand-Turk-TUCA-TUCA",
+            "population" : "53700",
+           "superficie" : "430",
+            "religions" : {
+               
+                   "Protestant" :"72.8"
+                   ,
+                   "Catholic" :"11.4"
+                   ,
+                   "Jehovas Witnesses" :"1.8"
+                   
+            },
+            "ville" : {
+                "Grand Turk"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Cayman Islands",
+           "capital" : "city-George-Town-CAYM-CAYM",
+            "population" : "61944",
+           "superficie" : "262",
+            "religions" : {
+               
+                   "Protestant" :"67.8"
+                   ,
+                   "Catholic" :"14.1"
+                   ,
+                   "Jewish" :"1.5"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   ,
+                   "Hindu" :"0.8"
+                   
+            },
+            "ville" : {
+                "George Town"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Cuba",
+           "capital" : "cty-Cuba-Havana",
+            "population" : "11167325",
+           "superficie" : "110860",
+            "religions" : {
+               
+                   "Catholic" :"60"
+                   ,
+                   "Protestant" :"5"
+                   ,
+                   "Hindu" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Jamaica",
+           "capital" : "cty-Jamaica-Kingston",
+            "population" : "2697983",
+           "superficie" : "10991",
+            "religions" : {
+               
+                   "Protestant" :"64.8"
+                   ,
+                   "Catholic" :"2.2"
+                   ,
+                   "Jehovas Witnesses" :"1.9"
+                   ,
+                   "Rastafarian" :"1.1"
+                   
+            },
+            "ville" : {
+                "Kingston"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Haiti",
+           "capital" : "cty-Haiti-Port-au-Prince",
+            "population" : "10788000",
+           "superficie" : "27750",
+            "religions" : {
+               
+                   "Catholic" :"54.7"
+                   ,
+                   "Protestant" :"28.5"
+                   ,
+                   "Voodoo" :"2.1"
+                   
+            },
+            "ville" : {
+                "Port-au-Prince"
+                ,
+                "Carrefour"
+                ,
+                "Delmas"
+                ,
+                "Pétion-Ville"
+                ,
+                "Cité Soleil"
+                ,
+                "Gonaïves"
+                ,
+                "Cap-Haïtien"
+                
+            },
+            "frontières" : {
+            
+                "DOM"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Dominican Republic",
+           "capital" : "cty-Dominican-Republic-Santo-Domingo",
+            "population" : "9445281",
+           "superficie" : "48730",
+            "religions" : {
+               
+                   "Catholic" :"57"
+                   ,
+                   "Protestant" :"23"
+                   ,
+                   "Mormon" :"1.3"
+                   ,
+                   "Buddhist" :"0.1"
+                   ,
+                   "Bahai" :"0.1"
+                   
+            },
+            "ville" : {
+                "Santo Domingo"
+                ,
+                "Santiago"
+                ,
+                "Puerto Plata"
+                
+            },
+            "frontières" : {
+            
+                "RH"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Puerto Rico",
+           "capital" : "city-San-Juan-PR-PR",
+            "population" : "3725789",
+           "superficie" : "8870",
+            "religions" : {
+               
+                   "Catholic" :"69.7"
+                   ,
+                   "Protestant" :"25.1"
+                   ,
+                   "Jehovas Witnesses" :"0.8"
+                   ,
+                   "Mormon" :"0.4"
+                   ,
+                   "Muslim" :"0.1"
+                   
+            },
+            "ville" : {
+                "San Juan"
+                ,
+                "Ponce"
+                ,
+                "Bayamón"
+                ,
+                "Carolina"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Virgin Islands",
+           "capital" : "cty-VIRG-Charlotte-Amalie",
+            "population" : "106405",
+           "superficie" : "346",
+            "religions" : {
+               
+                   "Protestant" :"65.5"
+                   ,
+                   "Catholic" :"27.1"
+                   ,
+                   "Hindu" :"0.4"
+                   
+            },
+            "ville" : {
+                "Charlotte Amalie"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "British Virgin Islands",
+           "capital" : "city-BVI-Road-Town",
+            "population" : "28054",
+           "superficie" : "153",
+            "religions" : {
+               
+                   "Protestant" :"70.2"
+                   ,
+                   "Catholic" :"8.9"
+                   ,
+                   "Jehovas Witnesses" :"2.5"
+                   ,
+                   "Hindu" :"1.9"
+                   ,
+                   "Muslim" :"0.9"
+                   ,
+                   "Rastafarian" :"0.6"
+                   
+            },
+            "ville" : {
+                "Road Town"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Anguilla",
+           "capital" : "city-The-Valley-AXA-AXA",
+            "population" : "13452",
+           "superficie" : "102",
+            "religions" : {
+               
+                   "Protestant" :"73.2"
+                   ,
+                   "Catholic" :"6.8"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   ,
+                   "Rastafarian" :"1.1"
+                   ,
+                   "Hindu" :"0.4"
+                   
+            },
+            "ville" : {
+                "The Valley"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Martin",
+           "capital" : "city-Marigot-SMAR",
+            "population" : "36286",
+           "superficie" : "54",
+            "religions" : {
+               
+            },
+            "ville" : {
+                "Marigot"
+                
+            },
+            "frontières" : {
+            
+                "SX"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Sint Maarten",
+           "capital" : "city-Philipsburg-SX",
+            "population" : "40535",
+           "superficie" : "34",
+            "religions" : {
+               
+                   "Protestant" :"43.1"
+                   ,
+                   "Catholic" :"33.1"
+                   ,
+                   "Hindu" :"5.2"
+                   ,
+                   "Jewish" :"3.4"
+                   ,
+                   "Jehovas Witnesses" :"1.7"
+                   
+            },
+            "ville" : {
+                "Philipsburg"
+                
+            },
+            "frontières" : {
+            
+                "SMAR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Barthelemy",
+           "capital" : "city-Gustavia-SBAR",
+            "population" : "9131",
+           "superficie" : "21",
+            "religions" : {
+               
+            },
+            "ville" : {
+                "Gustavia"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Kitts and Nevis",
+           "capital" : "cty-Saint-Kitts-and-Nevis-Basseterre",
+            "population" : "46398",
+           "superficie" : "269",
+            "religions" : {
+               
+                   "Protestant" :"74.4"
+                   ,
+                   "Catholic" :"6.7"
+                   ,
+                   "Rastafarian" :"1.6"
+                   ,
+                   "Jehovas Witnesses" :"1.3"
+                   ,
+                   "Hindu" :"0.8"
+                   ,
+                   "Muslim" :"0.3"
+                   
+            },
+            "ville" : {
+                "Basseterre"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Antigua and Barbuda",
+           "capital" : "cty-Antigua-and-Barbuda-Saint-Johns",
+            "population" : "81799",
+           "superficie" : "442",
+            "religions" : {
+               
+                   "Protestant" :"68.3"
+                   ,
+                   "Catholic" :"8.2"
+                   ,
+                   "Hindu" :"0.4"
+                   ,
+                   "Muslim" :"0.2"
+                   
+            },
+            "ville" : {
+                "St. John's"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Montserrat",
+           "capital" : "city-Plymouth-MNTS-MNTS",
+            "population" : "4922",
+           "superficie" : "102",
+            "religions" : {
+               
+                   "Protestant" :"67.1"
+                   ,
+                   "Catholic" :"11.6"
+                   ,
+                   "Rastafarian" :"1.4"
+                   ,
+                   "Hindu" :"0.8"
+                   
+            },
+            "ville" : {
+                "Plymouth"
+                ,
+                "Brades"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Guadeloupe",
+           "capital" : "cty-GUAD-Basse-Terre",
+            "population" : "394110",
+           "superficie" : "1628",
+            "religions" : {
+               
+                   "Catholic" :"94"
+                   ,
+                   "Protestant" :"1"
+                   ,
+                   "Jehovas Witnesses" :"1.7"
+                   ,
+                   "Hindu" :"0.5"
+                   
+            },
+            "ville" : {
+                "Basse-Terre"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Dominica",
+           "capital" : "cty-Dominica-Roseau",
+            "population" : "70739",
+           "superficie" : "746",
+            "religions" : {
+               
+                   "Catholic" :"61.4"
+                   ,
+                   "Protestant" :"28.6"
+                   ,
+                   "Bahai" :"1.7"
+                   ,
+                   "Jehovas Witnesses" :"1.2"
+                   
+            },
+            "ville" : {
+                "Roseau"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Martinique",
+           "capital" : "cty-MART-Fort-de-France",
+            "population" : "385551",
+           "superficie" : "1128",
+            "religions" : {
+               
+                   "Catholic" :"86"
+                   ,
+                   "Protestant" :"5.6"
+                   ,
+                   "Muslim" :"0.5"
+                   ,
+                   "Bahai" :"0.5"
+                   ,
+                   "Hindu" :"0.3"
+                   
+            },
+            "ville" : {
+                "Fort-de-France"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Lucia",
+           "capital" : "cty-Saint-Lucia-Castries",
+            "population" : "165595",
+           "superficie" : "620",
+            "religions" : {
+               
+                   "Catholic" :"61.5"
+                   ,
+                   "Protestant" :"27.8"
+                   ,
+                   "Rastafarian" :"1.9"
+                   ,
+                   "Jehovas Witnesses" :"1.1"
+                   ,
+                   "Hindu" :"0.3"
+                   
+            },
+            "ville" : {
+                "Castries"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Barbados",
+           "capital" : "cty-Barbados-Bridgetown",
+            "population" : "277821",
+           "superficie" : "430",
+            "religions" : {
+               
+                   "Protestant" :"66.4"
+                   ,
+                   "Catholic" :"3.8"
+                   ,
+                   "Jehovas Witnesses" :"2.0"
+                   ,
+                   "Rastafarian" :"1.1"
+                   ,
+                   "Muslim" :"0.7"
+                   ,
+                   "Hindu" :"0.5"
+                   
+            },
+            "ville" : {
+                "Bridgetown"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Saint Vincent and the Grenadines",
+           "capital" : "cty-Saint-Vincent-and-the-Grenadines-Kingstown",
+            "population" : "109991",
+           "superficie" : "389",
+            "religions" : {
+               
+                   "Catholic" :"6.3"
+                   ,
+                   "Protestant" :"75"
+                   ,
+                   "Rastafarian" :"1.5"
+                   ,
+                   "Jehovas Witnesses" :"0.8"
+                   
+            },
+            "ville" : {
+                "Kingstown"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Grenada",
+           "capital" : "cty-Grenada-Saint-Georges",
+            "population" : "103328",
+           "superficie" : "344",
+            "religions" : {
+               
+                   "Catholic" :"36"
+                   ,
+                   "Protestant" :"49.2"
+                   ,
+                   "Jehovas Witnesses" :"1.2"
+                   ,
+                   "Rastafarian" :"1.1"
+                   ,
+                   "Muslim" :"0.3"
+                   ,
+                   "Hindu" :"0.2"
+                   
+            },
+            "ville" : {
+                "Saint George's"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Trinidad and Tobago",
+           "capital" : "cty-Trinidad-and-Tobago-Port-of-Spain",
+            "population" : "1328019",
+           "superficie" : "5130",
+            "religions" : {
+               
+                   "Protestant" :"32.1"
+                   ,
+                   "Catholic" :"21.6"
+                   ,
+                   "Hindu" :"18.2"
+                   ,
+                   "Muslim" :"5"
+                   ,
+                   "Jehovas Witnesses" :"1.5"
+                   ,
+                   "Bahai" :"1.2"
+                   ,
+                   "Rastafarian" :"0.3"
+                   
+            },
+            "ville" : {
+                "Port-of-Spain"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Bonaire",
+           "capital" : "city-Kralendijk-NLB",
+            "population" : "20104",
+           "superficie" : "294",
+            "religions" : {
+               
+                   "Catholic" :"68"
+                   ,
+                   "Protestant" :"16"
+                   
+            },
+            "ville" : {
+                "Kralendijk"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Curacao",
+           "capital" : "city-Willemstad-CUR",
+            "population" : "150563",
+           "superficie" : "444",
+            "religions" : {
+               
+                   "Catholic" :"72.8"
+                   ,
+                   "Protestant" :"14.7"
+                   ,
+                   "Jehovas Witnesses" :"2"
+                   
+            },
+            "ville" : {
+                "Willemstad"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Aruba",
+           "capital" : "city-Oranjestad-ARU-ARU",
+            "population" : "101484",
+           "superficie" : "193",
+            "religions" : {
+               
+                   "Catholic" :"75.3"
+                   ,
+                   "Protestant" :"4.9"
+                   ,
+                   "Jehovas Witnesses" :"1.7"
+                   
+            },
+            "ville" : {
+                "Oranjestad"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            ,
+            {
+            "pays" : "Venezuela",
+           "capital" : "cty-Venezuela-Caracas",
+            "population" : "28946101",
+           "superficie" : "912050",
+            "religions" : {
+               
+                   "Catholic" :"71"
+                   ,
+                   "Protestant" :"17"
+                   ,
+                   "Muslim" :"0.4"
+                   ,
+                   "Mormon" :"0.3"
+                   ,
+                   "Buddhist" :"0.2"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CO"
+                ,
+                "BR"
+                ,
+                "GUY"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Guyana",
+           "capital" : "cty-Guyana-Georgetown",
+            "population" : "747884",
+           "superficie" : "214970",
+            "religions" : {
+               
+                   "Protestant" :"34.8"
+                   ,
+                   "Hindu" :"24.8"
+                   ,
+                   "Catholic" :"7.1"
+                   ,
+                   "Muslim" :"6.8"
+                   ,
+                   "Jehovas Witnesses" :"1.3"
+                   
+            },
+            "ville" : {
+                "Georgetown"
+                
+            },
+            "frontières" : {
+            
+                "BR"
+                ,
+                "SME"
+                ,
+                "YV"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Suriname",
+           "capital" : "cty-Suriname-Paramaribo",
+            "population" : "541638",
+           "superficie" : "163270",
+            "religions" : {
+               
+                   "Muslim" :"13.8"
+                   ,
+                   "Catholic" :"21.6"
+                   ,
+                   "Protestant" :"23.6"
+                   ,
+                   "Hindu" :"22.3"
+                   ,
+                   "Jehovas Witnesses" :"1.2"
+                   
+            },
+            "ville" : {
+                "Paramaribo"
+                
+            },
+            "frontières" : {
+            
+                "BR"
+                ,
+                "FGU"
+                ,
+                "GUY"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "French Guiana",
+           "capital" : "cty-French-Guiana-Cayenne",
+            "population" : "268700",
+           "superficie" : "83534",
+            "religions" : {
+               
+                   "Catholic" :"76"
+                   ,
+                   "Protestant" :"8"
+                   
+            },
+            "ville" : {
+                "Cayenne"
+                
+            },
+            "frontières" : {
+            
+                "BR"
+                ,
+                "SME"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Colombia",
+           "capital" : "cty-Colombia-Bogota",
+            "population" : "47661787",
+           "superficie" : "1138910",
+            "religions" : {
+               
+                   "Catholic" :"79"
+                   ,
+                   "Protestant" :"16.7"
+                   ,
+                   "Jehovas Witnesses" :"1.8"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "PA"
+                ,
+                "BR"
+                ,
+                "PE"
+                ,
+                "YV"
+                ,
+                "EC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Ecuador",
+           "capital" : "cty-Ecuador-Quito",
+            "population" : "14483499",
+           "superficie" : "283560",
+            "religions" : {
+               
+                   "Catholic" :"74"
+                   ,
+                   "Protestant" :"10.4"
+                   ,
+                   "Mormon" :"1.4"
+                   ,
+                   "Jehovas Witnesses" :"1.2"
+                   
+            },
+            "ville" : {
+                "Quito"
+                ,
+                "Guayaquil"
+                ,
+                "Cuenca"
+                ,
+                "Santo Domingo de los Colorados"
+                
+            },
+            "frontières" : {
+            
+                "CO"
+                ,
+                "PE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Peru",
+           "capital" : "cty-Peru-Lima",
+            "population" : "30135875",
+           "superficie" : "1285220",
+            "religions" : {
+               
+                   "Catholic" :"76"
+                   ,
+                   "Protestant" :"17.2"
+                   ,
+                   "Jehovas Witnesses" :"0.75"
+                   ,
+                   "Mormon" :"0.5"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CO"
+                ,
+                "BOL"
+                ,
+                "BR"
+                ,
+                "RCH"
+                ,
+                "EC"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Bolivia",
+           "capital" : "cty-BOL-1",
+            "population" : "10027262",
+           "superficie" : "1098580",
+            "religions" : {
+               
+                   "Catholic" :"73"
+                   ,
+                   "Protestant" :"20"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RA"
+                ,
+                "BR"
+                ,
+                "RCH"
+                ,
+                "PY"
+                ,
+                "PE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Chile",
+           "capital" : "cty-Chile-13",
+            "population" : "16341929",
+           "superficie" : "756950",
+            "religions" : {
+               
+                   "Catholic" :"55"
+                   ,
+                   "Protestant" :"18"
+                   ,
+                   "Jehovas Witnesses" :"1.0"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "RA"
+                ,
+                "BOL"
+                ,
+                "PE"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Argentina",
+           "capital" : "cty-Argentina-Buenos-Aires",
+            "population" : "42669500",
+           "superficie" : "2766890",
+            "religions" : {
+               
+                   "Catholic" :"62.9"
+                   ,
+                   "Protestant" :"15.3"
+                   ,
+                   "Muslim" :"2"
+                   ,
+                   "Jehovas Witnesses" :"1.2"
+                   ,
+                   "Mormon" :"0.9"
+                   ,
+                   "Jewish" :"0.7"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "BOL"
+                ,
+                "BR"
+                ,
+                "RCH"
+                ,
+                "PY"
+                ,
+                "ROU"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Paraguay",
+           "capital" : "cty-Paraguay-Asuncion",
+            "population" : "6672631",
+           "superficie" : "406750",
+            "religions" : {
+               
+                   "Catholic" :"88.3"
+                   ,
+                   "Protestant" :"6.8"
+                   ,
+                   "Mormon" :"0.24"
+                   ,
+                   "Jehovas Witnesses" :"0.3"
+                   
+            },
+            "ville" : {
+                "Asunción"
+                ,
+                "Ciudad del Este"
+                
+            },
+            "frontières" : {
+            
+                "RA"
+                ,
+                "BOL"
+                ,
+                "BR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Uruguay",
+           "capital" : "cty-Uruguay-Montevideo",
+            "population" : "3286314",
+           "superficie" : "176220",
+            "religions" : {
+               
+                   "Catholic" :"47.1"
+                   ,
+                   "Protestant" :"11.1"
+                   ,
+                   "Jewish" :"0.5"
+                   
+            },
+            "ville" : {
+                "Montevideo"
+                ,
+                "Salto"
+                
+            },
+            "frontières" : {
+            
+                "RA"
+                ,
+                "BR"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Brazil",
+           "capital" : "cty-Brazil-Brasilia",
+            "population" : "202768562",
+           "superficie" : "8511965",
+            "religions" : {
+               
+                   "Catholic" :"65"
+                   ,
+                   "Protestant" :"22.2"
+                   ,
+                   "Jehovas Witnesses" :"0.7"
+                   ,
+                   "Mormon" :"0.1"
+                   ,
+                   "Buddhist" :"0.1"
+                   
+            },
+            "ville" : {
+            },
+            "frontières" : {
+            
+                "CO"
+                ,
+                "RA"
+                ,
+                "BOL"
+                ,
+                "PY"
+                ,
+                "ROU"
+                ,
+                "PE"
+                ,
+                "FGU"
+                ,
+                "GUY"
+                ,
+                "SME"
+                ,
+                "YV"
+                
+            }
+            }
+            ,
+            {
+            "pays" : "Falkland Islands",
+           "capital" : "city-Stanley-FALK-FALK",
+            "population" : "3398",
+           "superficie" : "12173",
+            "religions" : {
+               
+                   "Catholic" :"10"
+                   ,
+                   "Protestant" :"47"
+                   
+            },
+            "ville" : {
+                "Stanley"
+                
+            },
+            "frontières" : {
+            
+            }
+            }
+            
+        ]
+    

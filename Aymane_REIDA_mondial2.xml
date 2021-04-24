@@ -1,0 +1,6653 @@
+<mondial>
+   <country>
+      <pays>Albania</pays>
+      <capital>cty-Albania-Tirane</capital>
+      <population>2821977</population>
+      <superficie>28750</superficie>
+      <religions>
+         <religion pourcentage="58.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.8">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tirana</ville>
+         <ville>Shkodër</ville>
+         <ville>Durrës</ville>
+         <ville>Vlorë</ville>
+         <ville>Elbasan</ville>
+         <ville>Korçë</ville>
+      </villes>
+      <frontières>
+         <frontière>GR</frontière>
+         <frontière>MK</frontière>
+         <frontière>MNE</frontière>
+         <frontière>KOS</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Greece</pays>
+      <capital>cty-Greece-Athens</capital>
+      <population>10816286</population>
+      <superficie>131940</superficie>
+      <religions>
+         <religion pourcentage="91">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AL</frontière>
+         <frontière>MK</frontière>
+         <frontière>BG</frontière>
+         <frontière>TR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Cyprus</pays>
+      <capital>cty-Cyprus-Nicosia</capital>
+      <population>1133803</population>
+      <superficie>9251</superficie>
+      <religions>
+         <religion pourcentage="69.6">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="25.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Lefkosia</ville>
+         <ville>Larnaka</ville>
+         <ville>Lemesos</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>North Macedonia</pays>
+      <capital>cty-Macedonia-Skopje</capital>
+      <population>2059794</population>
+      <superficie>25333</superficie>
+      <religions>
+         <religion pourcentage="64.8">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="33.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Skopje</ville>
+         <ville>Kumanovo</ville>
+      </villes>
+      <frontières>
+         <frontière>AL</frontière>
+         <frontière>GR</frontière>
+         <frontière>SRB</frontière>
+         <frontière>KOS</frontière>
+         <frontière>BG</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Serbia</pays>
+      <capital>city-Belgrade-SRB-SRB</capital>
+      <population>7120666</population>
+      <superficie>77474</superficie>
+      <religions>
+         <religion pourcentage="84.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="5.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Beograd</ville>
+         <ville>Novi Sad</ville>
+         <ville>Niš</ville>
+      </villes>
+      <frontières>
+         <frontière>H</frontière>
+         <frontière>RO</frontière>
+         <frontière>BG</frontière>
+         <frontière>MK</frontière>
+         <frontière>HR</frontière>
+         <frontière>BIH</frontière>
+         <frontière>MNE</frontière>
+         <frontière>KOS</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Montenegro</pays>
+      <capital>city-Podgorica-MNE-MNE</capital>
+      <population>620029</population>
+      <superficie>14026</superficie>
+      <religions>
+         <religion pourcentage="72.1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="19.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Podgorica</ville>
+      </villes>
+      <frontières>
+         <frontière>HR</frontière>
+         <frontière>SRB</frontière>
+         <frontière>BIH</frontière>
+         <frontière>AL</frontière>
+         <frontière>KOS</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Kosovo</pays>
+      <capital>city-Pristina-KOS-KOS</capital>
+      <population>1733872</population>
+      <superficie>10887</superficie>
+      <religions>
+         <religion pourcentage="95.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Prishtine</ville>
+      </villes>
+      <frontières>
+         <frontière>MNE</frontière>
+         <frontière>SRB</frontière>
+         <frontière>MK</frontière>
+         <frontière>AL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Andorra</pays>
+      <capital>cty-Andorra-Andorra-la-Vella</capital>
+      <population>78115</population>
+      <superficie>450</superficie>
+      <religions>
+         <religion pourcentage="90.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Andorra la Vella</ville>
+      </villes>
+      <frontières>
+         <frontière>F</frontière>
+         <frontière>E</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>France</pays>
+      <capital>cty-France-Paris</capital>
+      <population>64300821</population>
+      <superficie>547030</superficie>
+      <religions>
+         <religion pourcentage="57.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AND</frontière>
+         <frontière>E</frontière>
+         <frontière>D</frontière>
+         <frontière>I</frontière>
+         <frontière>CH</frontière>
+         <frontière>B</frontière>
+         <frontière>L</frontière>
+         <frontière>MC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Spain</pays>
+      <capital>cty-Spain-Madrid</capital>
+      <population>46815916</population>
+      <superficie>504750</superficie>
+      <religions>
+         <religion pourcentage="68.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.25">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.14">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AND</frontière>
+         <frontière>F</frontière>
+         <frontière>GBZ</frontière>
+         <frontière>P</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Czech Republic</pays>
+      <capital>cty-Czech-2</capital>
+      <population>10562214</population>
+      <superficie>78703</superficie>
+      <religions>
+         <religion pourcentage="10.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>A</frontière>
+         <frontière>D</frontière>
+         <frontière>SK</frontière>
+         <frontière>PL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Slovakia</pays>
+      <capital>cty-Slovakia-Bratislava</capital>
+      <population>5397036</population>
+      <superficie>48845</superficie>
+      <religions>
+         <religion pourcentage="65.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="8.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>A</frontière>
+         <frontière>CZ</frontière>
+         <frontière>H</frontière>
+         <frontière>PL</frontière>
+         <frontière>UA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Germany</pays>
+      <capital>cty-Germany-Berlin</capital>
+      <population>82521653</population>
+      <superficie>356910</superficie>
+      <religions>
+         <religion pourcentage="28.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="27.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="6.5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.25">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>F</frontière>
+         <frontière>A</frontière>
+         <frontière>CZ</frontière>
+         <frontière>CH</frontière>
+         <frontière>PL</frontière>
+         <frontière>B</frontière>
+         <frontière>L</frontière>
+         <frontière>NL</frontière>
+         <frontière>DK</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Hungary</pays>
+      <capital>cty-Hungary-Budapest</capital>
+      <population>9937628</population>
+      <superficie>93030</superficie>
+      <religions>
+         <religion pourcentage="39.0">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="13.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>SRB</frontière>
+         <frontière>A</frontière>
+         <frontière>SK</frontière>
+         <frontière>SLO</frontière>
+         <frontière>UA</frontière>
+         <frontière>HR</frontière>
+         <frontière>RO</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Italy</pays>
+      <capital>cty-Italy-Rome</capital>
+      <population>59433744</population>
+      <superficie>301230</superficie>
+      <religions>
+         <religion pourcentage="71.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="2.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="3.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Sikh</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>F</frontière>
+         <frontière>A</frontière>
+         <frontière>SLO</frontière>
+         <frontière>CH</frontière>
+         <frontière>V</frontière>
+         <frontière>RSM</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Switzerland</pays>
+      <capital>cty-Switzerland-5</capital>
+      <population>8139631</population>
+      <superficie>41290</superficie>
+      <religions>
+         <religion pourcentage="37.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="27.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="5.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>F</frontière>
+         <frontière>A</frontière>
+         <frontière>D</frontière>
+         <frontière>I</frontière>
+         <frontière>FL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Liechtenstein</pays>
+      <capital>cty-Liechtenstein-Vaduz</capital>
+      <population>36149</population>
+      <superficie>160</superficie>
+      <religions>
+         <religion pourcentage="75.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="8.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="5.4">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Vaduz</ville>
+      </villes>
+      <frontières>
+         <frontière>A</frontière>
+         <frontière>CH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Austria</pays>
+      <capital>cty-Austria-Vienna</capital>
+      <population>8499759</population>
+      <superficie>83850</superficie>
+      <religions>
+         <religion pourcentage="56.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.4">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="3.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="8.0">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CZ</frontière>
+         <frontière>D</frontière>
+         <frontière>H</frontière>
+         <frontière>I</frontière>
+         <frontière>FL</frontière>
+         <frontière>SK</frontière>
+         <frontière>SLO</frontière>
+         <frontière>CH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Estonia</pays>
+      <capital>cty-Estonia-Tallinn</capital>
+      <population>1294455</population>
+      <superficie>45100</superficie>
+      <religions>
+         <religion pourcentage="16.2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="10.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tallinn</ville>
+         <ville>Tartu</ville>
+      </villes>
+      <frontières>
+         <frontière>LV</frontière>
+         <frontière>R</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Latvia</pays>
+      <capital>cty-Latvia-Riga</capital>
+      <population>2201196</population>
+      <superficie>64100</superficie>
+      <religions>
+         <religion pourcentage="36.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="19.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="19.1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Rīga</ville>
+      </villes>
+      <frontières>
+         <frontière>BY</frontière>
+         <frontière>LT</frontière>
+         <frontière>R</frontière>
+         <frontière>EST</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Lithuania</pays>
+      <capital>cty-Lithuania-1</capital>
+      <population>2979310</population>
+      <superficie>65200</superficie>
+      <religions>
+         <religion pourcentage="77.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.9">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Vilnius</ville>
+         <ville>Kaunas</ville>
+         <ville>Klaipeda</ville>
+      </villes>
+      <frontières>
+         <frontière>BY</frontière>
+         <frontière>LV</frontière>
+         <frontière>PL</frontière>
+         <frontière>R</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Belarus</pays>
+      <capital>cty-Belarus-Minsk</capital>
+      <population>9460692</population>
+      <superficie>207600</superficie>
+      <religions>
+         <religion pourcentage="48.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="7.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>LV</frontière>
+         <frontière>LT</frontière>
+         <frontière>PL</frontière>
+         <frontière>UA</frontière>
+         <frontière>R</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Poland</pays>
+      <capital>cty-PL-Warsaw</capital>
+      <population>38533789</population>
+      <superficie>312683</superficie>
+      <religions>
+         <religion pourcentage="85.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CZ</frontière>
+         <frontière>D</frontière>
+         <frontière>SK</frontière>
+         <frontière>BY</frontière>
+         <frontière>LT</frontière>
+         <frontière>UA</frontière>
+         <frontière>R</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Ukraine</pays>
+      <capital>cty-Ukraine-Kiev</capital>
+      <population>45633637</population>
+      <superficie>603700</superficie>
+      <religions>
+         <religion pourcentage="67.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="10.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>H</frontière>
+         <frontière>SK</frontière>
+         <frontière>BY</frontière>
+         <frontière>PL</frontière>
+         <frontière>R</frontière>
+         <frontière>RO</frontière>
+         <frontière>MD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Russia</pays>
+      <capital>cty-Russia-Moscow</capital>
+      <population>143666931</population>
+      <superficie>17075200</superficie>
+      <religions>
+         <religion pourcentage="42.7">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>BY</frontière>
+         <frontière>LV</frontière>
+         <frontière>LT</frontière>
+         <frontière>PL</frontière>
+         <frontière>UA</frontière>
+         <frontière>EST</frontière>
+         <frontière>SF</frontière>
+         <frontière>N</frontière>
+         <frontière>CN</frontière>
+         <frontière>GE</frontière>
+         <frontière>AZ</frontière>
+         <frontière>KZ</frontière>
+         <frontière>KP</frontière>
+         <frontière>MNG</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Belgium</pays>
+      <capital>cty-Belgium-Brussels</capital>
+      <population>11099554</population>
+      <superficie>30510</superficie>
+      <religions>
+         <religion pourcentage="52.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="6.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>F</frontière>
+         <frontière>D</frontière>
+         <frontière>L</frontière>
+         <frontière>NL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Luxembourg</pays>
+      <capital>cty-Luxembourg-Luxembourg</capital>
+      <population>524853</population>
+      <superficie>2586</superficie>
+      <religions>
+         <religion pourcentage="68.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Luxembourg</ville>
+      </villes>
+      <frontières>
+         <frontière>F</frontière>
+         <frontière>D</frontière>
+         <frontière>B</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Netherlands</pays>
+      <capital>cty-Netherlands-Amsterdam</capital>
+      <population>16843181</population>
+      <superficie>37330</superficie>
+      <religions>
+         <religion pourcentage="23.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="14.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="5.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="1.0">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>D</frontière>
+         <frontière>B</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Slovenia</pays>
+      <capital>cty-Slovenia-Ljubljana</capital>
+      <population>2058821</population>
+      <superficie>20256</superficie>
+      <religions>
+         <religion pourcentage="57.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.4">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Ljubljana</ville>
+         <ville>Maribor</ville>
+      </villes>
+      <frontières>
+         <frontière>A</frontière>
+         <frontière>H</frontière>
+         <frontière>I</frontière>
+         <frontière>HR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Croatia</pays>
+      <capital>cty-Croatia-1</capital>
+      <population>4290612</population>
+      <superficie>56538</superficie>
+      <religions>
+         <religion pourcentage="86.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.4">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Zagreb</ville>
+         <ville>Split</ville>
+         <ville>Rijeka</ville>
+         <ville>Osijek</ville>
+         <ville>Zadar</ville>
+      </villes>
+      <frontières>
+         <frontière>SRB</frontière>
+         <frontière>MNE</frontière>
+         <frontière>H</frontière>
+         <frontière>SLO</frontière>
+         <frontière>BIH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bosnia and Herzegovina</pays>
+      <capital>cty-BIH-1</capital>
+      <population>3791622</population>
+      <superficie>51233</superficie>
+      <religions>
+         <religion pourcentage="50.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="30.7">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="15.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>SRB</frontière>
+         <frontière>MNE</frontière>
+         <frontière>HR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bulgaria</pays>
+      <capital>cty-Bulgaria-1</capital>
+      <population>7351234</population>
+      <superficie>110910</superficie>
+      <religions>
+         <religion pourcentage="59.4">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="7.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Sofia</ville>
+         <ville>Plovdiv</ville>
+         <ville>Varna</ville>
+         <ville>Burgas</ville>
+         <ville>Ruse</ville>
+         <ville>Stara Zagora</ville>
+      </villes>
+      <frontières>
+         <frontière>GR</frontière>
+         <frontière>MK</frontière>
+         <frontière>SRB</frontière>
+         <frontière>RO</frontière>
+         <frontière>TR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Romania</pays>
+      <capital>cty-Romania-2</capital>
+      <population>20121641</population>
+      <superficie>237500</superficie>
+      <religions>
+         <religion pourcentage="86.7">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="5.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>SRB</frontière>
+         <frontière>H</frontière>
+         <frontière>UA</frontière>
+         <frontière>BG</frontière>
+         <frontière>MD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Denmark</pays>
+      <capital>cty-Denmark-Copenhagen</capital>
+      <population>5678348</population>
+      <superficie>43070</superficie>
+      <religions>
+         <religion pourcentage="74.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5.5">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>D</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Iceland</pays>
+      <capital>cty-Iceland-Reykjavik</capital>
+      <population>332529</population>
+      <superficie>103000</superficie>
+      <religions>
+         <religion pourcentage="74">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3.9">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Reykjavik</ville>
+         <ville>Keflavik</ville>
+         <ville>Hafnarfjordur</ville>
+         <ville>Akureyri</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Faroe Islands</pays>
+      <capital>cty-Faroe-Islands-Torshavn</capital>
+      <population>48346</population>
+      <superficie>1400</superficie>
+      <religions>
+         <religion pourcentage="92">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tórshavn</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Ireland</pays>
+      <capital>cty-Ireland-Dublin</capital>
+      <population>4588252</population>
+      <superficie>70280</superficie>
+      <religions>
+         <religion pourcentage="78.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Dublin</ville>
+         <ville>Cork</ville>
+         <ville>Galway</ville>
+         <ville>Limerick</ville>
+      </villes>
+      <frontières>
+         <frontière>GB</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Finland</pays>
+      <capital>cty-Finland-Helsinki</capital>
+      <population>5513130</population>
+      <superficie>337030</superficie>
+      <religions>
+         <religion pourcentage="69.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="2.7">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>N</frontière>
+         <frontière>S</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Norway</pays>
+      <capital>cty-Norway-Oslo</capital>
+      <population>5051275</population>
+      <superficie>324220</superficie>
+      <religions>
+         <religion pourcentage="70.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3.2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>SF</frontière>
+         <frontière>S</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Sweden</pays>
+      <capital>cty-Sweden-Stockholm</capital>
+      <population>9555893</population>
+      <superficie>449964</superficie>
+      <religions>
+         <religion pourcentage="64.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="8.1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>SF</frontière>
+         <frontière>N</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Monaco</pays>
+      <capital>cty-Monaco-Monaco</capital>
+      <population>36845</population>
+      <superficie>1.9</superficie>
+      <religions>
+         <religion pourcentage="77">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="2.5">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Monaco</ville>
+      </villes>
+      <frontières>
+         <frontière>F</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Vatican City</pays>
+      <capital>cty-Holy-See-Vatican-City</capital>
+      <population>826</population>
+      <superficie>0.44</superficie>
+      <religions>
+         <religion pourcentage="100">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Vatican City</ville>
+      </villes>
+      <frontières>
+         <frontière>I</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Ceuta</pays>
+      <capital>cty-Ceuta-Ceuta</capital>
+      <population>82376</population>
+      <superficie>18</superficie>
+      <religions>
+         <religion pourcentage="68">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="28">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Ceuta</ville>
+      </villes>
+      <frontières>
+         <frontière>MA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Melilla</pays>
+      <capital>cty-Melilla-Melilla</capital>
+      <population>78476</population>
+      <superficie>12</superficie>
+      <religions>
+         <religion pourcentage="40">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="50">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Melilla</ville>
+      </villes>
+      <frontières>
+         <frontière>MA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>San Marino</pays>
+      <capital>cty-San-Marino-San-Marino</capital>
+      <population>32440</population>
+      <superficie>60</superficie>
+      <religions>
+         <religion pourcentage="97.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>San Marino</ville>
+      </villes>
+      <frontières>
+         <frontière>I</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Malta</pays>
+      <capital>cty-Malta-Valletta</capital>
+      <population>475800</population>
+      <superficie>316</superficie>
+      <religions>
+         <religion pourcentage="93.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Valletta</ville>
+         <ville>Victoria</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Isle of Man</pays>
+      <capital>cty-Man-Douglas</capital>
+      <population>84497</population>
+      <superficie>588</superficie>
+      <religions></religions>
+      <villes>
+         <ville>Douglas</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Moldova</pays>
+      <capital>cty-Moldova-Chisinau</capital>
+      <population>3473900</population>
+      <superficie>33700</superficie>
+      <religions>
+         <religion pourcentage="93.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.15">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Chişinău</ville>
+         <ville>Tiraspol</ville>
+         <ville>Bălţi</ville>
+      </villes>
+      <frontières>
+         <frontière>UA</frontière>
+         <frontière>RO</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Portugal</pays>
+      <capital>cty-Portugal-Lisbon</capital>
+      <population>10561614</population>
+      <superficie>92080</superficie>
+      <religions>
+         <religion pourcentage="81">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>E</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Svalbard</pays>
+      <capital>city-SVA-Longyearbyen</capital>
+      <population>2667</population>
+      <superficie>62049</superficie>
+      <religions>
+         <religion pourcentage="60">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="25">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Longyearbyen</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>United Kingdom</pays>
+      <capital>cty-United-Kingdom-2</capital>
+      <population>64105654</population>
+      <superficie>244820</superficie>
+      <religions>
+         <religion pourcentage="42">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="4.4">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Sikh</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>IRL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Gibraltar</pays>
+      <capital>cty-Gibraltar-Gibraltar</capital>
+      <population>32577</population>
+      <superficie>6.5</superficie>
+      <religions>
+         <religion pourcentage="72.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="7.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2.4">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Gibraltar</ville>
+      </villes>
+      <frontières>
+         <frontière>E</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Guernsey</pays>
+      <capital>cty-Guernsey-Saint-Peter-Port</capital>
+      <population>64540</population>
+      <superficie>194</superficie>
+      <religions></religions>
+      <villes>
+         <ville>Saint Peter Port</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Jersey</pays>
+      <capital>cty-Jersey-Saint-Helier</capital>
+      <population>97857</population>
+      <superficie>117</superficie>
+      <religions>
+         <religion pourcentage="25">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="25">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Saint Helier</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Armenia</pays>
+      <capital>cty-Armenia-Yerevan</capital>
+      <population>3026879</population>
+      <superficie>29800</superficie>
+      <religions>
+         <religion pourcentage="92.6">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Yazidi</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Yerevan</ville>
+      </villes>
+      <frontières>
+         <frontière>TR</frontière>
+         <frontière>IR</frontière>
+         <frontière>GE</frontière>
+         <frontière>AZ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Georgia</pays>
+      <capital>cty-Georgia-1</capital>
+      <population>4010000</population>
+      <superficie>69700</superficie>
+      <religions>
+         <religion pourcentage="86.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="10.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Yazidi</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tbilisi</ville>
+         <ville>Kutaisi</ville>
+         <ville>Batumi</ville>
+      </villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>TR</frontière>
+         <frontière>ARM</frontière>
+         <frontière>AZ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Azerbaijan</pays>
+      <capital>cty-Azerbaijan-Baku</capital>
+      <population>9356500</population>
+      <superficie>86600</superficie>
+      <religions>
+         <religion pourcentage="96.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Baku</ville>
+         <ville>Ganja</ville>
+         <ville>Sumgayit</ville>
+      </villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>TR</frontière>
+         <frontière>IR</frontière>
+         <frontière>ARM</frontière>
+         <frontière>GE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Turkey</pays>
+      <capital>cty-Turkey-Ankara</capital>
+      <population>75627384</population>
+      <superficie>780580</superficie>
+      <religions>
+         <religion pourcentage="98.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>GR</frontière>
+         <frontière>BG</frontière>
+         <frontière>IR</frontière>
+         <frontière>ARM</frontière>
+         <frontière>GE</frontière>
+         <frontière>AZ</frontière>
+         <frontière>IRQ</frontière>
+         <frontière>SYR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Lebanon</pays>
+      <capital>cty-Lebanon-Beirut</capital>
+      <population>4341092</population>
+      <superficie>10400</superficie>
+      <religions>
+         <religion pourcentage="55.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="27.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="5.7">
+            <h3>Druze</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bayrūt</ville>
+      </villes>
+      <frontières>
+         <frontière>IL</frontière>
+         <frontière>SYR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>West Bank</pays>
+      <capital>cty-Westbank-Ramallah</capital>
+      <population>2881687</population>
+      <superficie>5655</superficie>
+      <religions>
+         <religion pourcentage="82">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="13">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Ramallah</ville>
+         <ville>Nablus</ville>
+         <ville>Al Khalil</ville>
+      </villes>
+      <frontières>
+         <frontière>IL</frontière>
+         <frontière>JOR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Gaza Strip</pays>
+      <capital></capital>
+      <population>1899291</population>
+      <superficie>365</superficie>
+      <religions>
+         <religion pourcentage="99.8">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Gaza</ville>
+      </villes>
+      <frontières>
+         <frontière>IL</frontière>
+         <frontière>ET</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Israel</pays>
+      <capital>cty-Israel-Jerusalem</capital>
+      <population>7420368</population>
+      <superficie>22072</superficie>
+      <religions>
+         <religion pourcentage="74.3">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="17.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Druze</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>GAZA</frontière>
+         <frontière>ET</frontière>
+         <frontière>JOR</frontière>
+         <frontière>SYR</frontière>
+         <frontière>RL</frontière>
+         <frontière>WB</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Syria</pays>
+      <capital>cty-SYR-8</capital>
+      <population>17070135</population>
+      <superficie>185180</superficie>
+      <religions>
+         <religion pourcentage="87">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="8">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Druze</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>TR</frontière>
+         <frontière>IL</frontière>
+         <frontière>IRQ</frontière>
+         <frontière>JOR</frontière>
+         <frontière>RL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Jordan</pays>
+      <capital>cty-Jordan-Amman</capital>
+      <population>9131712</population>
+      <superficie>89213</superficie>
+      <religions>
+         <religion pourcentage="97.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Druze</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Amman</ville>
+         <ville>Zarqa</ville>
+         <ville>Irbid</ville>
+      </villes>
+      <frontières>
+         <frontière>IL</frontière>
+         <frontière>IRQ</frontière>
+         <frontière>SA</frontière>
+         <frontière>SYR</frontière>
+         <frontière>WB</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Saudi Arabia</pays>
+      <capital>cty-SA-6</capital>
+      <population>27136977</population>
+      <superficie>1960582</superficie>
+      <religions>
+         <religion pourcentage="100">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>IRQ</frontière>
+         <frontière>JOR</frontière>
+         <frontière>KWT</frontière>
+         <frontière>OM</frontière>
+         <frontière>UAE</frontière>
+         <frontière>YE</frontière>
+         <frontière>Q</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bahrain</pays>
+      <capital>cty-Bahrain-Manama</capital>
+      <population>1234571</population>
+      <superficie>620</superficie>
+      <religions>
+         <religion pourcentage="70.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="14">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="9.8">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="2.5">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Al Manāmah</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Qatar</pays>
+      <capital>cty-Qatar-Doha</capital>
+      <population>2404776</population>
+      <superficie>11000</superficie>
+      <religions>
+         <religion pourcentage="67.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="12">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="13.8">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="3.1">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Doha</ville>
+         <ville>Al Rayyan</ville>
+      </villes>
+      <frontières>
+         <frontière>SA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>United Arab Emirates</pays>
+      <capital>cty-United-Arab-Emirates-3</capital>
+      <population>9121167</population>
+      <superficie>75581</superficie>
+      <religions>
+         <religion pourcentage="76">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="6.6">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Sikh</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Abu Dhabi</ville>
+         <ville>Al Ain</ville>
+         <ville>Dubai</ville>
+         <ville>Al Sharjah</ville>
+      </villes>
+      <frontières>
+         <frontière>SA</frontière>
+         <frontière>OM</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Oman</pays>
+      <capital>cty-Oman-Muscat</capital>
+      <population>4992364</population>
+      <superficie>212460</superficie>
+      <religions>
+         <religion pourcentage="85.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="6.5">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="5.5">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Muscat</ville>
+         <ville>As Seeb</ville>
+      </villes>
+      <frontières>
+         <frontière>SA</frontière>
+         <frontière>UAE</frontière>
+         <frontière>YE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Yemen</pays>
+      <capital>cty-Yemen-Sanaa</capital>
+      <population>24527000</population>
+      <superficie>527970</superficie>
+      <religions>
+         <religion pourcentage="99.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Sanaa</ville>
+         <ville>Aden</ville>
+         <ville>Taizz</ville>
+         <ville>al Hudaydah</ville>
+      </villes>
+      <frontières>
+         <frontière>SA</frontière>
+         <frontière>OM</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Kuwait</pays>
+      <capital>cty-Kuwait-Kuwait</capital>
+      <population>2991580</population>
+      <superficie>17820</superficie>
+      <religions>
+         <religion pourcentage="74.36">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="7">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Al Kuwayt</ville>
+      </villes>
+      <frontières>
+         <frontière>IRQ</frontière>
+         <frontière>SA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Iraq</pays>
+      <capital>cty-Iraq-Baghdad</capital>
+      <population>33330512</population>
+      <superficie>437072</superficie>
+      <religions>
+         <religion pourcentage="97">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Yazidi</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>TR</frontière>
+         <frontière>IR</frontière>
+         <frontière>JOR</frontière>
+         <frontière>KWT</frontière>
+         <frontière>SA</frontière>
+         <frontière>SYR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Iran</pays>
+      <capital>cty-Iran-Tehran</capital>
+      <population>79926270</population>
+      <superficie>1648000</superficie>
+      <religions>
+         <religion pourcentage="99.4">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>TR</frontière>
+         <frontière>AFG</frontière>
+         <frontière>PK</frontière>
+         <frontière>TM</frontière>
+         <frontière>ARM</frontière>
+         <frontière>AZ</frontière>
+         <frontière>IRQ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Afghanistan</pays>
+      <capital>cty-Afghanistan-Kabul</capital>
+      <population>26023100</population>
+      <superficie>647500</superficie>
+      <religions>
+         <religion pourcentage="99">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kabul</ville>
+         <ville>Herat</ville>
+         <ville>Kandahar</ville>
+         <ville>Mazar-i-Sharif</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>IR</frontière>
+         <frontière>PK</frontière>
+         <frontière>TJ</frontière>
+         <frontière>TM</frontière>
+         <frontière>UZ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Turkmenistan</pays>
+      <capital>cty-Turkmenistan-1</capital>
+      <population>6550000</population>
+      <superficie>488100</superficie>
+      <religions>
+         <religion pourcentage="91">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="6">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AFG</frontière>
+         <frontière>IR</frontière>
+         <frontière>UZ</frontière>
+         <frontière>KZ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Uzbekistan</pays>
+      <capital>cty-Uzbekistan-Tashkent</capital>
+      <population>32120500</population>
+      <superficie>447400</superficie>
+      <religions>
+         <religion pourcentage="88">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="9">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AFG</frontière>
+         <frontière>TJ</frontière>
+         <frontière>TM</frontière>
+         <frontière>KZ</frontière>
+         <frontière>KG</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Tajikistan</pays>
+      <capital>cty-Tajikistan-2</capital>
+      <population>8161100</population>
+      <superficie>143100</superficie>
+      <religions>
+         <religion pourcentage="98">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AFG</frontière>
+         <frontière>CN</frontière>
+         <frontière>UZ</frontière>
+         <frontière>KG</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Kyrgyzstan</pays>
+      <capital>cty-Kyrgyzstan-Bishkek</capital>
+      <population>6256700</population>
+      <superficie>198500</superficie>
+      <religions>
+         <religion pourcentage="87.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="9.4">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bishkek</ville>
+         <ville>Osh</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>TJ</frontière>
+         <frontière>UZ</frontière>
+         <frontière>KZ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Kazakhstan</pays>
+      <capital>cty-Kazakhstan-Astana</capital>
+      <population>17165239</population>
+      <superficie>2717300</superficie>
+      <religions>
+         <religion pourcentage="70.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="24">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>CN</frontière>
+         <frontière>TM</frontière>
+         <frontière>UZ</frontière>
+         <frontière>KG</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Mongolia</pays>
+      <capital>cty-Mongolia-Ulaanbaatar</capital>
+      <population>2754685</population>
+      <superficie>1565000</superficie>
+      <religions>
+         <religion pourcentage="53">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Ulaanbaatar</ville>
+      </villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>CN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Maldives</pays>
+      <capital>cty-Maldives-Male</capital>
+      <population>402071</population>
+      <superficie>300</superficie>
+      <religions>
+         <religion pourcentage="98">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Male</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Pakistan</pays>
+      <capital>cty-PK-4</capital>
+      <population>207776954</population>
+      <superficie>803940</superficie>
+      <religions>
+         <religion pourcentage="97">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>AFG</frontière>
+         <frontière>CN</frontière>
+         <frontière>IR</frontière>
+         <frontière>IND</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>India</pays>
+      <capital>cty-India-New-Delhi</capital>
+      <population>1210854977</population>
+      <superficie>3287590</superficie>
+      <religions>
+         <religion pourcentage="79.8">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="14.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Sikh</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jains</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Sarnaism</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>PK</frontière>
+         <frontière>BD</frontière>
+         <frontière>MYA</frontière>
+         <frontière>BHT</frontière>
+         <frontière>NEP</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Nepal</pays>
+      <capital>cty-Nepal-Kathmandu</capital>
+      <population>26494504</population>
+      <superficie>140800</superficie>
+      <religions>
+         <religion pourcentage="81.3">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="9.0">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="4.4">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kathmandu</ville>
+         <ville>Pokhara</ville>
+         <ville>Lalitpur</ville>
+         <ville>Biratnagar</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>IND</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bhutan</pays>
+      <capital>cty-Bhutan-Thimphu</capital>
+      <population>754388</population>
+      <superficie>47000</superficie>
+      <religions>
+         <religion pourcentage="75.3">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="22.6">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Thimphu</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>IND</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bangladesh</pays>
+      <capital>cty-BD-3</capital>
+      <population>149772364</population>
+      <superficie>144000</superficie>
+      <religions>
+         <religion pourcentage="89.5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="8.5">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>MYA</frontière>
+         <frontière>IND</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Myanmar</pays>
+      <capital>cty-Burma-NayPyiTaw</capital>
+      <population>51419420</population>
+      <superficie>678500</superficie>
+      <religions>
+         <religion pourcentage="87.9">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="6.2">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="4.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>BD</frontière>
+         <frontière>IND</frontière>
+         <frontière>LAO</frontière>
+         <frontière>THA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Sri Lanka</pays>
+      <capital>cty-Sri-Lanka-1</capital>
+      <population>20263723</population>
+      <superficie>65610</superficie>
+      <religions>
+         <religion pourcentage="70.2">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="12.6">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="9.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="6.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Sri Jayawardhanapura</ville>
+         <ville>Colombo</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>China</pays>
+      <capital>cty-China-3</capital>
+      <population>1427647786</population>
+      <superficie>9596960</superficie>
+      <religions>
+         <religion pourcentage="16">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Taoist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>AFG</frontière>
+         <frontière>PK</frontière>
+         <frontière>TJ</frontière>
+         <frontière>MYA</frontière>
+         <frontière>IND</frontière>
+         <frontière>NEP</frontière>
+         <frontière>BHT</frontière>
+         <frontière>LAO</frontière>
+         <frontière>VN</frontière>
+         <frontière>KZ</frontière>
+         <frontière>KP</frontière>
+         <frontière>KG</frontière>
+         <frontière>MNG</frontière>
+         <frontière>MACX</frontière>
+         <frontière>HK</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Taiwan</pays>
+      <capital>cty-Taiwan-Taipei</capital>
+      <population>23571227</population>
+      <superficie>36179</superficie>
+      <religions>
+         <religion pourcentage="35.3">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="33.2">
+            <h3>Taoist</h3>
+         </religion>
+         <religion pourcentage="2.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Taipei</ville>
+         <ville>New Taipei</ville>
+         <ville>Changhua</ville>
+         <ville>Hualien</ville>
+         <ville>Pingtung</ville>
+         <ville>Taitung</ville>
+         <ville>Taoyuan</ville>
+         <ville>Jhongli</ville>
+         <ville>Chiayi</ville>
+         <ville>Keelung</ville>
+         <ville>Hsinchu</ville>
+         <ville>Kaohsiung</ville>
+         <ville>Taichung</ville>
+         <ville>Tainan</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Hong Kong</pays>
+      <capital>cty-Hongkong</capital>
+      <population>7336585</population>
+      <superficie>1092</superficie>
+      <religions>
+         <religion pourcentage="27.9">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="6.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="5.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Sikh</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Hong Kong</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Macao</pays>
+      <capital>cty-Macao-Macao</capital>
+      <population>650834</population>
+      <superficie>16</superficie>
+      <religions>
+         <religion pourcentage="16.8">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="6.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Macao</ville>
+         <ville>Taipa-Coloane</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>North Korea</pays>
+      <capital>cty-North-Korea-2</capital>
+      <population>24500520</population>
+      <superficie>120540</superficie>
+      <religions>
+         <religion pourcentage="16">
+            <h3>Korean Shamanism</h3>
+         </religion>
+         <religion pourcentage="13.5">
+            <h3>Chendoism</h3>
+         </religion>
+         <religion pourcentage="4.5">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Pyongyang</ville>
+         <ville>Hamhung-Hungnam</ville>
+         <ville>Chongjin</ville>
+         <ville>Nampho</ville>
+         <ville>Sunchon</ville>
+         <ville>Sinuiju</ville>
+         <ville>Tanchon</ville>
+         <ville>Wonsan</ville>
+         <ville>Tokchon</ville>
+         <ville>Kanggye</ville>
+         <ville>Haeju</ville>
+         <ville>Anju</ville>
+         <ville>Kim Chaek</ville>
+         <ville>Kusong</ville>
+         <ville>Huichon</ville>
+         <ville>Sinpho</ville>
+         <ville>Kaesong</ville>
+         <ville>Kaechon</ville>
+         <ville>Sariwon</ville>
+      </villes>
+      <frontières>
+         <frontière>R</frontière>
+         <frontière>CN</frontière>
+         <frontière>ROK</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>South Korea</pays>
+      <capital>cty-South-Korea-2</capital>
+      <population>51269554</population>
+      <superficie>98480</superficie>
+      <religions>
+         <religion pourcentage="19.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="15.5">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="7.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Seoul</ville>
+         <ville>Busan</ville>
+         <ville>Daegu</ville>
+         <ville>Incheon</ville>
+         <ville>Gwangju</ville>
+         <ville>Daejeon</ville>
+         <ville>Ulsan</ville>
+         <ville>Suwon</ville>
+         <ville>Seongnam</ville>
+         <ville>Jeonju</ville>
+         <ville>Changwon</ville>
+         <ville>Cheongju</ville>
+         <ville>Jinju</ville>
+         <ville>Mokpo</ville>
+         <ville>Jeju</ville>
+         <ville>Gunsan</ville>
+         <ville>Chuncheon</ville>
+         <ville>Yeosu</ville>
+         <ville>Goyang</ville>
+         <ville>Yongin</ville>
+         <ville>Bucheon</ville>
+         <ville>Ansan</ville>
+         <ville>Anyang</ville>
+      </villes>
+      <frontières>
+         <frontière>KP</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Japan</pays>
+      <capital>cty-Japan-Tokyo</capital>
+      <population>127094745</population>
+      <superficie>377835</superficie>
+      <religions>
+         <religion pourcentage="35">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="4">
+            <h3>Shintoist</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Philippines</pays>
+      <capital>cty-RP-13</capital>
+      <population>100981437</population>
+      <superficie>299764</superficie>
+      <religions>
+         <religion pourcentage="5.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="80.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="10.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Vietnam</pays>
+      <capital>cty-Vietnam-Hanoi</capital>
+      <population>88772900</population>
+      <superficie>329560</superficie>
+      <religions>
+         <religion pourcentage="45.3">
+            <h3>Vietnamese Folk Religion</h3>
+         </religion>
+         <religion pourcentage="12.2">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="6.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.8">
+            <h3>Cao Dai</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Hoa Hao</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>LAO</frontière>
+         <frontière>K</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Cambodia</pays>
+      <capital>cty-Cambodia-Phnom-Penh</capital>
+      <population>15288489</population>
+      <superficie>181040</superficie>
+      <religions>
+         <religion pourcentage="92">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Phnom Penh</ville>
+         <ville>Battambang</ville>
+         <ville>Siem Reap</ville>
+      </villes>
+      <frontières>
+         <frontière>LAO</frontière>
+         <frontière>THA</frontière>
+         <frontière>VN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Laos</pays>
+      <capital>cty-Laos-Vientiane</capital>
+      <population>6514432</population>
+      <superficie>236800</superficie>
+      <religions>
+         <religion pourcentage="64.7">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="31.5">
+            <h3>Satsana Phi</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Vientiane</ville>
+      </villes>
+      <frontières>
+         <frontière>CN</frontière>
+         <frontière>MYA</frontière>
+         <frontière>THA</frontière>
+         <frontière>K</frontière>
+         <frontière>VN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Thailand</pays>
+      <capital>cty-Thailand-Bangkok</capital>
+      <population>65981659</population>
+      <superficie>514000</superficie>
+      <religions>
+         <religion pourcentage="95">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="3.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Chiang Mai</ville>
+         <ville>Nakhon Ratchasima</ville>
+         <ville>Nakhon Sawan</ville>
+         <ville>Bangkok</ville>
+         <ville>Nonthaburi</ville>
+         <ville>Khon Kaen</ville>
+         <ville>Nakhon Si Thammarat</ville>
+         <ville>Songkhla</ville>
+         <ville>Samut Prakan</ville>
+         <ville>Chon Buri</ville>
+         <ville>Phuket</ville>
+      </villes>
+      <frontières>
+         <frontière>MYA</frontière>
+         <frontière>MAL</frontière>
+         <frontière>LAO</frontière>
+         <frontière>K</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Malaysia</pays>
+      <capital>cty-Malaysia-Kuala-Lumpur</capital>
+      <population>27565821</population>
+      <superficie>329750</superficie>
+      <religions>
+         <religion pourcentage="61.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="19.8">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="9.2">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="6.3">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>BRU</frontière>
+         <frontière>THA</frontière>
+         <frontière>RI</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Brunei</pays>
+      <capital>cty-Brunei-Bandar-Seri-Begawan</capital>
+      <population>393372</population>
+      <superficie>5770</superficie>
+      <religions>
+         <religion pourcentage="67">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="13">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bandar Seri Begawan</ville>
+      </villes>
+      <frontières>
+         <frontière>MAL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Singapore</pays>
+      <capital>cty-Singapore-Singapore</capital>
+      <population>5076700</population>
+      <superficie>632.6</superficie>
+      <religions>
+         <religion pourcentage="33.2">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="18.8">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="14">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Taoist</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Singapore</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Indonesia</pays>
+      <capital>cty-RI-11</capital>
+      <population>252124458</population>
+      <superficie>1919440</superficie>
+      <religions>
+         <religion pourcentage="87">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>MAL</frontière>
+         <frontière>PNG</frontière>
+         <frontière>TL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Timor-Leste</pays>
+      <capital>city-Dili-TL-TL</capital>
+      <population>1066582</population>
+      <superficie>15007</superficie>
+      <religions>
+         <religion pourcentage="1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="98">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Dili</ville>
+      </villes>
+      <frontières>
+         <frontière>RI</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Papua New Guinea</pays>
+      <capital>cty-Papua-New-Guinea-Port-Moresby</capital>
+      <population>7275324</population>
+      <superficie>461690</superficie>
+      <religions>
+         <religion pourcentage="27">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="69.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Bahai</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RI</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Solomon Islands</pays>
+      <capital>cty-Solomon-Islands-Honiara</capital>
+      <population>515870</population>
+      <superficie>28450</superficie>
+      <religions>
+         <religion pourcentage="73.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="19.6">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Honiara</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Vanuatu</pays>
+      <capital>cty-Vanuatu-Port-Vila</capital>
+      <population>236299</population>
+      <superficie>14760</superficie>
+      <religions>
+         <religion pourcentage="70">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="13">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Port Vila</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>New Caledonia</pays>
+      <capital>cty-New-Caledonia-Noumea</capital>
+      <population>271407</population>
+      <superficie>19060</superficie>
+      <religions>
+         <religion pourcentage="60">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="30">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.6">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Noumea</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Australia</pays>
+      <capital>cty-Australia-8</capital>
+      <population>23135281</population>
+      <superficie>7692024</superficie>
+      <religions>
+         <religion pourcentage="22.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="23.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2.4">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="2.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Sikh</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Christmas Island</pays>
+      <capital>city-The-Settlement-XMAS-XMAS</capital>
+      <population>1843</population>
+      <superficie>135</superficie>
+      <religions>
+         <religion pourcentage="19.4">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="18.3">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="8.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.5">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Flying Fish Cove</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Cocos Islands</pays>
+      <capital>city-West-Island-COCO-COCO</capital>
+      <population>544</population>
+      <superficie>14</superficie>
+      <religions>
+         <religion pourcentage="75">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>West Island</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Norfolk Island</pays>
+      <capital>cty-NORF-Kingston</capital>
+      <population>1748</population>
+      <superficie>34.6</superficie>
+      <religions>
+         <religion pourcentage="46.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="12.6">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kingston</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>New Zealand</pays>
+      <capital>cty-New-Zealand-Wellington</capital>
+      <population>4242048</population>
+      <superficie>268680</superficie>
+      <religions>
+         <religion pourcentage="38.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="12.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Wellington</ville>
+         <ville>Auckland</ville>
+         <ville>Hamilton</ville>
+         <ville>Christchurch</ville>
+         <ville>Dunedin</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Palau</pays>
+      <capital>cty-Palau-Ngerulmud</capital>
+      <population>17501</population>
+      <superficie>458</superficie>
+      <religions>
+         <religion pourcentage="45.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="41.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Koror</ville>
+         <ville>Ngerulmud</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Northern Mariana Islands</pays>
+      <capital>city-Saipan-NMIS-NMIS</capital>
+      <population>53883</population>
+      <superficie>477</superficie>
+      <religions>
+         <religion pourcentage="64.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="16">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="10.6">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Saipan</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Guam</pays>
+      <capital>city-Agana-GUAM</capital>
+      <population>159358</population>
+      <superficie>545</superficie>
+      <religions>
+         <religion pourcentage="75">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="17.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Hagåtña</ville>
+         <ville>Dededo</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Micronesia</pays>
+      <capital>cty-Micronesia-Palikir</capital>
+      <population>102843</population>
+      <superficie>702</superficie>
+      <religions>
+         <religion pourcentage="54.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="41.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Palikir</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Marshall Islands</pays>
+      <capital>cty-Marshall-Islands-Majuro</capital>
+      <population>53158</population>
+      <superficie>181.3</superficie>
+      <religions>
+         <religion pourcentage="80.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="8.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="9.5">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Bahai</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Majuro</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Nauru</pays>
+      <capital>cty-Yaren</capital>
+      <population>10025</population>
+      <superficie>21</superficie>
+      <religions>
+         <religion pourcentage="60.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="33">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Yaren</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Kiribati</pays>
+      <capital>cty-Kiribati-Tarawa</capital>
+      <population>110136</population>
+      <superficie>717</superficie>
+      <religions>
+         <religion pourcentage="57.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="33.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="5.3">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="2.1">
+            <h3>Bahai</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tarawa</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Tuvalu</pays>
+      <capital>cty-Tuvalu-Funafuti</capital>
+      <population>11192</population>
+      <superficie>26</superficie>
+      <religions>
+         <religion pourcentage="92.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Funafuti</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Tokelau</pays>
+      <capital>cty-Tokelau-Fakaofo</capital>
+      <population>1499</population>
+      <superficie>12</superficie>
+      <religions>
+         <religion pourcentage="56.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="38.7">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Fakaofo</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Samoa</pays>
+      <capital>cty-Samoa-Apia</capital>
+      <population>194320</population>
+      <superficie>2860</superficie>
+      <religions>
+         <religion pourcentage="54.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="18.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="16.9">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>New Apostolic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Apia</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>American Samoa</pays>
+      <capital>city-Pago-Pago-AMSA-AMSA</capital>
+      <population>55519</population>
+      <superficie>199</superficie>
+      <religions>
+         <religion pourcentage="58">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="19">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="22">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Pago Pago</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Wallis and Futuna</pays>
+      <capital>city-Mata-Utu-WF</capital>
+      <population>11558</population>
+      <superficie>274</superficie>
+      <religions>
+         <religion pourcentage="99">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Mata-Utu</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Fiji</pays>
+      <capital>cty-Fiji-Suva</capital>
+      <population>884887</population>
+      <superficie>18270</superficie>
+      <religions>
+         <religion pourcentage="54.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="9.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="27.9">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="6.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Sikh</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Suva</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Tonga</pays>
+      <capital>cty-Tonga-Nukualofa</capital>
+      <population>100651</population>
+      <superficie>748</superficie>
+      <religions>
+         <religion pourcentage="64.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="14.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="18.6">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Nukualofa</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Niue</pays>
+      <capital>city-Alofi-NIUE-NIUE</capital>
+      <population>1611</population>
+      <superficie>260</superficie>
+      <religions>
+         <religion pourcentage="70">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Alofi</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Cook Islands</pays>
+      <capital>city-Avarua-COOK-COOK</capital>
+      <population>17459</population>
+      <superficie>240</superficie>
+      <religions>
+         <religion pourcentage="62.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="17">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.4">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Avarua</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>French Polynesia</pays>
+      <capital>city-Papeete-FPOL-FPOL</capital>
+      <population>275918</population>
+      <superficie>4167</superficie>
+      <religions>
+         <religion pourcentage="54">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="30">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Papeete</ville>
+         <ville>Rikitea</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Pitcairn</pays>
+      <capital>city-Adamstown-PITC-PITC</capital>
+      <population>50</population>
+      <superficie>47</superficie>
+      <religions>
+         <religion pourcentage="100">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Adamstown</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Egypt</pays>
+      <capital>cty-Egypt-Cairo</capital>
+      <population>94798827</population>
+      <superficie>1001450</superficie>
+      <religions>
+         <religion pourcentage="90">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="8.5">
+            <h3>Coptic Christian</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Hurghada</ville>
+         <ville>Marsa Matruh</ville>
+         <ville>Damanhur</ville>
+         <ville>Kafr ad Dawwar</ville>
+         <ville>Al Mansurah</ville>
+         <ville>Tanta</ville>
+         <ville>Al Mahallah al Kubra</ville>
+         <ville>Al Ismailiyah</ville>
+         <ville>Shibin al Kum</ville>
+         <ville>Banha</ville>
+         <ville>Shubra al Khimah</ville>
+         <ville>Az Zaqaziq</ville>
+         <ville>Aswan</ville>
+         <ville>Asyut</ville>
+         <ville>Bani Suwayf</ville>
+         <ville>Al Fayyum</ville>
+         <ville>Al Jizah</ville>
+         <ville>Al Minya</ville>
+         <ville>Qina</ville>
+         <ville>Al Uqsur</ville>
+         <ville>Suhaj</ville>
+         <ville>Bur Said</ville>
+         <ville>Al Iskandariyah</ville>
+         <ville>Al Qahirah</ville>
+         <ville>As Suways</ville>
+      </villes>
+      <frontières>
+         <frontière>GAZA</frontière>
+         <frontière>IL</frontière>
+         <frontière>LAR</frontière>
+         <frontière>SUD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Libya</pays>
+      <capital>cty-Libya-Tripolis</capital>
+      <population>6040612</population>
+      <superficie>1759540</superficie>
+      <religions>
+         <religion pourcentage="97">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Coptic Christian</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tripoli</ville>
+         <ville>Benghazi</ville>
+         <ville>Misratah</ville>
+      </villes>
+      <frontières>
+         <frontière>ET</frontière>
+         <frontière>DZ</frontière>
+         <frontière>RN</frontière>
+         <frontière>TN</frontière>
+         <frontière>TCH</frontière>
+         <frontière>SUD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Tunisia</pays>
+      <capital>cty-Tunisia-Tunis</capital>
+      <population>10982754</population>
+      <superficie>163610</superficie>
+      <religions>
+         <religion pourcentage="98">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Tunis</ville>
+         <ville>Sfax</ville>
+         <ville>Sousse</ville>
+      </villes>
+      <frontières>
+         <frontière>DZ</frontière>
+         <frontière>LAR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Algeria</pays>
+      <capital>cty-Algeria-Algiers</capital>
+      <population>37062820</population>
+      <superficie>2381740</superficie>
+      <religions>
+         <religion pourcentage="97.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Christian</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Algiers</ville>
+         <ville>Annaba</ville>
+         <ville>Batna</ville>
+         <ville>Béchar</ville>
+         <ville>Sidi Bel Abbës</ville>
+         <ville>Skikda</ville>
+         <ville>Tébessa</ville>
+         <ville>Oran</ville>
+         <ville>Constantine</ville>
+         <ville>Sétif</ville>
+         <ville>Blida</ville>
+         <ville>Bejaïa</ville>
+         <ville>Mostaganem</ville>
+         <ville>Ech Chelif</ville>
+         <ville>Tlemcen</ville>
+         <ville>Tougourt</ville>
+         <ville>Ghardaïa</ville>
+         <ville>El Djelfa</ville>
+         <ville>Biskra</ville>
+         <ville>Laghouat</ville>
+         <ville>Tamanrasset</ville>
+      </villes>
+      <frontières>
+         <frontière>LAR</frontière>
+         <frontière>RMM</frontière>
+         <frontière>RIM</frontière>
+         <frontière>MA</frontière>
+         <frontière>RN</frontière>
+         <frontière>TN</frontière>
+         <frontière>WSA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Morocco</pays>
+      <capital>cty-MA-10</capital>
+      <population>33337529</population>
+      <superficie>446550</superficie>
+      <religions>
+         <religion pourcentage="98.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>DZ</frontière>
+         <frontière>WSA</frontière>
+         <frontière>CEU</frontière>
+         <frontière>MEL</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Western Sahara</pays>
+      <capital>stadt-El_Aaiun-DARS-DARS</capital>
+      <population>554795</population>
+      <superficie>266000</superficie>
+      <religions>
+         <religion pourcentage="100">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>El Aaiun</ville>
+      </villes>
+      <frontières>
+         <frontière>DZ</frontière>
+         <frontière>RIM</frontière>
+         <frontière>MA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Mali</pays>
+      <capital>cty-RMM-1</capital>
+      <population>14528622</population>
+      <superficie>1240000</superficie>
+      <religions>
+         <religion pourcentage="93.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>DZ</frontière>
+         <frontière>RIM</frontière>
+         <frontière>RN</frontière>
+         <frontière>BF</frontière>
+         <frontière>CI</frontière>
+         <frontière>RG</frontière>
+         <frontière>SN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Mauritania</pays>
+      <capital>cty-RIM-10</capital>
+      <population>3537368</population>
+      <superficie>1030700</superficie>
+      <religions>
+         <religion pourcentage="99.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>DZ</frontière>
+         <frontière>RMM</frontière>
+         <frontière>WSA</frontière>
+         <frontière>SN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Senegal</pays>
+      <capital>cty-Senegal-Dakar</capital>
+      <population>13508715</population>
+      <superficie>196190</superficie>
+      <religions>
+         <religion pourcentage="95.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RMM</frontière>
+         <frontière>RIM</frontière>
+         <frontière>RG</frontière>
+         <frontière>WAG</frontière>
+         <frontière>GUB</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Gambia</pays>
+      <capital>cty-Gambia-Banjul</capital>
+      <population>1882450</population>
+      <superficie>11300</superficie>
+      <religions>
+         <religion pourcentage="95.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Banjul</ville>
+         <ville>Serekunda</ville>
+      </villes>
+      <frontières>
+         <frontière>SN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Guinea-Bissau</pays>
+      <capital>cty-Guinea-Bissau-Bissau</capital>
+      <population>1586624</population>
+      <superficie>36120</superficie>
+      <religions>
+         <religion pourcentage="45.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="12">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="12">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="14.9">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bissau</ville>
+      </villes>
+      <frontières>
+         <frontière>RG</frontière>
+         <frontière>SN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Guinea</pays>
+      <capital>cty-Guinea-Conakry</capital>
+      <population>10628972</population>
+      <superficie>245860</superficie>
+      <religions>
+         <religion pourcentage="89.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Conakry</ville>
+         <ville>N'Zérékoré</ville>
+      </villes>
+      <frontières>
+         <frontière>RMM</frontière>
+         <frontière>CI</frontière>
+         <frontière>LB</frontière>
+         <frontière>SN</frontière>
+         <frontière>GUB</frontière>
+         <frontière>SLE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Sierra Leone</pays>
+      <capital>cty-Sierra-Leone-Freetown</capital>
+      <population>5751976</population>
+      <superficie>71740</superficie>
+      <religions>
+         <religion pourcentage="78.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="12.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="9">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Freetown</ville>
+         <ville>Bo</ville>
+      </villes>
+      <frontières>
+         <frontière>RG</frontière>
+         <frontière>LB</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Liberia</pays>
+      <capital>cty-Liberia-Monrovia</capital>
+      <population>3957990</population>
+      <superficie>111370</superficie>
+      <religions>
+         <religion pourcentage="76.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="7.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="12.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Monrovia</ville>
+      </villes>
+      <frontières>
+         <frontière>CI</frontière>
+         <frontière>RG</frontière>
+         <frontière>SLE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Burkina Faso</pays>
+      <capital>cty-Burkina-Faso-Ouagadougou</capital>
+      <population>17322796</population>
+      <superficie>274200</superficie>
+      <religions>
+         <religion pourcentage="60.5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="23.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="7.8">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Ouagadougou</ville>
+         <ville>Bobo Dioulasso</ville>
+      </villes>
+      <frontières>
+         <frontière>RMM</frontière>
+         <frontière>RN</frontière>
+         <frontière>BEN</frontière>
+         <frontière>RT</frontière>
+         <frontière>CI</frontière>
+         <frontière>GH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Cote d'Ivoire</pays>
+      <capital>cty-CI-1</capital>
+      <population>22671331</population>
+      <superficie>322460</superficie>
+      <religions>
+         <religion pourcentage="42.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="17.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="16.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="11.9">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RMM</frontière>
+         <frontière>BF</frontière>
+         <frontière>GH</frontière>
+         <frontière>RG</frontière>
+         <frontière>LB</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Ghana</pays>
+      <capital>cty-GH-5</capital>
+      <population>24658823</population>
+      <superficie>238540</superficie>
+      <religions>
+         <religion pourcentage="17.6">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="13.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="58">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="5.2">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>BF</frontière>
+         <frontière>RT</frontière>
+         <frontière>CI</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Togo</pays>
+      <capital>cty-Togo-Lome</capital>
+      <population>6191155</population>
+      <superficie>56790</superficie>
+      <religions>
+         <religion pourcentage="26">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="14">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="20">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="6">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Voodoo</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Lomé</ville>
+      </villes>
+      <frontières>
+         <frontière>BEN</frontière>
+         <frontière>BF</frontière>
+         <frontière>GH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Benin</pays>
+      <capital>cty-Benin-Porto-Novo</capital>
+      <population>9983884</population>
+      <superficie>112620</superficie>
+      <religions>
+         <religion pourcentage="27.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="25.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="22">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="11.6">
+            <h3>Voodoo</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Porto-Novo</ville>
+         <ville>Cotonou</ville>
+         <ville>Abomey-Calavi</ville>
+         <ville>Djougou</ville>
+      </villes>
+      <frontières>
+         <frontière>RN</frontière>
+         <frontière>BF</frontière>
+         <frontière>NGR</frontière>
+         <frontière>RT</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Nigeria</pays>
+      <capital>cty-NGR-2</capital>
+      <population>193392500</population>
+      <superficie>923770</superficie>
+      <religions>
+         <religion pourcentage="53.5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="35">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="10.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>African Religions</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RN</frontière>
+         <frontière>BEN</frontière>
+         <frontière>CAM</frontière>
+         <frontière>TCH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Niger</pays>
+      <capital>cty-RN-5</capital>
+      <population>17138707</population>
+      <superficie>1267000</superficie>
+      <religions>
+         <religion pourcentage="99.3">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>DZ</frontière>
+         <frontière>LAR</frontière>
+         <frontière>RMM</frontière>
+         <frontière>BEN</frontière>
+         <frontière>BF</frontière>
+         <frontière>NGR</frontière>
+         <frontière>TCH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Chad</pays>
+      <capital>cty-Chad-NDjamena</capital>
+      <population>11720781</population>
+      <superficie>1284000</superficie>
+      <religions>
+         <religion pourcentage="52.1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="20">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="23.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="4">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>N'Djamena</ville>
+         <ville>Moundou</ville>
+      </villes>
+      <frontières>
+         <frontière>LAR</frontière>
+         <frontière>RN</frontière>
+         <frontière>NGR</frontière>
+         <frontière>CAM</frontière>
+         <frontière>RCA</frontière>
+         <frontière>SUD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Sudan</pays>
+      <capital>cty-Sudan-Khartoum</capital>
+      <population>40782700</population>
+      <superficie>1840687</superficie>
+      <religions>
+         <religion pourcentage="97">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Christian</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>ET</frontière>
+         <frontière>LAR</frontière>
+         <frontière>RCA</frontière>
+         <frontière>TCH</frontière>
+         <frontière>ER</frontière>
+         <frontière>ETH</frontière>
+         <frontière>SSD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>South Sudan</pays>
+      <capital>cty-SouthSudan-Juba</capital>
+      <population>8260490</population>
+      <superficie>644329</superficie>
+      <religions>
+         <religion pourcentage="38">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="38">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="21">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Juba</ville>
+      </villes>
+      <frontières>
+         <frontière>CGO</frontière>
+         <frontière>RCA</frontière>
+         <frontière>ETH</frontière>
+         <frontière>EAK</frontière>
+         <frontière>EAU</frontière>
+         <frontière>SUD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Central African Republic</pays>
+      <capital>cty-Central-African-Republic-Bangui</capital>
+      <population>4349921</population>
+      <superficie>622980</superficie>
+      <religions>
+         <religion pourcentage="28.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="51.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="10">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="9.6">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bangui</ville>
+         <ville>Bimbo</ville>
+      </villes>
+      <frontières>
+         <frontière>RCB</frontière>
+         <frontière>CGO</frontière>
+         <frontière>CAM</frontière>
+         <frontière>TCH</frontière>
+         <frontière>SUD</frontière>
+         <frontière>SSD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Cameroon</pays>
+      <capital>cty-Cameroon-3</capital>
+      <population>19406100</population>
+      <superficie>475440</superficie>
+      <religions>
+         <religion pourcentage="38.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="26.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="20.9">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RCB</frontière>
+         <frontière>NGR</frontière>
+         <frontière>RCA</frontière>
+         <frontière>TCH</frontière>
+         <frontière>GQ</frontière>
+         <frontière>G</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Equatorial Guinea</pays>
+      <capital>cty-Equatorial-Guinea-Malabo</capital>
+      <population>1222442</population>
+      <superficie>28050</superficie>
+      <religions>
+         <religion pourcentage="87">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CAM</frontière>
+         <frontière>G</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Gabon</pays>
+      <capital>cty-Gabon-Libreville</capital>
+      <population>1811079</population>
+      <superficie>267670</superficie>
+      <religions>
+         <religion pourcentage="60">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="12">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Libreville</ville>
+         <ville>Port-Gentil</ville>
+         <ville>Franceville</ville>
+      </villes>
+      <frontières>
+         <frontière>RCB</frontière>
+         <frontière>CAM</frontière>
+         <frontière>GQ</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Congo</pays>
+      <capital>cty-RCB-11</capital>
+      <population>4001831</population>
+      <superficie>342000</superficie>
+      <religions>
+         <religion pourcentage="33.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="51.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>ANG</frontière>
+         <frontière>CGO</frontière>
+         <frontière>CAM</frontière>
+         <frontière>RCA</frontière>
+         <frontière>G</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Congo, Dem.Rep.</pays>
+      <capital>cty-zre-1</capital>
+      <population>86026000</population>
+      <superficie>2345410</superficie>
+      <religions>
+         <religion pourcentage="55.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="39.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>ANG</frontière>
+         <frontière>RCB</frontière>
+         <frontière>Z</frontière>
+         <frontière>BI</frontière>
+         <frontière>RWA</frontière>
+         <frontière>RCA</frontière>
+         <frontière>SSD</frontière>
+         <frontière>EAU</frontière>
+         <frontière>EAT</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Angola</pays>
+      <capital>cty-Angola-Luanda</capital>
+      <population>25789024</population>
+      <superficie>1246700</superficie>
+      <religions>
+         <religion pourcentage="41.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="38.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RCB</frontière>
+         <frontière>NAM</frontière>
+         <frontière>CGO</frontière>
+         <frontière>Z</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Namibia</pays>
+      <capital>cty-Namibia-Windhoek</capital>
+      <population>2113077</population>
+      <superficie>825418</superficie>
+      <religions>
+         <religion pourcentage="70">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="17">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Windhoek</ville>
+         <ville>Rundu</ville>
+         <ville>Walvis Bay</ville>
+      </villes>
+      <frontières>
+         <frontière>ANG</frontière>
+         <frontière>Z</frontière>
+         <frontière>RB</frontière>
+         <frontière>RSA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Botswana</pays>
+      <capital>cty-Botswana-Gaborone</capital>
+      <population>2038228</population>
+      <superficie>600370</superficie>
+      <religions>
+         <religion pourcentage="66">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Gaborone</ville>
+         <ville>Francistown</ville>
+      </villes>
+      <frontières>
+         <frontière>NAM</frontière>
+         <frontière>RSA</frontière>
+         <frontière>ZW</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>South Africa</pays>
+      <capital>cty-South-Africa-6</capital>
+      <population>51770560</population>
+      <superficie>1219912</superficie>
+      <religions>
+         <religion pourcentage="73.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="7.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>NAM</frontière>
+         <frontière>RB</frontière>
+         <frontière>ZW</frontière>
+         <frontière>LS</frontière>
+         <frontière>MOC</frontière>
+         <frontière>SD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Lesotho</pays>
+      <capital>cty-Lesotho-Maseru</capital>
+      <population>2007201</population>
+      <superficie>30350</superficie>
+      <religions>
+         <religion pourcentage="45">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="50">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Maseru</ville>
+      </villes>
+      <frontières>
+         <frontière>RSA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Eswatini</pays>
+      <capital>cty-Swaziland-Mbabane</capital>
+      <population>1193148</population>
+      <superficie>17360</superficie>
+      <religions>
+         <religion pourcentage="65">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Mbabane</ville>
+      </villes>
+      <frontières>
+         <frontière>RSA</frontière>
+         <frontière>MOC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Mozambique</pays>
+      <capital>cty-Mozambique-2</capital>
+      <population>23700715</population>
+      <superficie>801590</superficie>
+      <religions>
+         <religion pourcentage="18.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="27.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="32.6">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>Z</frontière>
+         <frontière>RSA</frontière>
+         <frontière>ZW</frontière>
+         <frontière>EAT</frontière>
+         <frontière>MW</frontière>
+         <frontière>SD</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Zimbabwe</pays>
+      <capital>cty-Zimbabwe-1</capital>
+      <population>13061239</population>
+      <superficie>390580</superficie>
+      <religions>
+         <religion pourcentage="74.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="7.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Harare</ville>
+         <ville>Bulawayo</ville>
+         <ville>Chitungwiza</ville>
+      </villes>
+      <frontières>
+         <frontière>Z</frontière>
+         <frontière>RB</frontière>
+         <frontière>RSA</frontière>
+         <frontière>MOC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Zambia</pays>
+      <capital>cty-Zambia-2</capital>
+      <population>13092666</population>
+      <superficie>752610</superficie>
+      <religions>
+         <religion pourcentage="75.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="20.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>ANG</frontière>
+         <frontière>NAM</frontière>
+         <frontière>CGO</frontière>
+         <frontière>ZW</frontière>
+         <frontière>EAT</frontière>
+         <frontière>MW</frontière>
+         <frontière>MOC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Malawi</pays>
+      <capital>cty-Malawi-Lilongwe</capital>
+      <population>17563749</population>
+      <superficie>118480</superficie>
+      <religions>
+         <religion pourcentage="55">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="23">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="13.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Lilongwe</ville>
+         <ville>Blantyre</ville>
+      </villes>
+      <frontières>
+         <frontière>Z</frontière>
+         <frontière>EAT</frontière>
+         <frontière>MOC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Tanzania</pays>
+      <capital>cty-Tanzania-4</capital>
+      <population>44928923</population>
+      <superficie>945090</superficie>
+      <religions>
+         <religion pourcentage="35.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="31">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="27">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CGO</frontière>
+         <frontière>Z</frontière>
+         <frontière>BI</frontière>
+         <frontière>RWA</frontière>
+         <frontière>EAK</frontière>
+         <frontière>EAU</frontière>
+         <frontière>MW</frontière>
+         <frontière>MOC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Burundi</pays>
+      <capital>cty-Burundi-Gitega</capital>
+      <population>8444784</population>
+      <superficie>27830</superficie>
+      <religions>
+         <religion pourcentage="65">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="26">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bujumbura</ville>
+         <ville>Gitega</ville>
+      </villes>
+      <frontières>
+         <frontière>CGO</frontière>
+         <frontière>RWA</frontière>
+         <frontière>EAT</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Rwanda</pays>
+      <capital>cty-Rwanda-Kigali</capital>
+      <population>10515973</population>
+      <superficie>26340</superficie>
+      <religions>
+         <religion pourcentage="43.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="49.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kigali</ville>
+      </villes>
+      <frontières>
+         <frontière>CGO</frontière>
+         <frontière>BI</frontière>
+         <frontière>EAT</frontière>
+         <frontière>EAU</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Uganda</pays>
+      <capital>cty-Uganda-Kampala</capital>
+      <population>34634650</population>
+      <superficie>236040</superficie>
+      <religions>
+         <religion pourcentage="45.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="39.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="13.7">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CGO</frontière>
+         <frontière>RWA</frontière>
+         <frontière>EAT</frontière>
+         <frontière>SSD</frontière>
+         <frontière>EAK</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Kenya</pays>
+      <capital>cty-Kenya-Nairobi</capital>
+      <population>40909194</population>
+      <superficie>582650</superficie>
+      <religions>
+         <religion pourcentage="23.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="52">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.5">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="15">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.0">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Quaker</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Mombasa</ville>
+         <ville>Malindi</ville>
+         <ville>Machakos</ville>
+         <ville>Nairobi</ville>
+         <ville>Kisumu</ville>
+         <ville>Nakuru</ville>
+         <ville>Eldoret</ville>
+      </villes>
+      <frontières>
+         <frontière>EAT</frontière>
+         <frontière>SSD</frontière>
+         <frontière>ETH</frontière>
+         <frontière>SO</frontière>
+         <frontière>EAU</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Somalia</pays>
+      <capital>cty-Somalia-Mogadishu</capital>
+      <population>11000000</population>
+      <superficie>637660</superficie>
+      <religions>
+         <religion pourcentage="99.8">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Mogadishu</ville>
+         <ville>Hargeisa</ville>
+      </villes>
+      <frontières>
+         <frontière>DJI</frontière>
+         <frontière>ETH</frontière>
+         <frontière>EAK</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Djibouti</pays>
+      <capital>cty-Djibouti-Djibouti</capital>
+      <population>834036</population>
+      <superficie>22000</superficie>
+      <religions>
+         <religion pourcentage="94">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="3.2">
+            <h3>Tewahedo Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Djibouti</ville>
+      </villes>
+      <frontières>
+         <frontière>ER</frontière>
+         <frontière>ETH</frontière>
+         <frontière>SO</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Ethiopia</pays>
+      <capital>cty-ETH-1</capital>
+      <population>84320987</population>
+      <superficie>1127127</superficie>
+      <religions>
+         <religion pourcentage="43.5">
+            <h3>Tewahedo Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="33.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="18.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.6">
+            <h3>African Religions</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>SUD</frontière>
+         <frontière>SSD</frontière>
+         <frontière>DJI</frontière>
+         <frontière>ER</frontière>
+         <frontière>SO</frontière>
+         <frontière>EAK</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Eritrea</pays>
+      <capital>cty-Eritrea-Asmara</capital>
+      <population>5741159</population>
+      <superficie>121320</superficie>
+      <religions>
+         <religion pourcentage="48">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="50">
+            <h3>Tewahedo Christian Orthodox</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Asmara</ville>
+         <ville>Massaua</ville>
+      </villes>
+      <frontières>
+         <frontière>SUD</frontière>
+         <frontière>DJI</frontière>
+         <frontière>ETH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Cape Verde</pays>
+      <capital>cty-Cape-Verde-Praia</capital>
+      <population>491875</population>
+      <superficie>4033</superficie>
+      <religions>
+         <religion pourcentage="77.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.0">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>New Apostolic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Praia</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Sao Tome and Principe</pays>
+      <capital>cty-Sao-Tome-and-Principe-Sao-Tome</capital>
+      <population>187356</population>
+      <superficie>1001</superficie>
+      <religions>
+         <religion pourcentage="55.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="9.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.9">
+            <h3>New Apostolic</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>São Tomé</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Seychelles</pays>
+      <capital>cty-Seychelles-Victoria</capital>
+      <population>90945</population>
+      <superficie>455</superficie>
+      <religions>
+         <religion pourcentage="76.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="10.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.4">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Victoria</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Comoros</pays>
+      <capital>cty-Comoros-Moroni</capital>
+      <population>683081</population>
+      <superficie>2170</superficie>
+      <religions>
+         <religion pourcentage="98">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Moroni</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Mayotte</pays>
+      <capital>city-Mamoutzou-MAYO-MAYO</capital>
+      <population>256518</population>
+      <superficie>374</superficie>
+      <religions>
+         <religion pourcentage="97">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="2.5">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Mamoutzou</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Madagascar</pays>
+      <capital>cty-Madagascar-2</capital>
+      <population>21842167</population>
+      <superficie>587041</superficie>
+      <religions>
+         <religion pourcentage="52">
+            <h3>Indigenous Beliefs</h3>
+         </religion>
+         <religion pourcentage="23">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="18">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="7">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Antsiranana</ville>
+         <ville>Antananarivo</ville>
+         <ville>Antsirabe</ville>
+         <ville>Fianarantsoa</ville>
+         <ville>Majunga</ville>
+         <ville>Tamatave</ville>
+         <ville>Toliara</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Mauritius</pays>
+      <capital>cty-Mauritius-Port-Louis</capital>
+      <population>1237091</population>
+      <superficie>2040</superficie>
+      <religions>
+         <religion pourcentage="48.5">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="26.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="17.3">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Port Louis</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Reunion</pays>
+      <capital>city-Saint-Denis-REUN-REUN</capital>
+      <population>828581</population>
+      <superficie>2510</superficie>
+      <religions>
+         <religion pourcentage="79.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="6.7">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="3.2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Saint-Denis</ville>
+         <ville>Saint-Paul</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Saint Helena</pays>
+      <capital>city-Jamestown-HELX-HELX</capital>
+      <population>4577</population>
+      <superficie>391</superficie>
+      <religions>
+         <religion pourcentage="88.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="4.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>New Apostolic</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Bahai</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Jamestown</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Greenland</pays>
+      <capital>cty-Greenland-Nuuk</capital>
+      <population>56370</population>
+      <superficie>2175600</superficie>
+      <religions>
+         <religion pourcentage="95.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Inuit spiritism</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Nuuk</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Saint Pierre and Miquelon</pays>
+      <capital>cty-SPMI-Saint-Pierre</capital>
+      <population>6008</population>
+      <superficie>242</superficie>
+      <religions>
+         <religion pourcentage="99">
+            <h3>Catholic</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Saint-Pierre</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Bermuda</pays>
+      <capital>city-Hamilton-BERM-BERM</capital>
+      <population>61178</population>
+      <superficie>53.3</superficie>
+      <religions>
+         <religion pourcentage="46.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="14.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Hamilton</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Canada</pays>
+      <capital>cty-Canada-13</capital>
+      <population>35151728</population>
+      <superficie>9976140</superficie>
+      <religions>
+         <religion pourcentage="38.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="28.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="3.2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Sikh</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>USA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>United States</pays>
+      <capital>cty-United-States-22</capital>
+      <population>318857056</population>
+      <superficie>9372610</superficie>
+      <religions>
+         <religion pourcentage="48.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="22.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.8">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="2.1">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>MEX</frontière>
+         <frontière>CDN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Mexico</pays>
+      <capital>cty-Mexico-Mexico-City</capital>
+      <population>112336538</population>
+      <superficie>1972550</superficie>
+      <religions>
+         <religion pourcentage="83.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="7.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>BZ</frontière>
+         <frontière>GCA</frontière>
+         <frontière>USA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Belize</pays>
+      <capital>cty-Belize-Belmopan</capital>
+      <population>312971</population>
+      <superficie>22960</superficie>
+      <religions>
+         <religion pourcentage="40.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="31.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Belmopan</ville>
+         <ville>Belize City</ville>
+      </villes>
+      <frontières>
+         <frontière>GCA</frontière>
+         <frontière>MEX</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Guatemala</pays>
+      <capital>cty-Guatemala-Guatemala-City</capital>
+      <population>15073375</population>
+      <superficie>108890</superficie>
+      <religions>
+         <religion pourcentage="50">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="40">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Mayan</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Ciudad de Guatemala</ville>
+         <ville>Mixco</ville>
+         <ville>Villa Nueva</ville>
+         <ville>Cobán</ville>
+         <ville>Chichicastenango</ville>
+      </villes>
+      <frontières>
+         <frontière>BZ</frontière>
+         <frontière>MEX</frontière>
+         <frontière>ES</frontière>
+         <frontière>HN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>El Salvador</pays>
+      <capital>cty-El-Salvador-2</capital>
+      <population>6290420</population>
+      <superficie>21040</superficie>
+      <religions>
+         <religion pourcentage="44.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="37.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Christian Orthodox</h3>
+         </religion>
+         <religion pourcentage="1.0">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>San Salvador</ville>
+         <ville>Soyapango</ville>
+         <ville>Mejicanos</ville>
+         <ville>Ciudad Delgado</ville>
+         <ville>Apopa</ville>
+         <ville>Santa Ana</ville>
+         <ville>Santa Tecla</ville>
+         <ville>San Miguel</ville>
+      </villes>
+      <frontières>
+         <frontière>GCA</frontière>
+         <frontière>HN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Honduras</pays>
+      <capital>cty-Honduras-Tegucigalpa</capital>
+      <population>8045990</population>
+      <superficie>112090</superficie>
+      <religions>
+         <religion pourcentage="51.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="36.2">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>GCA</frontière>
+         <frontière>NIC</frontière>
+         <frontière>ES</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Nicaragua</pays>
+      <capital>cty-Nicaragua-Managua</capital>
+      <population>6327927</population>
+      <superficie>129494</superficie>
+      <religions>
+         <religion pourcentage="50">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="33.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Managua</ville>
+         <ville>León</ville>
+         <ville>Chinandega</ville>
+         <ville>Masaya</ville>
+         <ville>Granada</ville>
+         <ville>Matagalpa</ville>
+         <ville>Tipitapa</ville>
+         <ville>Jinotega</ville>
+         <ville>Estelí</ville>
+      </villes>
+      <frontières>
+         <frontière>CR</frontière>
+         <frontière>HN</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Costa Rica</pays>
+      <capital>cty-Costa-Rica-2</capital>
+      <population>4773119</population>
+      <superficie>51100</superficie>
+      <religions>
+         <religion pourcentage="76.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="14.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>NIC</frontière>
+         <frontière>PA</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Panama</pays>
+      <capital>cty-Panama-Panama-City</capital>
+      <population>3405813</population>
+      <superficie>78200</superficie>
+      <religions>
+         <religion pourcentage="63.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="26.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CR</frontière>
+         <frontière>CO</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bahamas</pays>
+      <capital>cty-Bahamas-Nassau</capital>
+      <population>353658</population>
+      <superficie>13940</superficie>
+      <religions>
+         <religion pourcentage="69.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="12">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Nassau</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Turks and Caicos Islands</pays>
+      <capital>city-Grand-Turk-TUCA-TUCA</capital>
+      <population>53700</population>
+      <superficie>430</superficie>
+      <religions>
+         <religion pourcentage="72.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="11.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Grand Turk</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Cayman Islands</pays>
+      <capital>city-George-Town-CAYM-CAYM</capital>
+      <population>61944</population>
+      <superficie>262</superficie>
+      <religions>
+         <religion pourcentage="67.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="14.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>George Town</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Cuba</pays>
+      <capital>cty-Cuba-Havana</capital>
+      <population>11167325</population>
+      <superficie>110860</superficie>
+      <religions>
+         <religion pourcentage="60">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Jamaica</pays>
+      <capital>cty-Jamaica-Kingston</capital>
+      <population>2697983</population>
+      <superficie>10991</superficie>
+      <religions>
+         <religion pourcentage="64.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Rastafarian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kingston</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Haiti</pays>
+      <capital>cty-Haiti-Port-au-Prince</capital>
+      <population>10788000</population>
+      <superficie>27750</superficie>
+      <religions>
+         <religion pourcentage="54.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="28.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2.1">
+            <h3>Voodoo</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Port-au-Prince</ville>
+         <ville>Carrefour</ville>
+         <ville>Delmas</ville>
+         <ville>Pétion-Ville</ville>
+         <ville>Cité Soleil</ville>
+         <ville>Gonaïves</ville>
+         <ville>Cap-Haïtien</ville>
+      </villes>
+      <frontières>
+         <frontière>DOM</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Dominican Republic</pays>
+      <capital>cty-Dominican-Republic-Santo-Domingo</capital>
+      <population>9445281</population>
+      <superficie>48730</superficie>
+      <religions>
+         <religion pourcentage="57">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="23">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Buddhist</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Bahai</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Santo Domingo</ville>
+         <ville>Santiago</ville>
+         <ville>Puerto Plata</ville>
+      </villes>
+      <frontières>
+         <frontière>RH</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Puerto Rico</pays>
+      <capital>city-San-Juan-PR-PR</capital>
+      <population>3725789</population>
+      <superficie>8870</superficie>
+      <religions>
+         <religion pourcentage="69.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="25.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>San Juan</ville>
+         <ville>Ponce</ville>
+         <ville>Bayamón</ville>
+         <ville>Carolina</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Virgin Islands</pays>
+      <capital>cty-VIRG-Charlotte-Amalie</capital>
+      <population>106405</population>
+      <superficie>346</superficie>
+      <religions>
+         <religion pourcentage="65.5">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="27.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Charlotte Amalie</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>British Virgin Islands</pays>
+      <capital>city-BVI-Road-Town</capital>
+      <population>28054</population>
+      <superficie>153</superficie>
+      <religions>
+         <religion pourcentage="70.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="8.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.5">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.6">
+            <h3>Rastafarian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Road Town</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Anguilla</pays>
+      <capital>city-The-Valley-AXA-AXA</capital>
+      <population>13452</population>
+      <superficie>102</superficie>
+      <religions>
+         <religion pourcentage="73.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="6.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>The Valley</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Saint Martin</pays>
+      <capital>city-Marigot-SMAR</capital>
+      <population>36286</population>
+      <superficie>54</superficie>
+      <religions></religions>
+      <villes>
+         <ville>Marigot</ville>
+      </villes>
+      <frontières>
+         <frontière>SX</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Sint Maarten</pays>
+      <capital>city-Philipsburg-SX</capital>
+      <population>40535</population>
+      <superficie>34</superficie>
+      <religions>
+         <religion pourcentage="43.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="33.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5.2">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="3.4">
+            <h3>Jewish</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Philipsburg</ville>
+      </villes>
+      <frontières>
+         <frontière>SMAR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Saint Barthelemy</pays>
+      <capital>city-Gustavia-SBAR</capital>
+      <population>9131</population>
+      <superficie>21</superficie>
+      <religions></religions>
+      <villes>
+         <ville>Gustavia</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Saint Kitts and Nevis</pays>
+      <capital>cty-Saint-Kitts-and-Nevis-Basseterre</capital>
+      <population>46398</population>
+      <superficie>269</superficie>
+      <religions>
+         <religion pourcentage="74.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="6.7">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.6">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Basseterre</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Antigua and Barbuda</pays>
+      <capital>cty-Antigua-and-Barbuda-Saint-Johns</capital>
+      <population>81799</population>
+      <superficie>442</superficie>
+      <religions>
+         <religion pourcentage="68.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="8.2">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Muslim</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>St. John's</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Montserrat</pays>
+      <capital>city-Plymouth-MNTS-MNTS</capital>
+      <population>4922</population>
+      <superficie>102</superficie>
+      <religions>
+         <religion pourcentage="67.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="11.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Plymouth</ville>
+         <ville>Brades</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Guadeloupe</pays>
+      <capital>cty-GUAD-Basse-Terre</capital>
+      <population>394110</population>
+      <superficie>1628</superficie>
+      <religions>
+         <religion pourcentage="94">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Basse-Terre</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Dominica</pays>
+      <capital>cty-Dominica-Roseau</capital>
+      <population>70739</population>
+      <superficie>746</superficie>
+      <religions>
+         <religion pourcentage="61.4">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="28.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Roseau</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Martinique</pays>
+      <capital>cty-MART-Fort-de-France</capital>
+      <population>385551</population>
+      <superficie>1128</superficie>
+      <religions>
+         <religion pourcentage="86">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="5.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Fort-de-France</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Saint Lucia</pays>
+      <capital>cty-Saint-Lucia-Castries</capital>
+      <population>165595</population>
+      <superficie>620</superficie>
+      <religions>
+         <religion pourcentage="61.5">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="27.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.9">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Castries</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Barbados</pays>
+      <capital>cty-Barbados-Bridgetown</capital>
+      <population>277821</population>
+      <superficie>430</superficie>
+      <religions>
+         <religion pourcentage="66.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="3.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="2.0">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Bridgetown</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Saint Vincent and the Grenadines</pays>
+      <capital>cty-Saint-Vincent-and-the-Grenadines-Kingstown</capital>
+      <population>109991</population>
+      <superficie>389</superficie>
+      <religions>
+         <religion pourcentage="6.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="75">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="0.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kingstown</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Grenada</pays>
+      <capital>cty-Grenada-Saint-Georges</capital>
+      <population>103328</population>
+      <superficie>344</superficie>
+      <religions>
+         <religion pourcentage="36">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="49.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.1">
+            <h3>Rastafarian</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Hindu</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Saint George's</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Trinidad and Tobago</pays>
+      <capital>cty-Trinidad-and-Tobago-Port-of-Spain</capital>
+      <population>1328019</population>
+      <superficie>5130</superficie>
+      <religions>
+         <religion pourcentage="32.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="21.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="18.2">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="5">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.5">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Bahai</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Rastafarian</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Port-of-Spain</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Bonaire</pays>
+      <capital>city-Kralendijk-NLB</capital>
+      <population>20104</population>
+      <superficie>294</superficie>
+      <religions>
+         <religion pourcentage="68">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="16">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Kralendijk</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Curacao</pays>
+      <capital>city-Willemstad-CUR</capital>
+      <population>150563</population>
+      <superficie>444</superficie>
+      <religions>
+         <religion pourcentage="72.8">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="14.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Willemstad</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Aruba</pays>
+      <capital>city-Oranjestad-ARU-ARU</capital>
+      <population>101484</population>
+      <superficie>193</superficie>
+      <religions>
+         <religion pourcentage="75.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="4.9">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.7">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Oranjestad</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+   <country>
+      <pays>Venezuela</pays>
+      <capital>cty-Venezuela-Caracas</capital>
+      <population>28946101</population>
+      <superficie>912050</superficie>
+      <religions>
+         <religion pourcentage="71">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="17">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.4">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.2">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CO</frontière>
+         <frontière>BR</frontière>
+         <frontière>GUY</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Guyana</pays>
+      <capital>cty-Guyana-Georgetown</capital>
+      <population>747884</population>
+      <superficie>214970</superficie>
+      <religions>
+         <religion pourcentage="34.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="24.8">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="7.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.3">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Georgetown</ville>
+      </villes>
+      <frontières>
+         <frontière>BR</frontière>
+         <frontière>SME</frontière>
+         <frontière>YV</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Suriname</pays>
+      <capital>cty-Suriname-Paramaribo</capital>
+      <population>541638</population>
+      <superficie>163270</superficie>
+      <religions>
+         <religion pourcentage="13.8">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="21.6">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="23.6">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="22.3">
+            <h3>Hindu</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Paramaribo</ville>
+      </villes>
+      <frontières>
+         <frontière>BR</frontière>
+         <frontière>FGU</frontière>
+         <frontière>GUY</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>French Guiana</pays>
+      <capital>cty-French-Guiana-Cayenne</capital>
+      <population>268700</population>
+      <superficie>83534</superficie>
+      <religions>
+         <religion pourcentage="76">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="8">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Cayenne</ville>
+      </villes>
+      <frontières>
+         <frontière>BR</frontière>
+         <frontière>SME</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Colombia</pays>
+      <capital>cty-Colombia-Bogota</capital>
+      <population>47661787</population>
+      <superficie>1138910</superficie>
+      <religions>
+         <religion pourcentage="79">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="16.7">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.8">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>PA</frontière>
+         <frontière>BR</frontière>
+         <frontière>PE</frontière>
+         <frontière>YV</frontière>
+         <frontière>EC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Ecuador</pays>
+      <capital>cty-Ecuador-Quito</capital>
+      <population>14483499</population>
+      <superficie>283560</superficie>
+      <religions>
+         <religion pourcentage="74">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="10.4">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.4">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Quito</ville>
+         <ville>Guayaquil</ville>
+         <ville>Cuenca</ville>
+         <ville>Santo Domingo de los Colorados</ville>
+      </villes>
+      <frontières>
+         <frontière>CO</frontière>
+         <frontière>PE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Peru</pays>
+      <capital>cty-Peru-Lima</capital>
+      <population>30135875</population>
+      <superficie>1285220</superficie>
+      <religions>
+         <religion pourcentage="76">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="17.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.75">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Mormon</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CO</frontière>
+         <frontière>BOL</frontière>
+         <frontière>BR</frontière>
+         <frontière>RCH</frontière>
+         <frontière>EC</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Bolivia</pays>
+      <capital>cty-BOL-1</capital>
+      <population>10027262</population>
+      <superficie>1098580</superficie>
+      <religions>
+         <religion pourcentage="73">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="20">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RA</frontière>
+         <frontière>BR</frontière>
+         <frontière>RCH</frontière>
+         <frontière>PY</frontière>
+         <frontière>PE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Chile</pays>
+      <capital>cty-Chile-13</capital>
+      <population>16341929</population>
+      <superficie>756950</superficie>
+      <religions>
+         <religion pourcentage="55">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="18">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="1.0">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>RA</frontière>
+         <frontière>BOL</frontière>
+         <frontière>PE</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Argentina</pays>
+      <capital>cty-Argentina-Buenos-Aires</capital>
+      <population>42669500</population>
+      <superficie>2766890</superficie>
+      <religions>
+         <religion pourcentage="62.9">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="15.3">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="2">
+            <h3>Muslim</h3>
+         </religion>
+         <religion pourcentage="1.2">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.9">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>BOL</frontière>
+         <frontière>BR</frontière>
+         <frontière>RCH</frontière>
+         <frontière>PY</frontière>
+         <frontière>ROU</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Paraguay</pays>
+      <capital>cty-Paraguay-Asuncion</capital>
+      <population>6672631</population>
+      <superficie>406750</superficie>
+      <religions>
+         <religion pourcentage="88.3">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="6.8">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.24">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.3">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Asunción</ville>
+         <ville>Ciudad del Este</ville>
+      </villes>
+      <frontières>
+         <frontière>RA</frontière>
+         <frontière>BOL</frontière>
+         <frontière>BR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Uruguay</pays>
+      <capital>cty-Uruguay-Montevideo</capital>
+      <population>3286314</population>
+      <superficie>176220</superficie>
+      <religions>
+         <religion pourcentage="47.1">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="11.1">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.5">
+            <h3>Jewish</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Montevideo</ville>
+         <ville>Salto</ville>
+      </villes>
+      <frontières>
+         <frontière>RA</frontière>
+         <frontière>BR</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Brazil</pays>
+      <capital>cty-Brazil-Brasilia</capital>
+      <population>202768562</population>
+      <superficie>8511965</superficie>
+      <religions>
+         <religion pourcentage="65">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="22.2">
+            <h3>Protestant</h3>
+         </religion>
+         <religion pourcentage="0.7">
+            <h3>Jehovas Witnesses</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Mormon</h3>
+         </religion>
+         <religion pourcentage="0.1">
+            <h3>Buddhist</h3>
+         </religion>
+      </religions>
+      <villes></villes>
+      <frontières>
+         <frontière>CO</frontière>
+         <frontière>RA</frontière>
+         <frontière>BOL</frontière>
+         <frontière>PY</frontière>
+         <frontière>ROU</frontière>
+         <frontière>PE</frontière>
+         <frontière>FGU</frontière>
+         <frontière>GUY</frontière>
+         <frontière>SME</frontière>
+         <frontière>YV</frontière>
+      </frontières>
+   </country>
+   <country>
+      <pays>Falkland Islands</pays>
+      <capital>city-Stanley-FALK-FALK</capital>
+      <population>3398</population>
+      <superficie>12173</superficie>
+      <religions>
+         <religion pourcentage="10">
+            <h3>Catholic</h3>
+         </religion>
+         <religion pourcentage="47">
+            <h3>Protestant</h3>
+         </religion>
+      </religions>
+      <villes>
+         <ville>Stanley</ville>
+      </villes>
+      <frontières></frontières>
+   </country>
+</mondial>

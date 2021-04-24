@@ -1,0 +1,42 @@
+a) db.countries.find().count()
+
+b) db. countries.aggregate(
+   {
+        $project: { 
+            count: { $size:"$vile" }
+        }
+   }
+);
+
+
+c) db.countries.aggregate(
+	{ $match: {
+      		  continent: { $eq: ‘africain’ }}
+	 },
+	{ $group: { 
+		_id : null, 
+		sum : { $sum: "$superficie" } }
+	 }
+);
+
+
+d) db.countries.aggregate(
+	{ $match: {
+      		  continent: { $eq: ‘africain’ }}
+	 },
+	{ $group: { 
+		_id : null, 
+		sum : { $sum: "$population" } }
+	 }
+);
+
+
+e) db.countries.aggregate(
+	{ $match: {
+      		  continent: { $eq: ‘africain’ }}
+	 },
+	{ $group: { 
+		_id : null, 
+		sum : { $sum: "$religions.muslim" } }
+	 }
+);
